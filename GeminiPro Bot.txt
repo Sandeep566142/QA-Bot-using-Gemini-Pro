@@ -7,7 +7,7 @@ print("Public endpoint IP for localtunnel is:", urllib.request.urlopen('https://
 
 
 
-from pyngrok import ngrok
+#from pyngrok import ngrok
 import streamlit as st
 import os
 import google.generativeai as genai
