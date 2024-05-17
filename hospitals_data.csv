@@ -1,0 +1,1001 @@
+Hospital Name,City,State,Nearest Airport 1,Distance to Airport 1 (miles),Nearest Airport 2,Distance to Airport 2 (miles),Nearest Airport 3,Distance to Airport 3 (miles)
+St. Mary's Hospital,Atlanta,GA,ATL,32.7,PBI,47.7,BHM,38.0
+Lakeside Medical Center,Washington,DC,DCA,46.6,IAD,44.9,BWI,21.1
+Urban Health Clinic,Atlanta,GA,ATL,4.7,PBI,36.1,BHM,0.5
+Community Hospital,Los Angeles,CA,LAX,24.4,BUR,11.8,LGB,19.7
+Northeast Medical Center,Miami,FL,MIA,45.8,FLL,19.3,PBI,32.2
+Harbor Hospital,New York,NY,JFK,44.2,LGA,15.5,EWR,47.6
+City Medical Center,Washington,DC,DCA,37.8,IAD,41.0,BWI,21.4
+Green Valley Hospital,Seattle,WA,SEA,42.1,PAE,48.7,BFI,1.1
+City Medical Center,Chicago,IL,ORD,1.0,MDW,41.4,RFD,16.3
+Memorial Hospital,Miami,FL,MIA,24.9,FLL,6.7,PBI,30.4
+Urban Health Clinic,Seattle,WA,SEA,14.1,PAE,8.0,BFI,35.7
+Coastal Health Center,Phoenix,AZ,PHX,40.9,AZA,30.9,SDL,9.1
+Main Street Medical Center,Miami,FL,MIA,44.3,FLL,27.2,PBI,17.3
+Mountain View Hospital,Los Angeles,CA,LAX,21.9,BUR,12.7,LGB,48.4
+Eastside Medical Center,Atlanta,GA,ATL,17.5,PBI,15.4,BHM,5.4
+Pine Valley Hospital,Miami,FL,MIA,41.5,FLL,28.2,PBI,41.7
+Main Street Medical Center,St. Louis,MO,STL,13.7,CPS,46.5,BLV,38.9
+Northeast Medical Center,Seattle,WA,SEA,16.0,PAE,30.7,BFI,7.3
+Downtown Medical Center,Miami,FL,MIA,3.3,FLL,44.2,PBI,20.2
+Central Clinic,Seattle,WA,SEA,2.7,PAE,48.5,BFI,16.6
+Green Valley Hospital,Atlanta,GA,ATL,42.5,PBI,27.6,BHM,36.7
+Pine Valley Hospital,New York,NY,JFK,27.3,LGA,48.3,EWR,44.5
+Harbor Hospital,New York,NY,JFK,16.9,LGA,8.1,EWR,16.3
+Mountain View Hospital,San Francisco,CA,SFO,24.9,OAK,33.6,SJC,30.6
+Main Street Medical Center,New York,NY,JFK,47.6,LGA,26.7,EWR,20.6
+Northeast Medical Center,San Francisco,CA,SFO,22.2,OAK,44.1,SJC,18.0
+St. Mary's Hospital,San Francisco,CA,SFO,34.5,OAK,23.7,SJC,6.4
+Coastal Health Center,Los Angeles,CA,LAX,18.6,BUR,40.7,LGB,36.0
+Sunrise Hospital,Chicago,IL,ORD,28.9,MDW,24.0,RFD,42.6
+West End Hospital,Washington,DC,DCA,27.6,IAD,29.1,BWI,40.0
+Eastside Medical Center,Chicago,IL,ORD,41.2,MDW,32.8,RFD,29.1
+Pine Valley Hospital,Washington,DC,DCA,32.2,IAD,42.3,BWI,47.6
+Eastside Medical Center,Chicago,IL,ORD,4.7,MDW,42.5,RFD,11.7
+Mountain View Hospital,Miami,FL,MIA,20.5,FLL,17.1,PBI,35.2
+Northeast Medical Center,San Francisco,CA,SFO,12.6,OAK,20.1,SJC,4.3
+Coastal Health Center,Atlanta,GA,ATL,11.7,PBI,20.8,BHM,34.0
+Valley Health Center,Phoenix,AZ,PHX,20.6,AZA,48.5,SDL,25.6
+Riverfront Medical Center,San Francisco,CA,SFO,29.2,OAK,33.5,SJC,17.9
+Urban Health Clinic,Phoenix,AZ,PHX,33.5,AZA,44.0,SDL,1.0
+Lakeside Medical Center,San Francisco,CA,SFO,17.7,OAK,46.2,SJC,10.1
+General Hospital,St. Louis,MO,STL,9.6,CPS,19.0,BLV,18.2
+Mountain View Hospital,Seattle,WA,SEA,1.1,PAE,22.7,BFI,47.7
+Lakeside Medical Center,Los Angeles,CA,LAX,33.0,BUR,18.4,LGB,19.7
+Southern Health Clinic,Chicago,IL,ORD,12.6,MDW,25.4,RFD,2.8
+West End Hospital,Chicago,IL,ORD,35.2,MDW,11.6,RFD,16.6
+Sunrise Hospital,Miami,FL,MIA,26.4,FLL,16.3,PBI,26.7
+Northeast Medical Center,San Francisco,CA,SFO,5.6,OAK,34.7,SJC,45.5
+Pine Valley Hospital,Washington,DC,DCA,2.7,IAD,12.8,BWI,16.0
+Central Clinic,Chicago,IL,ORD,40.6,MDW,46.3,RFD,44.7
+Coastal Health Center,Washington,DC,DCA,48.6,IAD,40.7,BWI,14.8
+Lakeside Medical Center,New York,NY,JFK,42.5,LGA,43.5,EWR,3.6
+Main Street Medical Center,Washington,DC,DCA,32.4,IAD,6.1,BWI,18.0
+City Medical Center,Washington,DC,DCA,9.2,IAD,2.2,BWI,17.5
+Urban Health Clinic,New York,NY,JFK,41.0,LGA,25.3,EWR,11.5
+Downtown Medical Center,Miami,FL,MIA,25.6,FLL,5.6,PBI,33.3
+Pine Valley Hospital,New York,NY,JFK,1.4,LGA,39.7,EWR,46.7
+Memorial Hospital,St. Louis,MO,STL,18.2,CPS,9.8,BLV,4.1
+Valley Health Center,Washington,DC,DCA,17.4,IAD,12.3,BWI,47.1
+Northside Hospital,Atlanta,GA,ATL,12.5,PBI,22.8,BHM,12.5
+Mountain View Hospital,St. Louis,MO,STL,18.2,CPS,3.8,BLV,18.6
+Downtown Medical Center,Chicago,IL,ORD,44.2,MDW,23.7,RFD,3.6
+Lakeside Medical Center,St. Louis,MO,STL,39.4,CPS,36.8,BLV,35.2
+Central Clinic,Washington,DC,DCA,26.6,IAD,4.9,BWI,18.7
+Northside Hospital,San Francisco,CA,SFO,49.7,OAK,35.3,SJC,27.9
+Northside Hospital,St. Louis,MO,STL,17.4,CPS,13.7,BLV,39.0
+Northside Hospital,Atlanta,GA,ATL,26.7,PBI,45.8,BHM,29.3
+Riverfront Medical Center,Miami,FL,MIA,19.0,FLL,27.9,PBI,43.6
+Sunrise Hospital,Washington,DC,DCA,45.2,IAD,12.0,BWI,10.6
+Central Clinic,Seattle,WA,SEA,24.3,PAE,2.6,BFI,48.3
+City Medical Center,Los Angeles,CA,LAX,42.9,BUR,2.5,LGB,27.8
+Pine Valley Hospital,New York,NY,JFK,24.8,LGA,24.9,EWR,43.4
+Eastside Medical Center,Los Angeles,CA,LAX,32.9,BUR,41.9,LGB,13.1
+Coastal Health Center,Seattle,WA,SEA,21.8,PAE,24.7,BFI,39.6
+Northside Hospital,Atlanta,GA,ATL,23.2,PBI,1.4,BHM,45.0
+Valley Health Center,Los Angeles,CA,LAX,19.8,BUR,41.7,LGB,23.4
+Main Street Medical Center,Chicago,IL,ORD,10.3,MDW,13.8,RFD,17.8
+St. Mary's Hospital,Los Angeles,CA,LAX,28.7,BUR,35.1,LGB,47.7
+Sunrise Hospital,Washington,DC,DCA,24.4,IAD,36.0,BWI,35.1
+Riverfront Medical Center,Miami,FL,MIA,8.6,FLL,13.2,PBI,6.6
+Pine Valley Hospital,Atlanta,GA,ATL,18.3,PBI,6.6,BHM,27.9
+Downtown Medical Center,New York,NY,JFK,24.7,LGA,15.5,EWR,1.3
+West End Hospital,Atlanta,GA,ATL,46.0,PBI,47.7,BHM,22.8
+West End Hospital,Atlanta,GA,ATL,26.2,PBI,36.3,BHM,5.6
+Urban Health Clinic,New York,NY,JFK,22.1,LGA,34.6,EWR,4.8
+Pine Valley Hospital,Phoenix,AZ,PHX,27.5,AZA,18.2,SDL,26.3
+Northeast Medical Center,St. Louis,MO,STL,10.6,CPS,15.2,BLV,34.5
+Regional Medical Center,Phoenix,AZ,PHX,9.0,AZA,19.6,SDL,14.5
+Coastal Health Center,San Francisco,CA,SFO,35.4,OAK,37.1,SJC,34.1
+Lakeside Medical Center,Los Angeles,CA,LAX,46.7,BUR,21.1,LGB,26.3
+Community Hospital,Phoenix,AZ,PHX,1.6,AZA,43.3,SDL,30.7
+Sunrise Hospital,Los Angeles,CA,LAX,38.5,BUR,31.1,LGB,22.9
+Southern Health Clinic,St. Louis,MO,STL,31.1,CPS,0.6,BLV,42.4
+City Health Clinic,Phoenix,AZ,PHX,43.7,AZA,46.3,SDL,14.7
+St. Mary's Hospital,Miami,FL,MIA,9.0,FLL,8.4,PBI,48.6
+Central Clinic,Los Angeles,CA,LAX,4.1,BUR,10.3,LGB,41.6
+Green Valley Hospital,New York,NY,JFK,32.5,LGA,46.9,EWR,31.3
+West End Hospital,St. Louis,MO,STL,29.3,CPS,38.2,BLV,15.6
+Community Hospital,Seattle,WA,SEA,21.5,PAE,26.9,BFI,37.3
+Lakeside Medical Center,Phoenix,AZ,PHX,41.1,AZA,5.2,SDL,23.6
+Valley Health Center,San Francisco,CA,SFO,25.3,OAK,16.4,SJC,21.7
+Valley Health Center,New York,NY,JFK,1.1,LGA,5.4,EWR,8.4
+Memorial Hospital,Washington,DC,DCA,36.9,IAD,1.0,BWI,7.9
+General Hospital,St. Louis,MO,STL,12.2,CPS,30.1,BLV,41.9
+Lakeside Medical Center,Seattle,WA,SEA,38.3,PAE,48.1,BFI,22.3
+Coastal Health Center,Washington,DC,DCA,25.9,IAD,6.8,BWI,30.7
+Sunrise Hospital,St. Louis,MO,STL,0.9,CPS,4.5,BLV,19.5
+Central Clinic,Los Angeles,CA,LAX,23.0,BUR,38.4,LGB,20.9
+Mountain View Hospital,Los Angeles,CA,LAX,22.7,BUR,11.0,LGB,36.1
+Eastside Medical Center,Atlanta,GA,ATL,45.9,PBI,7.1,BHM,46.4
+City Health Clinic,Chicago,IL,ORD,13.7,MDW,7.5,RFD,12.3
+Lakeside Medical Center,Phoenix,AZ,PHX,18.3,AZA,20.2,SDL,30.7
+Valley Health Center,Los Angeles,CA,LAX,21.4,BUR,15.6,LGB,26.4
+Southern Health Clinic,Washington,DC,DCA,36.8,IAD,3.4,BWI,15.6
+Green Valley Hospital,San Francisco,CA,SFO,20.6,OAK,3.9,SJC,28.5
+Downtown Medical Center,St. Louis,MO,STL,9.8,CPS,29.1,BLV,48.9
+Southern Health Clinic,Phoenix,AZ,PHX,24.3,AZA,19.5,SDL,21.9
+Urban Health Clinic,St. Louis,MO,STL,33.2,CPS,10.0,BLV,30.9
+Harbor Hospital,Miami,FL,MIA,40.0,FLL,40.2,PBI,38.4
+Central Clinic,St. Louis,MO,STL,19.5,CPS,8.5,BLV,36.9
+City Health Clinic,San Francisco,CA,SFO,30.9,OAK,38.6,SJC,31.2
+City Medical Center,Chicago,IL,ORD,23.2,MDW,9.7,RFD,8.3
+Northside Hospital,Atlanta,GA,ATL,35.6,PBI,8.8,BHM,8.5
+Downtown Medical Center,St. Louis,MO,STL,28.9,CPS,38.6,BLV,19.9
+Memorial Hospital,New York,NY,JFK,7.3,LGA,20.3,EWR,5.9
+Urban Health Clinic,Chicago,IL,ORD,33.8,MDW,24.5,RFD,12.0
+Sunrise Hospital,Atlanta,GA,ATL,5.7,PBI,9.6,BHM,43.3
+Riverfront Medical Center,St. Louis,MO,STL,6.8,CPS,24.5,BLV,11.6
+Northside Hospital,St. Louis,MO,STL,6.5,CPS,30.8,BLV,28.3
+Green Valley Hospital,St. Louis,MO,STL,46.3,CPS,42.4,BLV,36.5
+Southern Health Clinic,Miami,FL,MIA,24.5,FLL,29.5,PBI,3.5
+Mountain View Hospital,New York,NY,JFK,25.4,LGA,18.4,EWR,49.8
+Pine Valley Hospital,Los Angeles,CA,LAX,3.8,BUR,27.2,LGB,47.6
+Central Clinic,Los Angeles,CA,LAX,18.3,BUR,21.3,LGB,14.5
+Northeast Medical Center,St. Louis,MO,STL,33.1,CPS,5.6,BLV,33.6
+Mountain View Hospital,St. Louis,MO,STL,5.4,CPS,26.3,BLV,1.5
+General Hospital,Chicago,IL,ORD,45.2,MDW,29.3,RFD,22.0
+Memorial Hospital,Chicago,IL,ORD,1.4,MDW,18.4,RFD,13.1
+General Hospital,St. Louis,MO,STL,12.1,CPS,3.4,BLV,30.1
+Memorial Hospital,San Francisco,CA,SFO,19.2,OAK,17.2,SJC,2.6
+Urban Health Clinic,Los Angeles,CA,LAX,32.4,BUR,38.5,LGB,12.5
+General Hospital,Washington,DC,DCA,13.4,IAD,47.6,BWI,6.0
+Urban Health Clinic,St. Louis,MO,STL,30.2,CPS,40.1,BLV,37.0
+Mountain View Hospital,Los Angeles,CA,LAX,40.9,BUR,16.4,LGB,36.4
+St. Mary's Hospital,New York,NY,JFK,12.7,LGA,42.6,EWR,27.4
+Riverfront Medical Center,Washington,DC,DCA,2.5,IAD,9.3,BWI,47.5
+Memorial Hospital,Miami,FL,MIA,20.0,FLL,41.7,PBI,32.9
+City Health Clinic,Miami,FL,MIA,36.1,FLL,40.6,PBI,11.5
+Memorial Hospital,Atlanta,GA,ATL,3.5,PBI,21.1,BHM,13.0
+Sunrise Hospital,St. Louis,MO,STL,39.4,CPS,38.0,BLV,33.2
+General Hospital,Washington,DC,DCA,19.3,IAD,28.3,BWI,49.7
+Northeast Medical Center,Chicago,IL,ORD,12.6,MDW,19.6,RFD,24.4
+Northeast Medical Center,San Francisco,CA,SFO,19.1,OAK,25.7,SJC,25.4
+Lakeside Medical Center,Atlanta,GA,ATL,26.9,PBI,28.7,BHM,38.9
+City Health Clinic,Los Angeles,CA,LAX,48.8,BUR,17.9,LGB,34.6
+Harbor Hospital,Atlanta,GA,ATL,13.6,PBI,17.7,BHM,36.7
+Sunrise Hospital,Seattle,WA,SEA,35.7,PAE,23.7,BFI,2.6
+Southern Health Clinic,Phoenix,AZ,PHX,20.5,AZA,19.8,SDL,17.7
+Urban Health Clinic,Seattle,WA,SEA,49.7,PAE,19.4,BFI,35.0
+Valley Health Center,Chicago,IL,ORD,47.9,MDW,30.7,RFD,18.7
+St. Mary's Hospital,Seattle,WA,SEA,32.7,PAE,22.0,BFI,39.5
+Riverfront Medical Center,Washington,DC,DCA,32.6,IAD,14.4,BWI,12.7
+Urban Health Clinic,Los Angeles,CA,LAX,9.4,BUR,44.0,LGB,46.7
+Sunrise Hospital,New York,NY,JFK,41.7,LGA,6.9,EWR,34.5
+Central Clinic,St. Louis,MO,STL,13.8,CPS,40.2,BLV,32.9
+Downtown Medical Center,Washington,DC,DCA,40.0,IAD,7.3,BWI,48.0
+Lakeside Medical Center,Atlanta,GA,ATL,35.4,PBI,1.8,BHM,0.6
+Green Valley Hospital,Washington,DC,DCA,23.8,IAD,39.9,BWI,15.5
+Main Street Medical Center,Chicago,IL,ORD,24.8,MDW,17.4,RFD,34.4
+Northeast Medical Center,Chicago,IL,ORD,45.8,MDW,18.9,RFD,9.8
+Sunrise Hospital,Seattle,WA,SEA,19.1,PAE,17.2,BFI,32.1
+Central Clinic,New York,NY,JFK,37.6,LGA,39.8,EWR,12.6
+City Medical Center,Washington,DC,DCA,24.8,IAD,23.9,BWI,3.2
+City Medical Center,San Francisco,CA,SFO,22.6,OAK,19.1,SJC,15.0
+Urban Health Clinic,St. Louis,MO,STL,22.0,CPS,37.2,BLV,38.8
+Urban Health Clinic,Seattle,WA,SEA,15.7,PAE,45.6,BFI,2.4
+Coastal Health Center,Washington,DC,DCA,33.3,IAD,28.9,BWI,34.1
+Mountain View Hospital,Phoenix,AZ,PHX,43.7,AZA,42.2,SDL,33.9
+Eastside Medical Center,Chicago,IL,ORD,41.1,MDW,43.7,RFD,33.8
+City Health Clinic,Phoenix,AZ,PHX,6.4,AZA,21.9,SDL,4.7
+Urban Health Clinic,Phoenix,AZ,PHX,46.6,AZA,15.8,SDL,13.9
+St. Mary's Hospital,San Francisco,CA,SFO,29.6,OAK,4.2,SJC,16.3
+Community Hospital,Seattle,WA,SEA,17.3,PAE,18.2,BFI,24.5
+Urban Health Clinic,Miami,FL,MIA,4.9,FLL,42.8,PBI,12.3
+Downtown Medical Center,Atlanta,GA,ATL,40.0,PBI,39.1,BHM,40.7
+Southern Health Clinic,New York,NY,JFK,24.3,LGA,16.1,EWR,35.3
+Central Clinic,New York,NY,JFK,38.0,LGA,24.9,EWR,42.6
+Eastside Medical Center,Miami,FL,MIA,48.4,FLL,34.4,PBI,49.3
+Harbor Hospital,Seattle,WA,SEA,2.4,PAE,1.5,BFI,17.5
+Northeast Medical Center,San Francisco,CA,SFO,4.6,OAK,24.8,SJC,34.9
+Valley Health Center,Chicago,IL,ORD,46.4,MDW,5.8,RFD,32.8
+Valley Health Center,Los Angeles,CA,LAX,35.1,BUR,18.5,LGB,45.4
+Regional Medical Center,Los Angeles,CA,LAX,21.5,BUR,31.3,LGB,1.5
+Mountain View Hospital,Seattle,WA,SEA,7.4,PAE,46.9,BFI,27.2
+Downtown Medical Center,Chicago,IL,ORD,26.8,MDW,16.6,RFD,47.7
+Sunrise Hospital,Miami,FL,MIA,20.0,FLL,14.1,PBI,46.5
+Memorial Hospital,Atlanta,GA,ATL,28.7,PBI,5.8,BHM,25.4
+Lakeside Medical Center,St. Louis,MO,STL,3.7,CPS,49.7,BLV,23.0
+Central Clinic,Los Angeles,CA,LAX,32.1,BUR,18.7,LGB,28.3
+General Hospital,Miami,FL,MIA,24.4,FLL,16.9,PBI,12.5
+Northside Hospital,St. Louis,MO,STL,16.0,CPS,13.6,BLV,17.8
+Pine Valley Hospital,Atlanta,GA,ATL,11.3,PBI,35.4,BHM,19.5
+City Medical Center,Seattle,WA,SEA,25.7,PAE,13.7,BFI,43.5
+Eastside Medical Center,St. Louis,MO,STL,36.7,CPS,44.0,BLV,8.4
+Valley Health Center,St. Louis,MO,STL,5.6,CPS,38.4,BLV,16.1
+Mountain View Hospital,Washington,DC,DCA,35.2,IAD,11.5,BWI,5.3
+City Health Clinic,San Francisco,CA,SFO,4.4,OAK,21.5,SJC,14.5
+Southern Health Clinic,Washington,DC,DCA,22.4,IAD,48.4,BWI,19.4
+Southern Health Clinic,Phoenix,AZ,PHX,7.0,AZA,2.5,SDL,41.7
+Valley Health Center,Miami,FL,MIA,38.6,FLL,27.6,PBI,31.8
+Riverfront Medical Center,New York,NY,JFK,41.0,LGA,18.1,EWR,36.8
+City Medical Center,Miami,FL,MIA,25.6,FLL,19.1,PBI,43.4
+General Hospital,Los Angeles,CA,LAX,7.8,BUR,4.3,LGB,42.9
+Southern Health Clinic,Miami,FL,MIA,33.3,FLL,26.3,PBI,34.9
+Valley Health Center,Chicago,IL,ORD,26.3,MDW,38.9,RFD,33.0
+Valley Health Center,Chicago,IL,ORD,17.3,MDW,14.0,RFD,9.2
+Sunrise Hospital,Phoenix,AZ,PHX,9.0,AZA,22.9,SDL,30.5
+General Hospital,Chicago,IL,ORD,19.7,MDW,3.2,RFD,25.3
+West End Hospital,New York,NY,JFK,33.4,LGA,16.6,EWR,33.0
+West End Hospital,Phoenix,AZ,PHX,3.3,AZA,5.8,SDL,22.6
+Regional Medical Center,San Francisco,CA,SFO,21.0,OAK,1.8,SJC,20.3
+West End Hospital,Los Angeles,CA,LAX,17.1,BUR,33.9,LGB,9.2
+Valley Health Center,Chicago,IL,ORD,41.0,MDW,37.5,RFD,14.6
+Downtown Medical Center,Miami,FL,MIA,4.9,FLL,31.4,PBI,40.0
+Pine Valley Hospital,Washington,DC,DCA,47.5,IAD,48.5,BWI,24.2
+Southern Health Clinic,Los Angeles,CA,LAX,5.5,BUR,20.7,LGB,24.9
+Community Hospital,St. Louis,MO,STL,7.7,CPS,25.1,BLV,49.5
+City Health Clinic,Miami,FL,MIA,36.5,FLL,22.2,PBI,42.2
+St. Mary's Hospital,St. Louis,MO,STL,27.2,CPS,39.6,BLV,10.7
+General Hospital,Phoenix,AZ,PHX,8.0,AZA,15.9,SDL,23.1
+Northeast Medical Center,Miami,FL,MIA,12.6,FLL,47.7,PBI,14.0
+Northeast Medical Center,Los Angeles,CA,LAX,15.4,BUR,44.6,LGB,14.0
+St. Mary's Hospital,Los Angeles,CA,LAX,41.0,BUR,33.7,LGB,11.7
+Downtown Medical Center,Chicago,IL,ORD,42.4,MDW,10.3,RFD,7.3
+Southern Health Clinic,Chicago,IL,ORD,9.6,MDW,20.6,RFD,19.2
+Sunrise Hospital,Chicago,IL,ORD,24.5,MDW,22.3,RFD,10.9
+Memorial Hospital,San Francisco,CA,SFO,43.0,OAK,43.3,SJC,35.2
+Urban Health Clinic,Miami,FL,MIA,18.9,FLL,20.9,PBI,30.9
+City Health Clinic,Los Angeles,CA,LAX,44.9,BUR,39.4,LGB,19.5
+Valley Health Center,Chicago,IL,ORD,3.5,MDW,6.7,RFD,6.4
+Main Street Medical Center,New York,NY,JFK,10.3,LGA,9.1,EWR,34.8
+Southern Health Clinic,Chicago,IL,ORD,41.7,MDW,7.5,RFD,5.2
+Community Hospital,Phoenix,AZ,PHX,9.7,AZA,16.8,SDL,40.6
+Lakeside Medical Center,Miami,FL,MIA,6.1,FLL,9.7,PBI,2.5
+Northside Hospital,San Francisco,CA,SFO,46.0,OAK,19.9,SJC,13.5
+Riverfront Medical Center,St. Louis,MO,STL,4.7,CPS,31.3,BLV,17.1
+Community Hospital,Phoenix,AZ,PHX,37.8,AZA,49.2,SDL,19.2
+Mountain View Hospital,Seattle,WA,SEA,10.0,PAE,24.5,BFI,37.2
+City Medical Center,Atlanta,GA,ATL,19.1,PBI,18.0,BHM,15.9
+City Medical Center,Phoenix,AZ,PHX,45.6,AZA,10.3,SDL,29.9
+Eastside Medical Center,Seattle,WA,SEA,9.9,PAE,45.3,BFI,38.1
+Regional Medical Center,Atlanta,GA,ATL,42.5,PBI,26.3,BHM,34.9
+Sunrise Hospital,Phoenix,AZ,PHX,0.8,AZA,38.7,SDL,40.7
+General Hospital,Miami,FL,MIA,20.0,FLL,27.9,PBI,36.3
+Downtown Medical Center,Phoenix,AZ,PHX,46.4,AZA,6.5,SDL,11.6
+Sunrise Hospital,Washington,DC,DCA,47.6,IAD,26.3,BWI,46.4
+Main Street Medical Center,Chicago,IL,ORD,17.1,MDW,12.3,RFD,6.6
+Valley Health Center,San Francisco,CA,SFO,6.6,OAK,1.6,SJC,41.3
+Northside Hospital,Seattle,WA,SEA,23.1,PAE,42.6,BFI,37.9
+Coastal Health Center,New York,NY,JFK,45.5,LGA,38.3,EWR,25.2
+City Health Clinic,New York,NY,JFK,42.6,LGA,11.8,EWR,37.1
+Urban Health Clinic,Washington,DC,DCA,3.8,IAD,24.7,BWI,17.1
+Northside Hospital,St. Louis,MO,STL,2.1,CPS,6.3,BLV,42.0
+Lakeside Medical Center,St. Louis,MO,STL,32.5,CPS,23.6,BLV,27.2
+City Health Clinic,Seattle,WA,SEA,10.0,PAE,11.7,BFI,12.9
+Riverfront Medical Center,Los Angeles,CA,LAX,20.5,BUR,8.9,LGB,7.8
+City Health Clinic,Chicago,IL,ORD,5.0,MDW,44.7,RFD,49.1
+Southern Health Clinic,Washington,DC,DCA,44.9,IAD,48.7,BWI,6.9
+Eastside Medical Center,Chicago,IL,ORD,10.2,MDW,31.6,RFD,21.1
+Sunrise Hospital,St. Louis,MO,STL,30.1,CPS,31.9,BLV,18.1
+Harbor Hospital,St. Louis,MO,STL,25.0,CPS,3.3,BLV,12.5
+Northside Hospital,Chicago,IL,ORD,28.4,MDW,31.1,RFD,32.9
+Riverfront Medical Center,Atlanta,GA,ATL,29.4,PBI,30.7,BHM,7.7
+Northeast Medical Center,Washington,DC,DCA,39.4,IAD,28.4,BWI,4.3
+Green Valley Hospital,Chicago,IL,ORD,42.5,MDW,36.1,RFD,21.7
+General Hospital,Miami,FL,MIA,43.8,FLL,26.9,PBI,32.3
+City Medical Center,Washington,DC,DCA,13.7,IAD,20.0,BWI,24.4
+Mountain View Hospital,Chicago,IL,ORD,19.3,MDW,44.8,RFD,12.0
+Harbor Hospital,St. Louis,MO,STL,20.1,CPS,9.4,BLV,45.2
+General Hospital,Washington,DC,DCA,32.8,IAD,25.1,BWI,14.5
+Southern Health Clinic,St. Louis,MO,STL,45.8,CPS,18.7,BLV,8.1
+Harbor Hospital,Los Angeles,CA,LAX,13.5,BUR,11.1,LGB,46.6
+Southern Health Clinic,Chicago,IL,ORD,41.2,MDW,12.1,RFD,7.8
+Green Valley Hospital,Chicago,IL,ORD,31.3,MDW,35.5,RFD,0.9
+City Medical Center,New York,NY,JFK,49.3,LGA,36.4,EWR,37.1
+Eastside Medical Center,Chicago,IL,ORD,42.1,MDW,33.5,RFD,30.0
+Southern Health Clinic,Seattle,WA,SEA,24.6,PAE,46.2,BFI,37.8
+General Hospital,Los Angeles,CA,LAX,13.0,BUR,43.2,LGB,34.0
+Main Street Medical Center,St. Louis,MO,STL,2.0,CPS,35.4,BLV,18.9
+Southern Health Clinic,Phoenix,AZ,PHX,43.7,AZA,16.1,SDL,13.2
+General Hospital,Phoenix,AZ,PHX,21.8,AZA,34.1,SDL,1.8
+Riverfront Medical Center,St. Louis,MO,STL,32.6,CPS,20.0,BLV,8.5
+Green Valley Hospital,Miami,FL,MIA,9.2,FLL,47.7,PBI,3.6
+Urban Health Clinic,Washington,DC,DCA,32.5,IAD,4.1,BWI,20.4
+Riverfront Medical Center,Chicago,IL,ORD,22.7,MDW,4.5,RFD,5.9
+Northeast Medical Center,Washington,DC,DCA,11.1,IAD,2.9,BWI,15.4
+Downtown Medical Center,San Francisco,CA,SFO,32.5,OAK,4.6,SJC,45.9
+General Hospital,New York,NY,JFK,8.7,LGA,49.8,EWR,38.5
+Northeast Medical Center,Washington,DC,DCA,31.1,IAD,44.2,BWI,38.9
+City Medical Center,Phoenix,AZ,PHX,16.9,AZA,23.9,SDL,43.4
+Harbor Hospital,Chicago,IL,ORD,38.0,MDW,35.6,RFD,10.2
+Southern Health Clinic,New York,NY,JFK,29.3,LGA,13.4,EWR,30.9
+City Medical Center,Los Angeles,CA,LAX,5.4,BUR,5.5,LGB,46.3
+Regional Medical Center,Miami,FL,MIA,42.0,FLL,38.6,PBI,21.3
+Coastal Health Center,Phoenix,AZ,PHX,20.8,AZA,9.1,SDL,17.0
+Riverfront Medical Center,Miami,FL,MIA,25.2,FLL,11.1,PBI,15.7
+Pine Valley Hospital,Phoenix,AZ,PHX,40.1,AZA,31.5,SDL,14.9
+Lakeside Medical Center,San Francisco,CA,SFO,41.7,OAK,6.5,SJC,1.0
+Pine Valley Hospital,New York,NY,JFK,5.2,LGA,14.8,EWR,19.1
+West End Hospital,Los Angeles,CA,LAX,14.5,BUR,18.5,LGB,40.8
+Urban Health Clinic,Washington,DC,DCA,12.8,IAD,35.2,BWI,5.6
+Riverfront Medical Center,St. Louis,MO,STL,24.8,CPS,44.0,BLV,18.8
+City Health Clinic,Los Angeles,CA,LAX,10.5,BUR,46.0,LGB,11.5
+Southern Health Clinic,Atlanta,GA,ATL,15.0,PBI,2.2,BHM,25.8
+Regional Medical Center,Seattle,WA,SEA,41.8,PAE,48.2,BFI,19.6
+City Health Clinic,St. Louis,MO,STL,16.2,CPS,11.4,BLV,38.9
+Main Street Medical Center,Atlanta,GA,ATL,20.9,PBI,24.4,BHM,43.2
+Coastal Health Center,Seattle,WA,SEA,6.3,PAE,4.0,BFI,21.4
+Main Street Medical Center,San Francisco,CA,SFO,0.6,OAK,36.6,SJC,43.3
+Regional Medical Center,Miami,FL,MIA,42.5,FLL,34.5,PBI,45.9
+Northeast Medical Center,Atlanta,GA,ATL,36.9,PBI,11.9,BHM,34.4
+Harbor Hospital,New York,NY,JFK,48.0,LGA,16.8,EWR,20.8
+Community Hospital,St. Louis,MO,STL,27.6,CPS,5.4,BLV,22.2
+Harbor Hospital,San Francisco,CA,SFO,46.5,OAK,4.8,SJC,13.7
+Community Hospital,New York,NY,JFK,34.6,LGA,37.2,EWR,0.6
+Downtown Medical Center,New York,NY,JFK,26.7,LGA,35.9,EWR,42.3
+City Health Clinic,New York,NY,JFK,49.1,LGA,34.5,EWR,46.6
+Memorial Hospital,Phoenix,AZ,PHX,39.8,AZA,48.4,SDL,22.7
+City Medical Center,Los Angeles,CA,LAX,42.5,BUR,33.4,LGB,31.6
+General Hospital,Chicago,IL,ORD,40.5,MDW,41.8,RFD,0.7
+Valley Health Center,Seattle,WA,SEA,42.1,PAE,15.0,BFI,32.9
+Valley Health Center,Miami,FL,MIA,32.6,FLL,44.7,PBI,10.8
+Regional Medical Center,Los Angeles,CA,LAX,32.0,BUR,49.0,LGB,38.3
+Regional Medical Center,Washington,DC,DCA,33.2,IAD,28.2,BWI,4.9
+Valley Health Center,Chicago,IL,ORD,13.9,MDW,3.1,RFD,15.1
+Urban Health Clinic,St. Louis,MO,STL,32.8,CPS,43.6,BLV,28.6
+Coastal Health Center,Seattle,WA,SEA,31.7,PAE,14.0,BFI,33.8
+Community Hospital,Miami,FL,MIA,17.1,FLL,48.1,PBI,1.4
+Urban Health Clinic,St. Louis,MO,STL,36.1,CPS,10.7,BLV,49.2
+Memorial Hospital,Atlanta,GA,ATL,47.8,PBI,29.0,BHM,29.4
+City Health Clinic,St. Louis,MO,STL,19.7,CPS,4.9,BLV,4.4
+City Medical Center,New York,NY,JFK,32.6,LGA,46.4,EWR,9.6
+Memorial Hospital,Washington,DC,DCA,18.7,IAD,49.3,BWI,24.7
+Pine Valley Hospital,Seattle,WA,SEA,23.3,PAE,22.7,BFI,13.9
+Northside Hospital,Seattle,WA,SEA,14.9,PAE,18.4,BFI,47.8
+Northeast Medical Center,Washington,DC,DCA,8.8,IAD,31.2,BWI,48.5
+Regional Medical Center,San Francisco,CA,SFO,25.7,OAK,24.9,SJC,23.8
+Main Street Medical Center,Seattle,WA,SEA,19.1,PAE,45.1,BFI,43.9
+General Hospital,Washington,DC,DCA,36.6,IAD,32.0,BWI,49.5
+Urban Health Clinic,Miami,FL,MIA,33.8,FLL,11.3,PBI,15.8
+Lakeside Medical Center,St. Louis,MO,STL,20.7,CPS,13.0,BLV,17.2
+Valley Health Center,Phoenix,AZ,PHX,43.7,AZA,36.4,SDL,43.9
+Northeast Medical Center,Los Angeles,CA,LAX,14.3,BUR,31.6,LGB,30.5
+Green Valley Hospital,Chicago,IL,ORD,32.9,MDW,3.2,RFD,4.7
+Lakeside Medical Center,San Francisco,CA,SFO,49.6,OAK,15.5,SJC,5.6
+Eastside Medical Center,Phoenix,AZ,PHX,4.1,AZA,45.1,SDL,28.9
+Central Clinic,Seattle,WA,SEA,43.3,PAE,48.0,BFI,6.9
+Main Street Medical Center,Chicago,IL,ORD,30.1,MDW,27.6,RFD,34.0
+Southern Health Clinic,Miami,FL,MIA,45.4,FLL,33.9,PBI,31.4
+Pine Valley Hospital,Washington,DC,DCA,29.2,IAD,27.6,BWI,38.9
+Green Valley Hospital,Washington,DC,DCA,9.7,IAD,49.7,BWI,10.5
+Community Hospital,St. Louis,MO,STL,49.7,CPS,18.1,BLV,43.3
+West End Hospital,Chicago,IL,ORD,31.8,MDW,19.1,RFD,23.0
+Eastside Medical Center,New York,NY,JFK,18.5,LGA,3.9,EWR,12.2
+Southern Health Clinic,Atlanta,GA,ATL,31.9,PBI,26.7,BHM,48.8
+Sunrise Hospital,San Francisco,CA,SFO,11.7,OAK,41.5,SJC,24.6
+Coastal Health Center,San Francisco,CA,SFO,46.3,OAK,41.6,SJC,8.1
+Downtown Medical Center,Seattle,WA,SEA,35.9,PAE,18.5,BFI,35.7
+City Health Clinic,Atlanta,GA,ATL,29.9,PBI,38.9,BHM,8.1
+Regional Medical Center,San Francisco,CA,SFO,4.7,OAK,20.0,SJC,39.0
+City Health Clinic,Chicago,IL,ORD,47.8,MDW,47.5,RFD,31.1
+Community Hospital,Phoenix,AZ,PHX,18.3,AZA,15.8,SDL,10.7
+Main Street Medical Center,Chicago,IL,ORD,15.7,MDW,37.3,RFD,41.8
+Urban Health Clinic,New York,NY,JFK,30.7,LGA,15.1,EWR,8.9
+Riverfront Medical Center,Chicago,IL,ORD,23.9,MDW,44.4,RFD,5.0
+General Hospital,Phoenix,AZ,PHX,45.1,AZA,17.2,SDL,18.4
+Green Valley Hospital,St. Louis,MO,STL,6.8,CPS,31.6,BLV,7.0
+City Medical Center,St. Louis,MO,STL,10.6,CPS,8.6,BLV,18.4
+Downtown Medical Center,New York,NY,JFK,4.5,LGA,3.3,EWR,28.3
+St. Mary's Hospital,St. Louis,MO,STL,7.9,CPS,6.9,BLV,15.5
+West End Hospital,Phoenix,AZ,PHX,10.6,AZA,18.6,SDL,14.0
+Northeast Medical Center,Phoenix,AZ,PHX,11.4,AZA,8.3,SDL,11.2
+Southern Health Clinic,Chicago,IL,ORD,7.8,MDW,7.1,RFD,21.0
+Northeast Medical Center,Phoenix,AZ,PHX,17.0,AZA,42.2,SDL,34.8
+Southern Health Clinic,Washington,DC,DCA,33.2,IAD,42.7,BWI,25.0
+Eastside Medical Center,Los Angeles,CA,LAX,22.0,BUR,11.1,LGB,21.2
+Lakeside Medical Center,Miami,FL,MIA,27.6,FLL,10.5,PBI,40.2
+Mountain View Hospital,Seattle,WA,SEA,3.0,PAE,3.2,BFI,37.8
+Regional Medical Center,Washington,DC,DCA,38.4,IAD,41.3,BWI,47.3
+Central Clinic,Washington,DC,DCA,28.4,IAD,36.6,BWI,41.0
+Community Hospital,San Francisco,CA,SFO,6.3,OAK,34.4,SJC,42.0
+Regional Medical Center,Atlanta,GA,ATL,24.1,PBI,12.7,BHM,27.8
+General Hospital,San Francisco,CA,SFO,32.9,OAK,45.4,SJC,14.3
+Northeast Medical Center,San Francisco,CA,SFO,12.1,OAK,11.6,SJC,3.5
+General Hospital,Seattle,WA,SEA,27.2,PAE,49.3,BFI,42.3
+Pine Valley Hospital,Washington,DC,DCA,28.8,IAD,18.5,BWI,48.0
+West End Hospital,New York,NY,JFK,36.7,LGA,36.3,EWR,15.0
+Downtown Medical Center,Phoenix,AZ,PHX,17.7,AZA,45.3,SDL,2.3
+Central Clinic,New York,NY,JFK,12.0,LGA,30.7,EWR,14.1
+Sunrise Hospital,Washington,DC,DCA,16.4,IAD,5.2,BWI,40.2
+Urban Health Clinic,New York,NY,JFK,25.2,LGA,34.2,EWR,22.7
+Coastal Health Center,Washington,DC,DCA,21.9,IAD,38.9,BWI,41.5
+Sunrise Hospital,Miami,FL,MIA,19.4,FLL,12.0,PBI,15.6
+Coastal Health Center,Seattle,WA,SEA,11.4,PAE,33.7,BFI,19.1
+City Health Clinic,Phoenix,AZ,PHX,15.7,AZA,23.9,SDL,14.4
+Green Valley Hospital,Seattle,WA,SEA,23.2,PAE,33.4,BFI,36.1
+Main Street Medical Center,Phoenix,AZ,PHX,20.5,AZA,15.5,SDL,19.8
+Valley Health Center,Atlanta,GA,ATL,23.0,PBI,19.7,BHM,32.0
+Riverfront Medical Center,Atlanta,GA,ATL,23.8,PBI,33.6,BHM,1.5
+City Medical Center,Washington,DC,DCA,36.2,IAD,11.5,BWI,35.4
+City Health Clinic,Phoenix,AZ,PHX,29.3,AZA,9.0,SDL,4.7
+Downtown Medical Center,San Francisco,CA,SFO,23.7,OAK,8.7,SJC,47.8
+Green Valley Hospital,San Francisco,CA,SFO,26.6,OAK,22.0,SJC,34.9
+Pine Valley Hospital,San Francisco,CA,SFO,27.9,OAK,35.4,SJC,39.4
+Lakeside Medical Center,Phoenix,AZ,PHX,24.0,AZA,23.0,SDL,7.4
+Central Clinic,Phoenix,AZ,PHX,47.6,AZA,17.6,SDL,1.0
+Coastal Health Center,San Francisco,CA,SFO,45.1,OAK,14.9,SJC,3.9
+Memorial Hospital,St. Louis,MO,STL,8.4,CPS,46.9,BLV,5.9
+Eastside Medical Center,Seattle,WA,SEA,41.0,PAE,49.1,BFI,6.5
+Community Hospital,Seattle,WA,SEA,43.2,PAE,11.3,BFI,30.0
+Main Street Medical Center,Washington,DC,DCA,22.9,IAD,40.5,BWI,43.2
+Lakeside Medical Center,Seattle,WA,SEA,14.0,PAE,35.8,BFI,21.1
+Sunrise Hospital,Atlanta,GA,ATL,36.6,PBI,39.6,BHM,30.7
+Northside Hospital,Atlanta,GA,ATL,45.4,PBI,38.2,BHM,1.1
+West End Hospital,Los Angeles,CA,LAX,30.6,BUR,21.2,LGB,1.0
+Lakeside Medical Center,Phoenix,AZ,PHX,0.7,AZA,25.6,SDL,29.1
+St. Mary's Hospital,New York,NY,JFK,33.8,LGA,40.7,EWR,16.1
+Urban Health Clinic,St. Louis,MO,STL,45.2,CPS,45.3,BLV,13.7
+Eastside Medical Center,Miami,FL,MIA,45.6,FLL,28.2,PBI,26.2
+City Medical Center,San Francisco,CA,SFO,38.1,OAK,28.0,SJC,2.2
+Riverfront Medical Center,Chicago,IL,ORD,1.3,MDW,8.9,RFD,17.3
+Main Street Medical Center,Seattle,WA,SEA,39.6,PAE,10.2,BFI,2.5
+Regional Medical Center,Seattle,WA,SEA,9.4,PAE,44.0,BFI,31.0
+Northeast Medical Center,Atlanta,GA,ATL,45.4,PBI,17.5,BHM,41.7
+Urban Health Clinic,Miami,FL,MIA,30.1,FLL,36.8,PBI,4.9
+Sunrise Hospital,Atlanta,GA,ATL,29.3,PBI,13.0,BHM,22.6
+Pine Valley Hospital,San Francisco,CA,SFO,47.5,OAK,5.1,SJC,39.8
+Urban Health Clinic,Los Angeles,CA,LAX,42.2,BUR,4.1,LGB,5.3
+Northside Hospital,Seattle,WA,SEA,35.3,PAE,33.5,BFI,41.4
+City Medical Center,New York,NY,JFK,46.3,LGA,7.0,EWR,48.6
+Mountain View Hospital,Miami,FL,MIA,31.3,FLL,20.2,PBI,25.9
+Sunrise Hospital,Atlanta,GA,ATL,9.8,PBI,18.6,BHM,12.0
+City Health Clinic,St. Louis,MO,STL,5.3,CPS,26.0,BLV,3.6
+Lakeside Medical Center,Seattle,WA,SEA,26.2,PAE,4.5,BFI,27.8
+City Health Clinic,Seattle,WA,SEA,11.1,PAE,28.2,BFI,40.7
+Regional Medical Center,Los Angeles,CA,LAX,39.9,BUR,43.3,LGB,6.2
+Harbor Hospital,Phoenix,AZ,PHX,1.7,AZA,30.9,SDL,49.7
+Northeast Medical Center,Los Angeles,CA,LAX,14.5,BUR,7.8,LGB,37.7
+Mountain View Hospital,Los Angeles,CA,LAX,15.8,BUR,45.9,LGB,26.3
+Pine Valley Hospital,Miami,FL,MIA,24.0,FLL,11.5,PBI,14.3
+Southern Health Clinic,Los Angeles,CA,LAX,21.0,BUR,14.6,LGB,1.6
+Mountain View Hospital,Miami,FL,MIA,18.0,FLL,25.6,PBI,4.4
+Valley Health Center,Los Angeles,CA,LAX,48.2,BUR,12.9,LGB,3.5
+Community Hospital,Miami,FL,MIA,40.1,FLL,29.8,PBI,18.9
+West End Hospital,Los Angeles,CA,LAX,0.7,BUR,42.4,LGB,8.7
+West End Hospital,New York,NY,JFK,9.4,LGA,45.4,EWR,34.5
+West End Hospital,Los Angeles,CA,LAX,35.2,BUR,39.6,LGB,1.2
+City Medical Center,Atlanta,GA,ATL,41.3,PBI,8.5,BHM,28.4
+Memorial Hospital,Washington,DC,DCA,27.9,IAD,0.9,BWI,46.5
+Urban Health Clinic,Miami,FL,MIA,13.4,FLL,19.5,PBI,25.2
+Pine Valley Hospital,Seattle,WA,SEA,12.5,PAE,41.5,BFI,26.9
+Downtown Medical Center,San Francisco,CA,SFO,9.4,OAK,49.9,SJC,43.6
+Urban Health Clinic,St. Louis,MO,STL,11.5,CPS,49.8,BLV,30.3
+Riverfront Medical Center,Atlanta,GA,ATL,47.5,PBI,14.7,BHM,45.9
+Eastside Medical Center,Miami,FL,MIA,26.4,FLL,41.6,PBI,4.4
+City Health Clinic,Miami,FL,MIA,33.3,FLL,22.8,PBI,16.2
+Green Valley Hospital,New York,NY,JFK,13.6,LGA,40.6,EWR,10.7
+Harbor Hospital,San Francisco,CA,SFO,30.0,OAK,6.9,SJC,40.7
+Pine Valley Hospital,San Francisco,CA,SFO,17.0,OAK,44.5,SJC,3.9
+City Health Clinic,St. Louis,MO,STL,44.5,CPS,7.5,BLV,0.5
+Coastal Health Center,Miami,FL,MIA,47.2,FLL,47.3,PBI,20.3
+Sunrise Hospital,Atlanta,GA,ATL,34.8,PBI,26.5,BHM,25.5
+Central Clinic,Miami,FL,MIA,14.7,FLL,33.9,PBI,1.5
+Regional Medical Center,Los Angeles,CA,LAX,9.3,BUR,47.2,LGB,38.9
+Memorial Hospital,New York,NY,JFK,1.5,LGA,20.9,EWR,18.4
+Central Clinic,Washington,DC,DCA,39.4,IAD,24.7,BWI,33.0
+Harbor Hospital,Phoenix,AZ,PHX,49.9,AZA,38.4,SDL,41.2
+Pine Valley Hospital,Seattle,WA,SEA,9.6,PAE,17.9,BFI,19.4
+Northside Hospital,Los Angeles,CA,LAX,48.1,BUR,11.1,LGB,7.9
+Community Hospital,Phoenix,AZ,PHX,28.3,AZA,5.1,SDL,42.9
+City Health Clinic,Miami,FL,MIA,5.3,FLL,38.5,PBI,31.1
+Southern Health Clinic,Seattle,WA,SEA,3.6,PAE,21.6,BFI,36.4
+Eastside Medical Center,Seattle,WA,SEA,13.5,PAE,27.0,BFI,29.2
+Northeast Medical Center,Phoenix,AZ,PHX,38.8,AZA,15.5,SDL,37.7
+Riverfront Medical Center,San Francisco,CA,SFO,5.9,OAK,25.6,SJC,9.8
+Main Street Medical Center,Washington,DC,DCA,27.9,IAD,5.9,BWI,36.5
+Riverfront Medical Center,St. Louis,MO,STL,28.8,CPS,48.9,BLV,19.4
+Riverfront Medical Center,New York,NY,JFK,43.3,LGA,31.9,EWR,38.8
+Northeast Medical Center,Atlanta,GA,ATL,44.6,PBI,4.3,BHM,19.4
+Harbor Hospital,San Francisco,CA,SFO,44.5,OAK,11.5,SJC,9.2
+Lakeside Medical Center,Washington,DC,DCA,22.3,IAD,37.7,BWI,45.4
+West End Hospital,Chicago,IL,ORD,22.0,MDW,41.8,RFD,40.0
+General Hospital,St. Louis,MO,STL,32.5,CPS,39.4,BLV,36.3
+Eastside Medical Center,Atlanta,GA,ATL,4.2,PBI,33.6,BHM,17.0
+St. Mary's Hospital,Miami,FL,MIA,38.8,FLL,46.6,PBI,43.3
+Mountain View Hospital,Miami,FL,MIA,32.0,FLL,14.1,PBI,20.9
+West End Hospital,Phoenix,AZ,PHX,33.2,AZA,42.7,SDL,48.1
+Sunrise Hospital,Los Angeles,CA,LAX,7.3,BUR,49.8,LGB,0.8
+City Health Clinic,Washington,DC,DCA,38.8,IAD,18.7,BWI,37.4
+Valley Health Center,Atlanta,GA,ATL,42.6,PBI,40.3,BHM,2.6
+Riverfront Medical Center,San Francisco,CA,SFO,40.2,OAK,13.9,SJC,21.4
+Riverfront Medical Center,New York,NY,JFK,32.2,LGA,32.4,EWR,2.7
+Sunrise Hospital,Chicago,IL,ORD,31.1,MDW,45.4,RFD,9.7
+City Medical Center,St. Louis,MO,STL,2.2,CPS,43.6,BLV,40.1
+Regional Medical Center,Chicago,IL,ORD,40.5,MDW,26.0,RFD,9.5
+Community Hospital,San Francisco,CA,SFO,17.1,OAK,4.5,SJC,3.2
+Riverfront Medical Center,Seattle,WA,SEA,23.6,PAE,44.2,BFI,41.2
+Urban Health Clinic,Phoenix,AZ,PHX,31.7,AZA,1.9,SDL,12.0
+City Medical Center,Seattle,WA,SEA,5.3,PAE,7.9,BFI,21.8
+West End Hospital,Seattle,WA,SEA,45.5,PAE,36.0,BFI,35.4
+Green Valley Hospital,Chicago,IL,ORD,16.6,MDW,31.9,RFD,2.8
+Northside Hospital,Miami,FL,MIA,19.4,FLL,35.6,PBI,25.4
+Community Hospital,Los Angeles,CA,LAX,40.8,BUR,0.5,LGB,21.7
+City Health Clinic,New York,NY,JFK,36.3,LGA,3.9,EWR,22.9
+Memorial Hospital,Seattle,WA,SEA,21.3,PAE,29.1,BFI,38.3
+General Hospital,New York,NY,JFK,31.1,LGA,27.7,EWR,37.4
+Coastal Health Center,Atlanta,GA,ATL,15.6,PBI,49.2,BHM,12.8
+Riverfront Medical Center,San Francisco,CA,SFO,40.4,OAK,8.0,SJC,5.0
+Central Clinic,Seattle,WA,SEA,23.1,PAE,29.0,BFI,25.1
+Sunrise Hospital,San Francisco,CA,SFO,29.7,OAK,45.1,SJC,26.3
+Urban Health Clinic,Los Angeles,CA,LAX,30.7,BUR,23.7,LGB,10.2
+Central Clinic,St. Louis,MO,STL,38.6,CPS,19.8,BLV,37.2
+Eastside Medical Center,New York,NY,JFK,5.2,LGA,17.9,EWR,46.2
+Northeast Medical Center,Seattle,WA,SEA,23.9,PAE,28.8,BFI,2.9
+Downtown Medical Center,Miami,FL,MIA,19.0,FLL,31.3,PBI,19.0
+Sunrise Hospital,Washington,DC,DCA,34.0,IAD,34.0,BWI,30.6
+Memorial Hospital,Phoenix,AZ,PHX,4.0,AZA,24.4,SDL,23.6
+City Health Clinic,Atlanta,GA,ATL,10.7,PBI,42.7,BHM,27.3
+Northside Hospital,Seattle,WA,SEA,18.2,PAE,34.7,BFI,28.4
+General Hospital,Washington,DC,DCA,14.1,IAD,46.7,BWI,43.2
+Northside Hospital,Phoenix,AZ,PHX,39.9,AZA,16.0,SDL,19.0
+St. Mary's Hospital,Miami,FL,MIA,25.8,FLL,32.2,PBI,13.8
+Community Hospital,Miami,FL,MIA,48.9,FLL,31.5,PBI,19.1
+West End Hospital,Los Angeles,CA,LAX,24.0,BUR,22.6,LGB,16.6
+Coastal Health Center,St. Louis,MO,STL,15.8,CPS,4.1,BLV,25.0
+Coastal Health Center,San Francisco,CA,SFO,31.0,OAK,32.3,SJC,2.6
+City Health Clinic,New York,NY,JFK,25.6,LGA,40.5,EWR,12.9
+Urban Health Clinic,Seattle,WA,SEA,5.2,PAE,33.6,BFI,20.5
+Northeast Medical Center,Washington,DC,DCA,38.6,IAD,24.7,BWI,30.7
+Central Clinic,St. Louis,MO,STL,44.9,CPS,14.4,BLV,42.2
+Mountain View Hospital,St. Louis,MO,STL,35.0,CPS,15.2,BLV,22.4
+City Health Clinic,New York,NY,JFK,5.9,LGA,27.1,EWR,27.2
+West End Hospital,San Francisco,CA,SFO,7.1,OAK,19.7,SJC,23.3
+Urban Health Clinic,Phoenix,AZ,PHX,42.3,AZA,48.5,SDL,43.7
+Northside Hospital,Washington,DC,DCA,47.8,IAD,27.7,BWI,34.9
+Northside Hospital,Los Angeles,CA,LAX,10.1,BUR,21.5,LGB,4.1
+Mountain View Hospital,Chicago,IL,ORD,41.2,MDW,35.6,RFD,24.5
+West End Hospital,Phoenix,AZ,PHX,31.9,AZA,30.8,SDL,28.3
+City Health Clinic,Los Angeles,CA,LAX,31.4,BUR,42.7,LGB,38.2
+Northside Hospital,Los Angeles,CA,LAX,35.7,BUR,45.9,LGB,11.8
+Lakeside Medical Center,Los Angeles,CA,LAX,35.9,BUR,10.3,LGB,29.5
+Memorial Hospital,St. Louis,MO,STL,28.9,CPS,41.8,BLV,35.9
+Central Clinic,Los Angeles,CA,LAX,7.4,BUR,43.6,LGB,23.7
+Mountain View Hospital,Los Angeles,CA,LAX,32.6,BUR,49.3,LGB,44.4
+Southern Health Clinic,Miami,FL,MIA,0.5,FLL,6.3,PBI,45.4
+General Hospital,Washington,DC,DCA,4.8,IAD,21.3,BWI,25.9
+Riverfront Medical Center,Miami,FL,MIA,43.2,FLL,9.9,PBI,19.7
+Downtown Medical Center,St. Louis,MO,STL,15.5,CPS,18.9,BLV,10.3
+Harbor Hospital,Chicago,IL,ORD,40.2,MDW,27.8,RFD,9.4
+Northside Hospital,Phoenix,AZ,PHX,8.4,AZA,32.3,SDL,4.1
+Main Street Medical Center,Washington,DC,DCA,0.8,IAD,25.4,BWI,42.3
+Sunrise Hospital,New York,NY,JFK,48.9,LGA,7.2,EWR,41.0
+Mountain View Hospital,Washington,DC,DCA,29.9,IAD,25.8,BWI,17.2
+Regional Medical Center,Seattle,WA,SEA,15.2,PAE,33.2,BFI,42.1
+Green Valley Hospital,Los Angeles,CA,LAX,43.1,BUR,44.3,LGB,33.0
+Urban Health Clinic,Seattle,WA,SEA,2.4,PAE,3.2,BFI,3.9
+Valley Health Center,Washington,DC,DCA,28.6,IAD,17.3,BWI,13.4
+Green Valley Hospital,San Francisco,CA,SFO,48.3,OAK,19.3,SJC,10.7
+Northeast Medical Center,Washington,DC,DCA,15.4,IAD,47.9,BWI,25.3
+City Medical Center,Phoenix,AZ,PHX,10.0,AZA,4.6,SDL,8.3
+Memorial Hospital,Chicago,IL,ORD,35.0,MDW,17.2,RFD,37.3
+City Health Clinic,Seattle,WA,SEA,23.9,PAE,26.7,BFI,34.1
+Downtown Medical Center,Phoenix,AZ,PHX,28.0,AZA,27.1,SDL,46.4
+Southern Health Clinic,Phoenix,AZ,PHX,40.6,AZA,48.1,SDL,27.6
+Regional Medical Center,Chicago,IL,ORD,40.0,MDW,22.5,RFD,24.8
+Urban Health Clinic,Washington,DC,DCA,22.9,IAD,21.9,BWI,32.5
+Pine Valley Hospital,Phoenix,AZ,PHX,45.0,AZA,1.9,SDL,21.4
+Central Clinic,Los Angeles,CA,LAX,33.6,BUR,34.1,LGB,5.7
+Sunrise Hospital,Seattle,WA,SEA,36.1,PAE,23.8,BFI,6.0
+Downtown Medical Center,Miami,FL,MIA,41.8,FLL,21.2,PBI,36.0
+Downtown Medical Center,San Francisco,CA,SFO,14.7,OAK,15.0,SJC,10.0
+City Medical Center,Atlanta,GA,ATL,14.9,PBI,7.1,BHM,33.2
+Pine Valley Hospital,Los Angeles,CA,LAX,30.7,BUR,35.5,LGB,33.7
+Memorial Hospital,Phoenix,AZ,PHX,7.2,AZA,34.6,SDL,3.0
+Coastal Health Center,Miami,FL,MIA,45.3,FLL,28.9,PBI,34.5
+Southern Health Clinic,New York,NY,JFK,44.6,LGA,12.2,EWR,27.7
+Harbor Hospital,Atlanta,GA,ATL,29.9,PBI,7.4,BHM,32.1
+Main Street Medical Center,Atlanta,GA,ATL,11.6,PBI,22.4,BHM,15.7
+Central Clinic,Washington,DC,DCA,11.1,IAD,38.4,BWI,26.5
+Harbor Hospital,Phoenix,AZ,PHX,24.3,AZA,17.1,SDL,48.4
+West End Hospital,Phoenix,AZ,PHX,26.9,AZA,13.1,SDL,14.8
+Urban Health Clinic,Phoenix,AZ,PHX,4.3,AZA,42.1,SDL,43.8
+City Medical Center,San Francisco,CA,SFO,37.5,OAK,9.0,SJC,13.7
+West End Hospital,Atlanta,GA,ATL,31.0,PBI,11.7,BHM,38.1
+Community Hospital,St. Louis,MO,STL,42.0,CPS,49.5,BLV,49.2
+Regional Medical Center,Chicago,IL,ORD,26.2,MDW,37.1,RFD,37.1
+Downtown Medical Center,Los Angeles,CA,LAX,15.6,BUR,40.9,LGB,3.3
+City Health Clinic,Los Angeles,CA,LAX,22.1,BUR,3.2,LGB,40.9
+Community Hospital,Phoenix,AZ,PHX,45.9,AZA,28.9,SDL,25.5
+Green Valley Hospital,Chicago,IL,ORD,8.0,MDW,36.1,RFD,30.4
+St. Mary's Hospital,Washington,DC,DCA,4.6,IAD,23.4,BWI,12.9
+Valley Health Center,Chicago,IL,ORD,41.9,MDW,32.9,RFD,9.4
+City Health Clinic,Chicago,IL,ORD,23.5,MDW,13.6,RFD,33.7
+West End Hospital,Los Angeles,CA,LAX,3.4,BUR,37.2,LGB,44.2
+City Medical Center,Chicago,IL,ORD,14.7,MDW,17.6,RFD,25.0
+Green Valley Hospital,Washington,DC,DCA,14.3,IAD,14.7,BWI,32.3
+Memorial Hospital,San Francisco,CA,SFO,20.2,OAK,1.2,SJC,49.8
+Green Valley Hospital,New York,NY,JFK,32.1,LGA,48.2,EWR,28.2
+City Medical Center,Chicago,IL,ORD,39.4,MDW,23.8,RFD,32.4
+Northeast Medical Center,New York,NY,JFK,25.5,LGA,39.0,EWR,37.4
+Regional Medical Center,Chicago,IL,ORD,6.0,MDW,39.0,RFD,26.7
+St. Mary's Hospital,San Francisco,CA,SFO,47.9,OAK,49.1,SJC,31.3
+Southern Health Clinic,St. Louis,MO,STL,35.7,CPS,22.0,BLV,41.4
+Main Street Medical Center,New York,NY,JFK,33.2,LGA,14.9,EWR,9.9
+Coastal Health Center,Phoenix,AZ,PHX,9.3,AZA,44.0,SDL,11.7
+Eastside Medical Center,St. Louis,MO,STL,32.5,CPS,35.9,BLV,19.0
+Urban Health Clinic,New York,NY,JFK,7.2,LGA,39.0,EWR,8.1
+Central Clinic,Phoenix,AZ,PHX,5.8,AZA,8.3,SDL,15.1
+City Medical Center,New York,NY,JFK,49.9,LGA,20.3,EWR,16.4
+West End Hospital,New York,NY,JFK,20.7,LGA,47.1,EWR,16.8
+Mountain View Hospital,St. Louis,MO,STL,28.8,CPS,6.0,BLV,35.0
+City Medical Center,Miami,FL,MIA,21.8,FLL,36.5,PBI,21.2
+Pine Valley Hospital,New York,NY,JFK,31.7,LGA,31.3,EWR,12.4
+Eastside Medical Center,Phoenix,AZ,PHX,24.9,AZA,30.1,SDL,34.6
+Southern Health Clinic,Seattle,WA,SEA,27.7,PAE,39.9,BFI,33.7
+Regional Medical Center,Los Angeles,CA,LAX,21.0,BUR,41.1,LGB,48.1
+General Hospital,Chicago,IL,ORD,9.7,MDW,33.0,RFD,9.0
+City Health Clinic,St. Louis,MO,STL,13.6,CPS,49.8,BLV,30.2
+Urban Health Clinic,St. Louis,MO,STL,27.9,CPS,38.5,BLV,9.2
+City Medical Center,Phoenix,AZ,PHX,3.0,AZA,30.1,SDL,29.3
+Urban Health Clinic,Chicago,IL,ORD,9.7,MDW,29.9,RFD,0.5
+Eastside Medical Center,San Francisco,CA,SFO,49.6,OAK,30.6,SJC,28.9
+Sunrise Hospital,Phoenix,AZ,PHX,48.1,AZA,25.1,SDL,46.3
+Northside Hospital,Los Angeles,CA,LAX,26.1,BUR,25.8,LGB,23.4
+Green Valley Hospital,Miami,FL,MIA,4.9,FLL,19.9,PBI,11.7
+Urban Health Clinic,Los Angeles,CA,LAX,19.9,BUR,28.7,LGB,17.8
+Northside Hospital,New York,NY,JFK,40.6,LGA,26.6,EWR,35.5
+Urban Health Clinic,Washington,DC,DCA,44.5,IAD,13.0,BWI,49.4
+General Hospital,Phoenix,AZ,PHX,10.5,AZA,7.1,SDL,21.6
+St. Mary's Hospital,New York,NY,JFK,13.3,LGA,15.8,EWR,38.0
+Eastside Medical Center,New York,NY,JFK,45.7,LGA,23.7,EWR,47.9
+City Health Clinic,Phoenix,AZ,PHX,17.1,AZA,23.7,SDL,15.1
+Central Clinic,Washington,DC,DCA,17.3,IAD,11.2,BWI,36.8
+Sunrise Hospital,St. Louis,MO,STL,44.2,CPS,27.6,BLV,22.0
+Harbor Hospital,New York,NY,JFK,45.7,LGA,1.1,EWR,38.4
+City Medical Center,Chicago,IL,ORD,1.8,MDW,25.4,RFD,35.0
+Green Valley Hospital,St. Louis,MO,STL,21.1,CPS,28.7,BLV,14.5
+Lakeside Medical Center,Washington,DC,DCA,42.0,IAD,38.7,BWI,12.5
+West End Hospital,Washington,DC,DCA,21.2,IAD,16.8,BWI,42.3
+Riverfront Medical Center,New York,NY,JFK,11.1,LGA,39.8,EWR,2.0
+Community Hospital,Washington,DC,DCA,13.1,IAD,23.5,BWI,27.2
+Regional Medical Center,Los Angeles,CA,LAX,25.9,BUR,30.7,LGB,36.9
+Southern Health Clinic,New York,NY,JFK,14.0,LGA,42.0,EWR,28.4
+West End Hospital,St. Louis,MO,STL,27.2,CPS,16.2,BLV,16.0
+City Medical Center,New York,NY,JFK,42.2,LGA,4.6,EWR,38.7
+Lakeside Medical Center,Washington,DC,DCA,22.2,IAD,43.4,BWI,35.8
+Memorial Hospital,New York,NY,JFK,25.3,LGA,19.1,EWR,12.7
+General Hospital,Chicago,IL,ORD,11.2,MDW,6.6,RFD,27.0
+Valley Health Center,Miami,FL,MIA,28.5,FLL,1.3,PBI,38.4
+Lakeside Medical Center,Miami,FL,MIA,39.3,FLL,21.9,PBI,34.5
+Urban Health Clinic,Washington,DC,DCA,20.8,IAD,37.4,BWI,46.7
+Urban Health Clinic,San Francisco,CA,SFO,37.0,OAK,36.7,SJC,31.2
+City Medical Center,Seattle,WA,SEA,48.5,PAE,9.4,BFI,48.4
+Riverfront Medical Center,Washington,DC,DCA,48.9,IAD,44.8,BWI,39.9
+Northside Hospital,St. Louis,MO,STL,42.4,CPS,45.8,BLV,14.3
+Riverfront Medical Center,Washington,DC,DCA,14.9,IAD,17.7,BWI,21.6
+Regional Medical Center,St. Louis,MO,STL,28.0,CPS,4.5,BLV,18.6
+Coastal Health Center,San Francisco,CA,SFO,28.0,OAK,45.3,SJC,48.0
+Valley Health Center,Washington,DC,DCA,44.8,IAD,9.9,BWI,23.1
+Memorial Hospital,Phoenix,AZ,PHX,47.8,AZA,45.6,SDL,20.6
+Northeast Medical Center,Seattle,WA,SEA,35.4,PAE,7.5,BFI,16.2
+City Health Clinic,Chicago,IL,ORD,38.5,MDW,37.3,RFD,27.9
+Mountain View Hospital,Chicago,IL,ORD,27.1,MDW,38.4,RFD,20.3
+West End Hospital,Phoenix,AZ,PHX,16.6,AZA,6.1,SDL,40.3
+West End Hospital,Chicago,IL,ORD,28.6,MDW,6.7,RFD,20.2
+Northeast Medical Center,Phoenix,AZ,PHX,45.2,AZA,24.5,SDL,41.3
+Central Clinic,Los Angeles,CA,LAX,11.9,BUR,44.0,LGB,36.4
+Central Clinic,San Francisco,CA,SFO,9.2,OAK,24.5,SJC,47.9
+General Hospital,San Francisco,CA,SFO,6.2,OAK,21.1,SJC,1.1
+St. Mary's Hospital,Atlanta,GA,ATL,6.1,PBI,29.7,BHM,18.2
+City Health Clinic,San Francisco,CA,SFO,41.1,OAK,14.7,SJC,29.6
+Downtown Medical Center,Seattle,WA,SEA,11.9,PAE,7.1,BFI,31.8
+Community Hospital,New York,NY,JFK,49.3,LGA,30.4,EWR,24.5
+Green Valley Hospital,Phoenix,AZ,PHX,1.2,AZA,33.8,SDL,13.4
+City Medical Center,Seattle,WA,SEA,2.0,PAE,30.5,BFI,24.8
+Riverfront Medical Center,Seattle,WA,SEA,3.0,PAE,48.6,BFI,16.5
+Pine Valley Hospital,San Francisco,CA,SFO,1.9,OAK,20.6,SJC,41.0
+Central Clinic,Los Angeles,CA,LAX,27.8,BUR,22.4,LGB,23.1
+West End Hospital,Los Angeles,CA,LAX,4.4,BUR,17.6,LGB,1.5
+Downtown Medical Center,New York,NY,JFK,42.6,LGA,18.3,EWR,19.4
+Regional Medical Center,Phoenix,AZ,PHX,19.5,AZA,7.4,SDL,17.8
+Community Hospital,Washington,DC,DCA,13.2,IAD,29.8,BWI,5.0
+Eastside Medical Center,Chicago,IL,ORD,37.5,MDW,45.8,RFD,37.6
+Lakeside Medical Center,Atlanta,GA,ATL,46.9,PBI,8.2,BHM,19.6
+Central Clinic,Washington,DC,DCA,29.9,IAD,29.2,BWI,45.1
+Community Hospital,Chicago,IL,ORD,16.5,MDW,6.7,RFD,13.9
+Riverfront Medical Center,Chicago,IL,ORD,47.3,MDW,44.3,RFD,19.2
+Central Clinic,Atlanta,GA,ATL,5.2,PBI,32.7,BHM,9.2
+Central Clinic,Chicago,IL,ORD,29.4,MDW,6.7,RFD,33.4
+General Hospital,St. Louis,MO,STL,15.8,CPS,29.9,BLV,8.9
+St. Mary's Hospital,Phoenix,AZ,PHX,1.0,AZA,38.8,SDL,35.6
+Central Clinic,Los Angeles,CA,LAX,37.3,BUR,19.3,LGB,40.3
+Urban Health Clinic,Atlanta,GA,ATL,47.7,PBI,2.3,BHM,6.3
+Downtown Medical Center,Miami,FL,MIA,9.5,FLL,45.1,PBI,23.8
+Central Clinic,Washington,DC,DCA,35.1,IAD,14.4,BWI,9.9
+Central Clinic,Phoenix,AZ,PHX,35.3,AZA,20.5,SDL,36.3
+Riverfront Medical Center,Atlanta,GA,ATL,37.7,PBI,18.8,BHM,13.7
+Pine Valley Hospital,Chicago,IL,ORD,1.1,MDW,49.6,RFD,28.1
+Southern Health Clinic,Washington,DC,DCA,7.9,IAD,16.7,BWI,40.1
+Community Hospital,Seattle,WA,SEA,29.9,PAE,18.1,BFI,30.2
+Lakeside Medical Center,San Francisco,CA,SFO,18.4,OAK,23.3,SJC,30.6
+City Health Clinic,Chicago,IL,ORD,6.3,MDW,33.5,RFD,26.1
+Coastal Health Center,Chicago,IL,ORD,26.6,MDW,7.3,RFD,14.5
+Memorial Hospital,St. Louis,MO,STL,35.0,CPS,46.4,BLV,46.1
+City Medical Center,Washington,DC,DCA,46.3,IAD,25.2,BWI,6.7
+Northside Hospital,Phoenix,AZ,PHX,30.6,AZA,28.5,SDL,17.8
+Northeast Medical Center,Atlanta,GA,ATL,16.6,PBI,37.1,BHM,20.7
+Community Hospital,San Francisco,CA,SFO,7.2,OAK,47.9,SJC,38.3
+Memorial Hospital,San Francisco,CA,SFO,48.1,OAK,36.5,SJC,48.9
+Valley Health Center,St. Louis,MO,STL,5.1,CPS,27.9,BLV,27.3
+Northside Hospital,Seattle,WA,SEA,10.8,PAE,12.2,BFI,26.5
+Northeast Medical Center,New York,NY,JFK,36.1,LGA,15.9,EWR,37.4
+Riverfront Medical Center,Los Angeles,CA,LAX,11.5,BUR,21.3,LGB,0.9
+Urban Health Clinic,Los Angeles,CA,LAX,16.0,BUR,24.1,LGB,23.9
+Regional Medical Center,Seattle,WA,SEA,37.0,PAE,44.8,BFI,31.8
+Urban Health Clinic,Phoenix,AZ,PHX,10.8,AZA,7.0,SDL,20.4
+City Medical Center,St. Louis,MO,STL,8.8,CPS,7.8,BLV,38.5
+Mountain View Hospital,Washington,DC,DCA,3.1,IAD,10.7,BWI,25.0
+West End Hospital,Phoenix,AZ,PHX,29.5,AZA,39.7,SDL,35.9
+Sunrise Hospital,Washington,DC,DCA,9.7,IAD,0.9,BWI,28.0
+Community Hospital,Phoenix,AZ,PHX,32.7,AZA,11.7,SDL,26.9
+Sunrise Hospital,Atlanta,GA,ATL,14.9,PBI,5.2,BHM,34.8
+Urban Health Clinic,Los Angeles,CA,LAX,39.1,BUR,46.3,LGB,49.3
+Mountain View Hospital,San Francisco,CA,SFO,33.6,OAK,7.8,SJC,7.6
+Regional Medical Center,Seattle,WA,SEA,31.9,PAE,14.9,BFI,1.5
+City Health Clinic,Atlanta,GA,ATL,27.6,PBI,48.2,BHM,20.6
+Southern Health Clinic,San Francisco,CA,SFO,13.2,OAK,16.6,SJC,30.1
+Riverfront Medical Center,Seattle,WA,SEA,41.8,PAE,21.8,BFI,25.6
+Mountain View Hospital,Chicago,IL,ORD,7.6,MDW,4.6,RFD,48.6
+Central Clinic,Phoenix,AZ,PHX,29.5,AZA,2.2,SDL,26.6
+Lakeside Medical Center,Los Angeles,CA,LAX,0.9,BUR,30.5,LGB,39.0
+Eastside Medical Center,St. Louis,MO,STL,22.5,CPS,42.0,BLV,20.8
+City Health Clinic,San Francisco,CA,SFO,23.1,OAK,7.5,SJC,45.2
+Northeast Medical Center,Miami,FL,MIA,17.9,FLL,11.6,PBI,23.9
+Regional Medical Center,Phoenix,AZ,PHX,0.8,AZA,28.6,SDL,30.0
+Community Hospital,San Francisco,CA,SFO,46.6,OAK,40.0,SJC,16.9
+Mountain View Hospital,Washington,DC,DCA,49.3,IAD,45.5,BWI,5.2
+Regional Medical Center,Seattle,WA,SEA,31.1,PAE,39.9,BFI,47.5
+Eastside Medical Center,New York,NY,JFK,22.8,LGA,19.3,EWR,9.8
+Pine Valley Hospital,Washington,DC,DCA,11.1,IAD,47.8,BWI,19.1
+Memorial Hospital,Chicago,IL,ORD,2.4,MDW,28.3,RFD,12.1
+City Health Clinic,Phoenix,AZ,PHX,39.0,AZA,42.8,SDL,41.2
+Coastal Health Center,Phoenix,AZ,PHX,43.8,AZA,32.6,SDL,30.5
+Eastside Medical Center,Washington,DC,DCA,10.2,IAD,18.2,BWI,24.9
+Northside Hospital,San Francisco,CA,SFO,27.4,OAK,30.8,SJC,39.8
+Downtown Medical Center,Atlanta,GA,ATL,18.1,PBI,47.0,BHM,38.1
+Green Valley Hospital,Atlanta,GA,ATL,49.5,PBI,31.5,BHM,3.7
+Central Clinic,Atlanta,GA,ATL,39.6,PBI,36.0,BHM,42.0
+Harbor Hospital,New York,NY,JFK,23.7,LGA,20.5,EWR,37.6
+Urban Health Clinic,Miami,FL,MIA,43.4,FLL,23.2,PBI,16.7
+St. Mary's Hospital,San Francisco,CA,SFO,20.7,OAK,17.9,SJC,17.4
+West End Hospital,Miami,FL,MIA,42.1,FLL,36.7,PBI,11.5
+Regional Medical Center,Phoenix,AZ,PHX,38.6,AZA,46.3,SDL,10.2
+City Medical Center,Phoenix,AZ,PHX,41.1,AZA,15.8,SDL,5.5
+Coastal Health Center,St. Louis,MO,STL,8.6,CPS,11.2,BLV,3.3
+Riverfront Medical Center,Atlanta,GA,ATL,32.7,PBI,49.0,BHM,25.1
+Eastside Medical Center,Atlanta,GA,ATL,2.6,PBI,3.3,BHM,10.1
+Southern Health Clinic,Los Angeles,CA,LAX,34.7,BUR,1.2,LGB,12.7
+Mountain View Hospital,Chicago,IL,ORD,17.0,MDW,45.0,RFD,27.6
+St. Mary's Hospital,Seattle,WA,SEA,23.7,PAE,40.9,BFI,27.6
+Riverfront Medical Center,Washington,DC,DCA,30.0,IAD,23.0,BWI,22.0
+Pine Valley Hospital,Atlanta,GA,ATL,26.1,PBI,15.1,BHM,33.1
+City Health Clinic,Miami,FL,MIA,41.3,FLL,45.0,PBI,39.6
+Harbor Hospital,Atlanta,GA,ATL,1.5,PBI,37.1,BHM,19.9
+Harbor Hospital,Los Angeles,CA,LAX,23.5,BUR,31.6,LGB,28.8
+Main Street Medical Center,Miami,FL,MIA,14.1,FLL,26.9,PBI,23.4
+Riverfront Medical Center,Los Angeles,CA,LAX,28.7,BUR,37.3,LGB,19.0
+City Health Clinic,Chicago,IL,ORD,39.7,MDW,46.3,RFD,48.7
+West End Hospital,New York,NY,JFK,9.2,LGA,36.9,EWR,38.1
+Memorial Hospital,Seattle,WA,SEA,36.5,PAE,5.8,BFI,36.7
+Community Hospital,Miami,FL,MIA,3.0,FLL,21.3,PBI,43.3
+Eastside Medical Center,St. Louis,MO,STL,43.5,CPS,49.7,BLV,29.2
+Riverfront Medical Center,St. Louis,MO,STL,39.1,CPS,22.1,BLV,40.3
+Downtown Medical Center,Chicago,IL,ORD,4.7,MDW,11.0,RFD,25.9
+Community Hospital,Atlanta,GA,ATL,39.8,PBI,47.3,BHM,31.9
+Green Valley Hospital,Seattle,WA,SEA,40.7,PAE,47.4,BFI,13.4
+Riverfront Medical Center,Los Angeles,CA,LAX,21.2,BUR,35.6,LGB,10.0
+Northeast Medical Center,Washington,DC,DCA,21.3,IAD,4.1,BWI,21.7
+Eastside Medical Center,Phoenix,AZ,PHX,18.8,AZA,18.2,SDL,49.0
+Lakeside Medical Center,Atlanta,GA,ATL,25.8,PBI,3.8,BHM,7.5
+Downtown Medical Center,New York,NY,JFK,37.6,LGA,48.3,EWR,7.1
+Lakeside Medical Center,Seattle,WA,SEA,33.4,PAE,39.5,BFI,10.2
+Northside Hospital,San Francisco,CA,SFO,6.1,OAK,8.0,SJC,8.1
+Sunrise Hospital,Seattle,WA,SEA,32.4,PAE,14.3,BFI,44.0
+Lakeside Medical Center,Seattle,WA,SEA,1.8,PAE,5.5,BFI,26.3
+Lakeside Medical Center,Chicago,IL,ORD,39.7,MDW,4.6,RFD,21.2
+Community Hospital,Miami,FL,MIA,20.5,FLL,13.7,PBI,7.9
+Lakeside Medical Center,Seattle,WA,SEA,5.8,PAE,17.1,BFI,8.3
+Community Hospital,Miami,FL,MIA,34.0,FLL,9.9,PBI,39.2
+Southern Health Clinic,Seattle,WA,SEA,12.3,PAE,21.3,BFI,20.3
+St. Mary's Hospital,Atlanta,GA,ATL,44.4,PBI,47.9,BHM,35.3
+Valley Health Center,Washington,DC,DCA,33.3,IAD,29.0,BWI,6.8
+Regional Medical Center,Miami,FL,MIA,19.9,FLL,31.1,PBI,5.0
+St. Mary's Hospital,Chicago,IL,ORD,23.2,MDW,17.6,RFD,0.6
+Regional Medical Center,Chicago,IL,ORD,49.8,MDW,45.1,RFD,47.5
+Sunrise Hospital,Atlanta,GA,ATL,7.3,PBI,48.7,BHM,25.8
+Lakeside Medical Center,Seattle,WA,SEA,15.0,PAE,2.7,BFI,44.9
+Regional Medical Center,Los Angeles,CA,LAX,4.8,BUR,38.9,LGB,23.1
+City Medical Center,Seattle,WA,SEA,3.0,PAE,15.9,BFI,12.4
+Mountain View Hospital,Los Angeles,CA,LAX,36.2,BUR,44.1,LGB,4.6
+Urban Health Clinic,Los Angeles,CA,LAX,39.7,BUR,9.1,LGB,4.2
+City Medical Center,New York,NY,JFK,10.5,LGA,8.4,EWR,16.4
+Green Valley Hospital,New York,NY,JFK,46.0,LGA,20.3,EWR,46.0
+Main Street Medical Center,St. Louis,MO,STL,40.1,CPS,18.1,BLV,14.9
+City Medical Center,New York,NY,JFK,49.2,LGA,1.8,EWR,48.5
+Downtown Medical Center,San Francisco,CA,SFO,47.7,OAK,6.6,SJC,13.2
+Urban Health Clinic,San Francisco,CA,SFO,3.7,OAK,21.5,SJC,33.8
+Southern Health Clinic,Washington,DC,DCA,41.5,IAD,0.7,BWI,44.1
+St. Mary's Hospital,St. Louis,MO,STL,33.8,CPS,46.7,BLV,49.9
+General Hospital,Seattle,WA,SEA,7.9,PAE,25.4,BFI,35.1
+Green Valley Hospital,New York,NY,JFK,39.2,LGA,45.7,EWR,9.0
+Mountain View Hospital,New York,NY,JFK,14.4,LGA,11.6,EWR,39.1
+Riverfront Medical Center,Atlanta,GA,ATL,9.6,PBI,8.7,BHM,27.1
+West End Hospital,Seattle,WA,SEA,13.8,PAE,34.0,BFI,45.4
+Lakeside Medical Center,Atlanta,GA,ATL,2.8,PBI,48.1,BHM,30.5
+City Medical Center,St. Louis,MO,STL,12.4,CPS,35.8,BLV,41.2
+Regional Medical Center,New York,NY,JFK,41.1,LGA,12.4,EWR,3.3
+Mountain View Hospital,Miami,FL,MIA,28.3,FLL,34.2,PBI,27.2
+Green Valley Hospital,Miami,FL,MIA,15.4,FLL,20.8,PBI,20.6
+Coastal Health Center,Washington,DC,DCA,47.0,IAD,12.7,BWI,12.7
+Main Street Medical Center,Los Angeles,CA,LAX,2.3,BUR,3.4,LGB,43.7
+Valley Health Center,Los Angeles,CA,LAX,25.4,BUR,33.4,LGB,28.1
+Riverfront Medical Center,Chicago,IL,ORD,21.2,MDW,49.9,RFD,38.6
+Southern Health Clinic,Phoenix,AZ,PHX,40.8,AZA,27.3,SDL,16.7
+Southern Health Clinic,Miami,FL,MIA,43.3,FLL,21.2,PBI,28.0
+Central Clinic,Los Angeles,CA,LAX,2.2,BUR,48.9,LGB,18.1
+General Hospital,St. Louis,MO,STL,30.9,CPS,42.6,BLV,26.3
+Main Street Medical Center,Chicago,IL,ORD,5.7,MDW,31.7,RFD,10.1
+Green Valley Hospital,New York,NY,JFK,16.3,LGA,44.7,EWR,20.8
+Pine Valley Hospital,Phoenix,AZ,PHX,19.1,AZA,13.0,SDL,16.3
+City Medical Center,Washington,DC,DCA,36.9,IAD,16.6,BWI,9.7
+Memorial Hospital,New York,NY,JFK,44.5,LGA,6.1,EWR,18.8
+Northside Hospital,St. Louis,MO,STL,31.6,CPS,48.6,BLV,7.0
+St. Mary's Hospital,St. Louis,MO,STL,22.2,CPS,48.0,BLV,9.2
+Pine Valley Hospital,Washington,DC,DCA,28.6,IAD,18.7,BWI,48.7
+Regional Medical Center,Atlanta,GA,ATL,38.0,PBI,25.0,BHM,34.2
+General Hospital,Chicago,IL,ORD,20.2,MDW,25.8,RFD,30.4
+Riverfront Medical Center,Los Angeles,CA,LAX,12.4,BUR,2.4,LGB,17.5
+Urban Health Clinic,Chicago,IL,ORD,14.6,MDW,26.2,RFD,33.4
+Central Clinic,Atlanta,GA,ATL,33.3,PBI,42.3,BHM,11.8
+West End Hospital,Washington,DC,DCA,1.9,IAD,9.1,BWI,13.0
+Northside Hospital,New York,NY,JFK,28.7,LGA,19.4,EWR,49.3
+Lakeside Medical Center,Chicago,IL,ORD,29.0,MDW,39.7,RFD,13.0
+City Health Clinic,New York,NY,JFK,44.5,LGA,37.9,EWR,23.2
+Downtown Medical Center,Phoenix,AZ,PHX,35.9,AZA,35.9,SDL,34.4
+Riverfront Medical Center,Chicago,IL,ORD,12.5,MDW,42.3,RFD,34.1
+Riverfront Medical Center,St. Louis,MO,STL,41.0,CPS,19.7,BLV,49.7
+Central Clinic,Miami,FL,MIA,25.4,FLL,19.6,PBI,18.8
+Northeast Medical Center,San Francisco,CA,SFO,32.0,OAK,24.1,SJC,17.9
+General Hospital,Seattle,WA,SEA,39.4,PAE,4.5,BFI,43.3
+General Hospital,New York,NY,JFK,2.4,LGA,23.6,EWR,11.7
+Valley Health Center,St. Louis,MO,STL,13.9,CPS,13.4,BLV,14.2
+Mountain View Hospital,Washington,DC,DCA,39.9,IAD,19.6,BWI,20.2
+Green Valley Hospital,San Francisco,CA,SFO,21.6,OAK,11.6,SJC,24.5
+Community Hospital,San Francisco,CA,SFO,3.2,OAK,39.0,SJC,12.2
+Urban Health Clinic,Seattle,WA,SEA,49.6,PAE,25.0,BFI,28.8
+Harbor Hospital,Phoenix,AZ,PHX,43.5,AZA,13.4,SDL,46.4
+Sunrise Hospital,Miami,FL,MIA,21.0,FLL,20.4,PBI,24.2
+Main Street Medical Center,San Francisco,CA,SFO,36.7,OAK,10.1,SJC,48.8
+Pine Valley Hospital,Seattle,WA,SEA,15.9,PAE,42.1,BFI,3.6
+Urban Health Clinic,Atlanta,GA,ATL,44.5,PBI,33.2,BHM,20.9
+Valley Health Center,Chicago,IL,ORD,13.9,MDW,30.1,RFD,35.3
+Southern Health Clinic,San Francisco,CA,SFO,27.1,OAK,34.7,SJC,4.1
+Northside Hospital,Los Angeles,CA,LAX,40.2,BUR,39.0,LGB,46.8
+Northside Hospital,Miami,FL,MIA,6.0,FLL,33.7,PBI,14.1
+Eastside Medical Center,Miami,FL,MIA,1.6,FLL,35.8,PBI,18.9
+Coastal Health Center,New York,NY,JFK,25.1,LGA,37.5,EWR,39.0
+Southern Health Clinic,Washington,DC,DCA,29.6,IAD,46.2,BWI,48.0
+Pine Valley Hospital,Atlanta,GA,ATL,43.6,PBI,20.2,BHM,35.2
+Northeast Medical Center,Los Angeles,CA,LAX,46.6,BUR,28.2,LGB,2.7
+Central Clinic,Los Angeles,CA,LAX,6.7,BUR,18.8,LGB,0.7
+Community Hospital,San Francisco,CA,SFO,29.5,OAK,11.2,SJC,49.3
+Northside Hospital,New York,NY,JFK,37.4,LGA,42.7,EWR,40.2
+General Hospital,St. Louis,MO,STL,3.8,CPS,27.3,BLV,27.3
+Downtown Medical Center,Washington,DC,DCA,12.8,IAD,6.2,BWI,37.1
+Coastal Health Center,San Francisco,CA,SFO,11.6,OAK,39.7,SJC,47.7
+Riverfront Medical Center,Los Angeles,CA,LAX,0.9,BUR,2.5,LGB,27.7
+Harbor Hospital,Phoenix,AZ,PHX,24.3,AZA,26.4,SDL,0.8
+Regional Medical Center,Atlanta,GA,ATL,24.0,PBI,41.6,BHM,13.9
+Green Valley Hospital,Seattle,WA,SEA,23.0,PAE,35.0,BFI,17.7
+Coastal Health Center,Phoenix,AZ,PHX,21.4,AZA,16.4,SDL,31.3
+St. Mary's Hospital,Seattle,WA,SEA,25.3,PAE,38.3,BFI,20.6
+Riverfront Medical Center,Phoenix,AZ,PHX,28.5,AZA,47.1,SDL,2.0
+St. Mary's Hospital,New York,NY,JFK,49.9,LGA,46.5,EWR,30.9
+Urban Health Clinic,Chicago,IL,ORD,42.7,MDW,47.7,RFD,49.7
+Southern Health Clinic,Chicago,IL,ORD,43.7,MDW,47.9,RFD,38.3
+Sunrise Hospital,San Francisco,CA,SFO,49.3,OAK,24.7,SJC,43.6
+Central Clinic,Chicago,IL,ORD,39.6,MDW,6.4,RFD,22.7
+Lakeside Medical Center,New York,NY,JFK,23.2,LGA,38.3,EWR,17.1
+West End Hospital,Phoenix,AZ,PHX,46.5,AZA,30.5,SDL,2.2
+West End Hospital,Atlanta,GA,ATL,11.1,PBI,24.0,BHM,0.7
+St. Mary's Hospital,Los Angeles,CA,LAX,39.6,BUR,40.3,LGB,49.9
+Green Valley Hospital,Chicago,IL,ORD,32.5,MDW,16.0,RFD,49.0
+Community Hospital,Atlanta,GA,ATL,26.9,PBI,46.4,BHM,7.9
+Community Hospital,Seattle,WA,SEA,2.1,PAE,5.6,BFI,6.0
+Main Street Medical Center,Los Angeles,CA,LAX,28.3,BUR,22.4,LGB,42.7
+Central Clinic,Chicago,IL,ORD,19.3,MDW,11.1,RFD,47.3
+Coastal Health Center,Washington,DC,DCA,40.0,IAD,18.6,BWI,25.9
+Northside Hospital,San Francisco,CA,SFO,13.2,OAK,49.9,SJC,45.7
+Riverfront Medical Center,Los Angeles,CA,LAX,1.1,BUR,44.0,LGB,48.0
+Southern Health Clinic,New York,NY,JFK,13.0,LGA,0.5,EWR,36.8
+Central Clinic,San Francisco,CA,SFO,4.9,OAK,34.5,SJC,19.3
+City Medical Center,Chicago,IL,ORD,27.6,MDW,22.8,RFD,4.2
+Harbor Hospital,San Francisco,CA,SFO,8.2,OAK,40.3,SJC,23.5
+Central Clinic,Washington,DC,DCA,17.9,IAD,35.5,BWI,10.5
+Main Street Medical Center,Los Angeles,CA,LAX,14.5,BUR,18.0,LGB,24.4
+Riverfront Medical Center,Phoenix,AZ,PHX,11.1,AZA,20.1,SDL,6.4
+City Medical Center,Washington,DC,DCA,48.8,IAD,11.7,BWI,19.6
+Green Valley Hospital,San Francisco,CA,SFO,15.4,OAK,15.5,SJC,28.5
+Harbor Hospital,Atlanta,GA,ATL,0.6,PBI,5.5,BHM,38.1
+Sunrise Hospital,Chicago,IL,ORD,10.4,MDW,7.8,RFD,47.9
+Sunrise Hospital,Phoenix,AZ,PHX,5.3,AZA,43.6,SDL,43.2
+Green Valley Hospital,New York,NY,JFK,25.3,LGA,35.6,EWR,9.6
+Sunrise Hospital,Miami,FL,MIA,21.6,FLL,6.1,PBI,19.0
+City Medical Center,San Francisco,CA,SFO,19.9,OAK,36.2,SJC,10.2
+Northside Hospital,St. Louis,MO,STL,26.1,CPS,10.0,BLV,26.4
+City Medical Center,New York,NY,JFK,3.3,LGA,2.2,EWR,37.7
+Central Clinic,New York,NY,JFK,7.8,LGA,40.8,EWR,41.6
+Memorial Hospital,Phoenix,AZ,PHX,33.8,AZA,33.6,SDL,20.7
+Community Hospital,San Francisco,CA,SFO,25.4,OAK,5.1,SJC,5.0
+Downtown Medical Center,Chicago,IL,ORD,1.9,MDW,26.9,RFD,28.8
+Harbor Hospital,Los Angeles,CA,LAX,22.3,BUR,39.5,LGB,1.3
+Urban Health Clinic,Phoenix,AZ,PHX,28.4,AZA,48.7,SDL,7.0
+General Hospital,Phoenix,AZ,PHX,23.5,AZA,8.8,SDL,9.4
+West End Hospital,Miami,FL,MIA,2.3,FLL,35.9,PBI,13.1
+Sunrise Hospital,St. Louis,MO,STL,14.5,CPS,41.7,BLV,44.2
+West End Hospital,Los Angeles,CA,LAX,28.8,BUR,16.8,LGB,10.5
+West End Hospital,San Francisco,CA,SFO,33.6,OAK,49.1,SJC,23.7
+City Medical Center,Washington,DC,DCA,36.7,IAD,25.4,BWI,37.1
+Lakeside Medical Center,Seattle,WA,SEA,46.9,PAE,7.6,BFI,32.4
+City Health Clinic,New York,NY,JFK,46.7,LGA,47.8,EWR,10.1
+Northside Hospital,St. Louis,MO,STL,34.1,CPS,5.6,BLV,49.5
+Coastal Health Center,San Francisco,CA,SFO,33.6,OAK,32.9,SJC,32.5
+Harbor Hospital,Seattle,WA,SEA,43.9,PAE,13.8,BFI,22.6
+St. Mary's Hospital,New York,NY,JFK,18.7,LGA,27.8,EWR,43.5
+Pine Valley Hospital,Atlanta,GA,ATL,40.0,PBI,44.8,BHM,7.6
+Riverfront Medical Center,Chicago,IL,ORD,21.8,MDW,15.0,RFD,49.3
+St. Mary's Hospital,Seattle,WA,SEA,13.0,PAE,11.6,BFI,5.5
+Riverfront Medical Center,Miami,FL,MIA,31.1,FLL,24.7,PBI,9.0
+City Health Clinic,Phoenix,AZ,PHX,15.5,AZA,22.7,SDL,37.3
+Valley Health Center,Atlanta,GA,ATL,35.7,PBI,42.7,BHM,8.1
+Lakeside Medical Center,Phoenix,AZ,PHX,4.5,AZA,45.9,SDL,17.6
+City Medical Center,San Francisco,CA,SFO,13.8,OAK,40.5,SJC,18.3
+Northeast Medical Center,Chicago,IL,ORD,34.0,MDW,5.9,RFD,7.9
+Downtown Medical Center,Miami,FL,MIA,44.8,FLL,23.3,PBI,28.0
+Southern Health Clinic,Los Angeles,CA,LAX,3.2,BUR,1.5,LGB,31.6
+City Health Clinic,Miami,FL,MIA,22.1,FLL,2.6,PBI,12.2
+Memorial Hospital,Atlanta,GA,ATL,36.8,PBI,13.5,BHM,6.7
+Central Clinic,Los Angeles,CA,LAX,46.1,BUR,49.9,LGB,18.5
+Sunrise Hospital,St. Louis,MO,STL,33.0,CPS,13.3,BLV,47.3
+Urban Health Clinic,St. Louis,MO,STL,15.2,CPS,12.9,BLV,21.9
+Memorial Hospital,Phoenix,AZ,PHX,49.9,AZA,45.3,SDL,36.0
+Pine Valley Hospital,Seattle,WA,SEA,14.5,PAE,37.4,BFI,8.7
+City Health Clinic,St. Louis,MO,STL,33.3,CPS,26.1,BLV,22.5
+Harbor Hospital,Chicago,IL,ORD,31.4,MDW,10.6,RFD,42.5
+Memorial Hospital,St. Louis,MO,STL,2.6,CPS,6.8,BLV,24.0
+Urban Health Clinic,Washington,DC,DCA,22.6,IAD,20.7,BWI,40.1
+Riverfront Medical Center,San Francisco,CA,SFO,49.6,OAK,2.4,SJC,37.9
+Pine Valley Hospital,St. Louis,MO,STL,38.0,CPS,19.3,BLV,42.6
+Memorial Hospital,Chicago,IL,ORD,22.2,MDW,40.6,RFD,6.9
+Community Hospital,Chicago,IL,ORD,19.6,MDW,40.7,RFD,9.5
+St. Mary's Hospital,Chicago,IL,ORD,19.5,MDW,30.2,RFD,8.9
+Pine Valley Hospital,Los Angeles,CA,LAX,1.2,BUR,31.1,LGB,39.2
+Harbor Hospital,St. Louis,MO,STL,39.1,CPS,29.1,BLV,16.3
+Downtown Medical Center,St. Louis,MO,STL,21.0,CPS,48.0,BLV,4.3
+Downtown Medical Center,Miami,FL,MIA,45.4,FLL,26.5,PBI,34.0
+Southern Health Clinic,Chicago,IL,ORD,9.5,MDW,33.9,RFD,41.5
+Riverfront Medical Center,Atlanta,GA,ATL,25.2,PBI,15.2,BHM,40.5
+General Hospital,Los Angeles,CA,LAX,29.8,BUR,6.8,LGB,35.5
+City Health Clinic,St. Louis,MO,STL,15.3,CPS,36.4,BLV,3.1
+Community Hospital,Seattle,WA,SEA,4.1,PAE,12.6,BFI,19.0
+West End Hospital,Miami,FL,MIA,12.0,FLL,28.9,PBI,37.5
+Sunrise Hospital,Chicago,IL,ORD,37.0,MDW,17.6,RFD,39.0
+Harbor Hospital,New York,NY,JFK,5.2,LGA,34.1,EWR,13.7
+Eastside Medical Center,Seattle,WA,SEA,20.1,PAE,8.6,BFI,24.2
+Memorial Hospital,New York,NY,JFK,38.8,LGA,12.5,EWR,44.1
+City Medical Center,Miami,FL,MIA,29.8,FLL,30.7,PBI,13.3
+Harbor Hospital,Chicago,IL,ORD,28.9,MDW,18.6,RFD,4.4
+Coastal Health Center,San Francisco,CA,SFO,31.2,OAK,38.5,SJC,40.0
+Sunrise Hospital,Los Angeles,CA,LAX,19.2,BUR,41.3,LGB,8.1
+Regional Medical Center,Chicago,IL,ORD,43.5,MDW,20.9,RFD,10.9
+Southern Health Clinic,Chicago,IL,ORD,4.7,MDW,30.2,RFD,29.2
+Coastal Health Center,San Francisco,CA,SFO,4.4,OAK,33.0,SJC,2.4
+Northeast Medical Center,New York,NY,JFK,9.4,LGA,39.4,EWR,36.2
+Mountain View Hospital,St. Louis,MO,STL,48.6,CPS,29.8,BLV,33.5
+Harbor Hospital,Chicago,IL,ORD,42.7,MDW,41.0,RFD,37.7
+City Health Clinic,Los Angeles,CA,LAX,42.0,BUR,41.0,LGB,47.9
+Main Street Medical Center,Miami,FL,MIA,38.3,FLL,36.9,PBI,7.9
+Central Clinic,San Francisco,CA,SFO,45.9,OAK,2.0,SJC,9.4
+General Hospital,St. Louis,MO,STL,10.5,CPS,47.9,BLV,17.4
+City Health Clinic,San Francisco,CA,SFO,22.8,OAK,20.3,SJC,40.8
