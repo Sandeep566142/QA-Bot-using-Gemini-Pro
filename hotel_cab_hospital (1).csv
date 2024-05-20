@@ -1,0 +1,1001 @@
+﻿Hotel Name,City,State,Nearest Airport 1,Distance to Airport 1 (miles),Nearest Airport 2,Distance to Airport 2 (miles),Nearest Airport 3,Distance to Airport 3 (miles),Average Price per Night (USD),Cab Service Name,Hospital Name,Nearest Airport 1,Distance to Airport 1 (miles),Nearest Airport 2,Distance to Airport 2 (miles),Nearest Airport 3,Distance to Airport 3 (miles)
+Mountain Peak Lodge,Atlanta,GA,ATL,37.7,PBI,49.2,BHM,3.1,237.96,Premier Rides,St. Mary's Hospital,ATL,32.7,PBI,47.7,BHM,38
+Garden Court Hotel,Atlanta,GA,ATL,21.3,PBI,9.6,BHM,33.4,284.05,Yellow Cab,Sunrise Hospital,ATL,36.6,PBI,39.6,BHM,30.7
+Harbor View Hotel,Atlanta,GA,ATL,24.9,PBI,47.2,BHM,35.2,242.86,Best Taxi,Central Clinic,ATL,5.2,PBI,32.7,BHM,9.2
+Maple Leaf Lodge,Atlanta,GA,ATL,4.7,PBI,28.7,BHM,10.8,199.77,Metro Taxi,Riverfront Medical Center,ATL,9.6,PBI,8.7,BHM,27.1
+Metro Inn,Atlanta,GA,ATL,38.1,PBI,41.4,BHM,4.7,258.6,BlueLine Taxi,Lakeside Medical Center,ATL,2.8,PBI,48.1,BHM,30.5
+Bay Area Hotel,Atlanta,GA,ATL,27.1,PBI,29.4,BHM,24.6,282.44,Speedy Taxi,Harbor Hospital,ATL,13.6,PBI,17.7,BHM,36.7
+Mountain Peak Lodge,Atlanta,GA,ATL,10.4,PBI,10.3,BHM,15.5,112.18,Eagle Taxi,Lakeside Medical Center,ATL,46.9,PBI,8.2,BHM,19.6
+Palm Grove Hotel,Atlanta,GA,ATL,36.4,PBI,43.6,BHM,31.9,118.17,Quick Ride,Riverfront Medical Center,ATL,47.5,PBI,14.7,BHM,45.9
+Golden Gate Hotel,Atlanta,GA,ATL,0.6,PBI,49.3,BHM,2.8,177.76,City Cab,West End Hospital,ATL,26.2,PBI,36.3,BHM,5.6
+Central Park Inn,Atlanta,GA,ATL,21.5,PBI,1.7,BHM,9.2,152.72,Yellow Cab,West End Hospital,ATL,46,PBI,47.7,BHM,22.8
+Crystal Waters Hotel,Atlanta,GA,ATL,13.3,PBI,32.7,BHM,21.5,291.9,Green Cab,Pine Valley Hospital,ATL,18.3,PBI,6.6,BHM,27.9
+Palm Grove Hotel,Atlanta,GA,ATL,31.3,PBI,10.7,BHM,27,262.87,Royal Cab,Northside Hospital,ATL,45.4,PBI,38.2,BHM,1.1
+Riverfront Hotel,Atlanta,GA,ATL,14.6,PBI,37.9,BHM,42.2,123.48,Town Car Service,Regional Medical Center,ATL,38,PBI,25,BHM,34.2
+Palm Grove Hotel,Atlanta,GA,ATL,6,PBI,16.8,BHM,48.7,154.21,BlueLine Taxi,Central Clinic,ATL,33.3,PBI,42.3,BHM,11.8
+Sunset Inn,Atlanta,GA,ATL,49.3,PBI,39.8,BHM,33.2,238.61,BlueLine Taxi,Lakeside Medical Center,ATL,35.4,PBI,1.8,BHM,0.6
+Lakeside Inn,Atlanta,GA,ATL,48.9,PBI,47.9,BHM,5.3,132.5,Star Taxi,Northside Hospital,ATL,23.2,PBI,1.4,BHM,45
+Palm Grove Hotel,Atlanta,GA,ATL,9.5,PBI,21.6,BHM,25,233.52,TopRide Taxi,Sunrise Hospital,ATL,34.8,PBI,26.5,BHM,25.5
+Mountain Peak Lodge,Atlanta,GA,ATL,41.7,PBI,46.4,BHM,42.2,155.4,Speedy Taxi,Riverfront Medical Center,ATL,23.8,PBI,33.6,BHM,1.5
+Sunset Inn,Atlanta,GA,ATL,37.3,PBI,21.7,BHM,30,249.58,Royal Cab,Valley Health Center,ATL,23,PBI,19.7,BHM,32
+City Center Lodge,Atlanta,GA,ATL,16.3,PBI,14.5,BHM,12.7,103,Premier Rides,Urban Health Clinic,ATL,44.5,PBI,33.2,BHM,20.9
+Maple Leaf Lodge,Atlanta,GA,ATL,7,PBI,47.5,BHM,43.9,101.11,Town Car Service,Northside Hospital,ATL,26.7,PBI,45.8,BHM,29.3
+Broadway Hotel,Atlanta,GA,ATL,42,PBI,6.1,BHM,8.8,116.28,Liberty Taxi,Pine Valley Hospital,ATL,43.6,PBI,20.2,BHM,35.2
+Maple Leaf Lodge,Atlanta,GA,ATL,42.1,PBI,12.9,BHM,18.6,208.7,Reliable Rides,Northside Hospital,ATL,12.5,PBI,22.8,BHM,12.5
+Golden Gate Hotel,Atlanta,GA,ATL,1.5,PBI,9.4,BHM,37.8,248.68,BlueLine Taxi,St. Mary's Hospital,ATL,6.1,PBI,29.7,BHM,18.2
+Metro Inn,Atlanta,GA,ATL,38.5,PBI,33.3,BHM,31.3,195.59,Sunshine Taxi,Regional Medical Center,ATL,42.5,PBI,26.3,BHM,34.9
+Sunset Inn,Atlanta,GA,ATL,12.4,PBI,34.2,BHM,1,144.41,Comfort Ride,Lakeside Medical Center,ATL,26.9,PBI,28.7,BHM,38.9
+Golden Gate Hotel,Atlanta,GA,ATL,40.5,PBI,14.7,BHM,35.4,216.4,Express Cab,Sunrise Hospital,ATL,7.3,PBI,48.7,BHM,25.8
+Palm Grove Hotel,Atlanta,GA,ATL,8.5,PBI,34.7,BHM,37,149.81,BlueLine Taxi,Sunrise Hospital,ATL,14.9,PBI,5.2,BHM,34.8
+Garden Court Hotel,Atlanta,GA,ATL,19.2,PBI,43.1,BHM,22.7,179.51,Premier Rides,Sunrise Hospital,ATL,9.8,PBI,18.6,BHM,12
+Riverfront Hotel,Atlanta,GA,ATL,28.2,PBI,35.8,BHM,22,141.45,Royal Cab,Sunrise Hospital,ATL,5.7,PBI,9.6,BHM,43.3
+Coastal Breeze Hotel,Atlanta,GA,ATL,44.1,PBI,46.4,BHM,18.3,298.99,Urban Cabs,City Medical Center,ATL,41.3,PBI,8.5,BHM,28.4
+Grand Plaza,Atlanta,GA,ATL,43.2,PBI,35.5,BHM,12.7,106.13,Sunshine Taxi,Northside Hospital,ATL,35.6,PBI,8.8,BHM,8.5
+Broadway Hotel,Atlanta,GA,ATL,1.5,PBI,25.6,BHM,43.9,224.9,Reliable Rides,Riverfront Medical Center,ATL,29.4,PBI,30.7,BHM,7.7
+Pine Tree Inn,Atlanta,GA,ATL,12.6,PBI,24.1,BHM,42.6,288.64,Premier Rides,Downtown Medical Center,ATL,18.1,PBI,47,BHM,38.1
+Desert Resort,Atlanta,GA,ATL,16.9,PBI,22.6,BHM,31.3,167.81,Star Taxi,Green Valley Hospital,ATL,49.5,PBI,31.5,BHM,3.7
+Sapphire Hotel,Atlanta,GA,ATL,10.7,PBI,40.2,BHM,7,208.98,Quick Ride,Central Clinic,ATL,39.6,PBI,36,BHM,42
+Urban Retreat,Atlanta,GA,ATL,6.2,PBI,6.5,BHM,27.9,135.11,BlueLine Taxi,Riverfront Medical Center,ATL,32.7,PBI,49,BHM,25.1
+Skyline Suites,Atlanta,GA,ATL,33.4,PBI,36.7,BHM,3,276.55,Elite Taxi,Urban Health Clinic,ATL,47.7,PBI,2.3,BHM,6.3
+Riverfront Hotel,Atlanta,GA,ATL,3,PBI,19.6,BHM,48.6,180.11,Speedy Taxi,Eastside Medical Center,ATL,2.6,PBI,3.3,BHM,10.1
+Maple Leaf Lodge,Atlanta,GA,ATL,40.6,PBI,46,BHM,28.2,225.06,Comfort Ride,Pine Valley Hospital,ATL,26.1,PBI,15.1,BHM,33.1
+Grand Plaza,Atlanta,GA,ATL,2.1,PBI,33.2,BHM,17.4,125.23,TopRide Taxi,Harbor Hospital,ATL,1.5,PBI,37.1,BHM,19.9
+Maple Leaf Lodge,Atlanta,GA,ATL,19.8,PBI,46.5,BHM,10.8,282.62,Star Taxi,Eastside Medical Center,ATL,45.9,PBI,7.1,BHM,46.4
+Garden Court Hotel,Atlanta,GA,ATL,28.2,PBI,4.8,BHM,8,264.12,Town Car Service,Community Hospital,ATL,39.8,PBI,47.3,BHM,31.9
+Mountain Peak Lodge,Atlanta,GA,ATL,12.8,PBI,0.6,BHM,9.6,141.14,Star Taxi,Riverfront Medical Center,ATL,37.7,PBI,18.8,BHM,13.7
+Pine Tree Inn,Atlanta,GA,ATL,7.6,PBI,5.5,BHM,36.6,100.23,Metro Taxi,Sunrise Hospital,ATL,29.3,PBI,13,BHM,22.6
+Golden Gate Hotel,Atlanta,GA,ATL,48.4,PBI,31.2,BHM,5.1,279.23,Green Cab,Memorial Hospital,ATL,3.5,PBI,21.1,BHM,13
+Harbor View Hotel,Atlanta,GA,ATL,28.8,PBI,32.9,BHM,31.6,239.08,Town Car Service,Lakeside Medical Center,ATL,25.8,PBI,3.8,BHM,7.5
+Maple Leaf Lodge,Atlanta,GA,ATL,10.4,PBI,46.3,BHM,4.6,272.44,Eagle Taxi,Northeast Medical Center,ATL,45.4,PBI,17.5,BHM,41.7
+Golden Gate Hotel,Atlanta,GA,ATL,33.9,PBI,25.8,BHM,31.1,236.92,Star Taxi,St. Mary's Hospital,ATL,44.4,PBI,47.9,BHM,35.3
+Mountain Peak Lodge,Atlanta,GA,ATL,2.7,PBI,13.5,BHM,37.5,208.63,Golden Cab,Northeast Medical Center,ATL,16.6,PBI,37.1,BHM,20.7
+Mountain Peak Lodge,Atlanta,GA,ATL,49.3,PBI,9.7,BHM,50,158.45,Alpha Cab,Downtown Medical Center,ATL,40,PBI,39.1,BHM,40.7
+City Center Lodge,Atlanta,GA,ATL,2.3,PBI,12.4,BHM,38,246.98,Rapid Cab,City Health Clinic,ATL,27.6,PBI,48.2,BHM,20.6
+Capitol Stay,Atlanta,GA,ATL,37.1,PBI,49.4,BHM,35.3,166.16,Express Cab,Main Street Medical Center,ATL,11.6,PBI,22.4,BHM,15.7
+Harbor View Hotel,Atlanta,GA,ATL,32.7,PBI,21.1,BHM,8.4,253.29,First Choice Taxi,Memorial Hospital,ATL,28.7,PBI,5.8,BHM,25.4
+Central Park Inn,Atlanta,GA,ATL,24.3,PBI,42.8,BHM,27.4,287,Royal Cab,Eastside Medical Center,ATL,17.5,PBI,15.4,BHM,5.4
+Lakeside Inn,Atlanta,GA,ATL,20.9,PBI,41.3,BHM,2.9,103.5,Quick Ride,Main Street Medical Center,ATL,20.9,PBI,24.4,BHM,43.2
+Ocean View Hotel,Atlanta,GA,ATL,38.4,PBI,14.8,BHM,42.6,241.28,Metro Taxi,Coastal Health Center,ATL,11.7,PBI,20.8,BHM,34
+Maple Leaf Lodge,Atlanta,GA,ATL,28.1,PBI,4.2,BHM,18.6,181.44,Eagle Taxi,West End Hospital,ATL,31,PBI,11.7,BHM,38.1
+Central Park Inn,Atlanta,GA,ATL,20.5,PBI,17.4,BHM,40.1,222.27,BlueLine Taxi,Valley Health Center,ATL,42.6,PBI,40.3,BHM,2.6
+Garden Court Hotel,Atlanta,GA,ATL,27.1,PBI,5.4,BHM,2.5,200.18,Rapid Cab,City Health Clinic,ATL,29.9,PBI,38.9,BHM,8.1
+Pine Tree Inn,Atlanta,GA,ATL,43.4,PBI,19.3,BHM,17.5,291.86,City Cab,Southern Health Clinic,ATL,15,PBI,2.2,BHM,25.8
+Ocean View Hotel,Atlanta,GA,ATL,2.9,PBI,3.2,BHM,3.6,157.02,Golden Cab,Pine Valley Hospital,ATL,11.3,PBI,35.4,BHM,19.5
+Urban Retreat,Atlanta,GA,ATL,25.8,PBI,46.4,BHM,3.7,277.79,Rapid Cab,Memorial Hospital,ATL,36.8,PBI,13.5,BHM,6.7
+Coastal Breeze Hotel,Atlanta,GA,ATL,13,PBI,25.1,BHM,19.5,187.54,Town Car Service,Harbor Hospital,ATL,29.9,PBI,7.4,BHM,32.1
+Riverfront Hotel,Atlanta,GA,ATL,37.4,PBI,2,BHM,18.1,299.34,Golden Cab,Coastal Health Center,ATL,15.6,PBI,49.2,BHM,12.8
+Bay Area Hotel,Atlanta,GA,ATL,33.8,PBI,27.1,BHM,41,232.44,Best Taxi,Southern Health Clinic,ATL,31.9,PBI,26.7,BHM,48.8
+Grand Plaza,Atlanta,GA,ATL,38.2,PBI,47.8,BHM,44.9,241.11,City Cab,Valley Health Center,ATL,35.7,PBI,42.7,BHM,8.1
+Capitol Stay,Atlanta,GA,ATL,19.5,PBI,10.6,BHM,27.6,170.12,Golden Cab,City Medical Center,ATL,14.9,PBI,7.1,BHM,33.2
+Maple Leaf Lodge,Atlanta,GA,ATL,38.2,PBI,34.8,BHM,46.1,109.58,Royal Cab,Green Valley Hospital,ATL,42.5,PBI,27.6,BHM,36.7
+Central Park Inn,Atlanta,GA,ATL,6.3,PBI,11.5,BHM,19.6,291.58,Golden Cab,Harbor Hospital,ATL,0.6,PBI,5.5,BHM,38.1
+Central Park Inn,Atlanta,GA,ATL,1.1,PBI,26.9,BHM,42.3,253.23,Best Taxi,Riverfront Medical Center,ATL,25.2,PBI,15.2,BHM,40.5
+Metro Inn,Atlanta,GA,ATL,11.5,PBI,6.3,BHM,37,193.83,Green Cab,Eastside Medical Center,ATL,4.2,PBI,33.6,BHM,17
+Lakeside Inn,Atlanta,GA,ATL,8.3,PBI,2.7,BHM,44.7,284.84,Premier Rides,Pine Valley Hospital,ATL,40,PBI,44.8,BHM,7.6
+Harbor View Hotel,Atlanta,GA,ATL,31.9,PBI,48.9,BHM,14.7,237.94,Royal Cab,Memorial Hospital,ATL,47.8,PBI,29,BHM,29.4
+Golden Gate Hotel,Atlanta,GA,ATL,35.1,PBI,41.2,BHM,31.7,157.78,Town Car Service,Northeast Medical Center,ATL,44.6,PBI,4.3,BHM,19.4
+Urban Retreat,Atlanta,GA,ATL,31.6,PBI,46.2,BHM,7.3,290.63,Elite Taxi,Regional Medical Center,ATL,24,PBI,41.6,BHM,13.9
+City Center Lodge,Atlanta,GA,ATL,43.1,PBI,39.7,BHM,50,269.78,Premier Rides,Northeast Medical Center,ATL,36.9,PBI,11.9,BHM,34.4
+Sunset Inn,Atlanta,GA,ATL,38.9,PBI,33.8,BHM,44.9,123.07,Reliable Rides,City Health Clinic,ATL,10.7,PBI,42.7,BHM,27.3
+Palm Grove Hotel,Atlanta,GA,ATL,8.3,PBI,41.6,BHM,14.6,118.69,Green Cab,West End Hospital,ATL,11.1,PBI,24,BHM,0.7
+Crystal Waters Hotel,Atlanta,GA,ATL,19,PBI,23.1,BHM,24.3,101.57,Green Cab,Community Hospital,ATL,26.9,PBI,46.4,BHM,7.9
+Central Park Inn,Atlanta,GA,ATL,2.8,PBI,49.1,BHM,20.6,108.9,Sunshine Taxi,Urban Health Clinic,ATL,4.7,PBI,36.1,BHM,0.5
+Sapphire Hotel,Atlanta,GA,ATL,10.1,PBI,4.1,BHM,2.5,233.1,Rapid Cab,Regional Medical Center,ATL,24.1,PBI,12.7,BHM,27.8
+Sunset Inn,Atlanta,GA,ATL,29.3,PBI,8.6,BHM,35.9,224.02,Town Car Service,City Medical Center,ATL,19.1,PBI,18,BHM,15.9
+Skyline Suites,Atlanta,GA,ATL,6.4,PBI,4.7,BHM,21.8,126.3,Town Car Service,Sunrise Hospital,DCA,9.7,IAD,0.9,BWI,28
+Harbor View Hotel,Atlanta,GA,ATL,29.4,PBI,33.9,BHM,48.5,214.69,Sunshine Taxi,General Hospital,DCA,14.1,IAD,46.7,BWI,43.2
+Palm Grove Hotel,Atlanta,GA,ATL,3,PBI,21.6,BHM,15.6,172.56,Reliable Rides,Mountain View Hospital,DCA,3.1,IAD,10.7,BWI,25
+Maple Leaf Lodge,Atlanta,GA,ATL,21.5,PBI,39.4,BHM,30.3,298.11,Reliable Rides,Central Clinic,DCA,35.1,IAD,14.4,BWI,9.9
+Bay Area Hotel,Atlanta,GA,ATL,49.9,PBI,22.8,BHM,22.8,260.73,Premier Rides,Urban Health Clinic,DCA,22.9,IAD,21.9,BWI,32.5
+Golden Gate Hotel,Atlanta,GA,ATL,19.2,PBI,40,BHM,46.7,226.23,Sunshine Taxi,Pine Valley Hospital,DCA,47.5,IAD,48.5,BWI,24.2
+Lakeside Inn,Atlanta,GA,ATL,33.2,PBI,24,BHM,47.6,296.09,Elite Taxi,Mountain View Hospital,DCA,29.9,IAD,25.8,BWI,17.2
+Palm Grove Hotel,Atlanta,GA,ATL,18.4,PBI,21.9,BHM,29.2,243.23,TopRide Taxi,Riverfront Medical Center,DCA,2.5,IAD,9.3,BWI,47.5
+Desert Resort,Atlanta,GA,ATL,18.6,PBI,30.1,BHM,12.2,253.93,BlueLine Taxi,General Hospital,DCA,4.8,IAD,21.3,BWI,25.9
+Central Park Inn,Atlanta,GA,ATL,8.2,PBI,9.3,BHM,19.7,233.38,Eagle Taxi,Main Street Medical Center,DCA,0.8,IAD,25.4,BWI,42.3
+Mountain Peak Lodge,Atlanta,GA,ATL,29.9,PBI,8.1,BHM,33.3,265.01,Golden Cab,General Hospital,DCA,13.4,IAD,47.6,BWI,6
+Desert Resort,Atlanta,GA,ATL,18.3,PBI,18.3,BHM,20.2,191.65,Comfort Ride,Northeast Medical Center,DCA,15.4,IAD,47.9,BWI,25.3
+Pine Tree Inn,Atlanta,GA,ATL,49.2,PBI,5.8,BHM,42.9,116.89,Golden Cab,Urban Health Clinic,DCA,3.8,IAD,24.7,BWI,17.1
+Skyline Suites,Atlanta,GA,ATL,34.3,PBI,22.8,BHM,37.3,199.37,Liberty Taxi,City Medical Center,DCA,46.3,IAD,25.2,BWI,6.7
+Garden Court Hotel,Atlanta,GA,ATL,34.4,PBI,30.1,BHM,20.8,158.63,Premier Rides,Valley Health Center,DCA,28.6,IAD,17.3,BWI,13.4
+Maple Leaf Lodge,Atlanta,GA,ATL,44.6,PBI,32.1,BHM,31,207.32,TopRide Taxi,Southern Health Clinic,DCA,7.9,IAD,16.7,BWI,40.1
+Ocean View Hotel,Washington,DC,DCA,14.4,IAD,14.6,BWI,12.5,287.25,City Cab,Sunrise Hospital,DCA,34,IAD,34,BWI,30.6
+Sapphire Hotel,Washington,DC,DCA,23.7,IAD,30.6,BWI,48.3,261.58,Comfort Ride,Lakeside Medical Center,DCA,42,IAD,38.7,BWI,12.5
+Desert Resort,Washington,DC,DCA,24.9,IAD,8,BWI,30.1,110.86,Royal Cab,Southern Health Clinic,DCA,22.4,IAD,48.4,BWI,19.4
+Central Park Inn,Washington,DC,DCA,1.6,IAD,43.9,BWI,48.5,135.52,Urban Cabs,West End Hospital,DCA,21.2,IAD,16.8,BWI,42.3
+Palm Grove Hotel,Washington,DC,DCA,2.8,IAD,13.5,BWI,46.8,252.09,Yellow Cab,Community Hospital,DCA,13.1,IAD,23.5,BWI,27.2
+Harbor View Hotel,Washington,DC,DCA,22.8,IAD,47.9,BWI,7,218.88,Star Taxi,Lakeside Medical Center,DCA,22.2,IAD,43.4,BWI,35.8
+Mountain Peak Lodge,Washington,DC,DCA,48.8,IAD,11.5,BWI,14.2,217.97,Metro Taxi,Urban Health Clinic,DCA,20.8,IAD,37.4,BWI,46.7
+Sunset Inn,Washington,DC,DCA,20.6,IAD,18.2,BWI,3.2,183.48,First Choice Taxi,Urban Health Clinic,DCA,44.5,IAD,13,BWI,49.4
+Palm Grove Hotel,Washington,DC,DCA,26.1,IAD,33.1,BWI,11.9,168.04,Premier Rides,Coastal Health Center,DCA,33.3,IAD,28.9,BWI,34.1
+Urban Retreat,Washington,DC,DCA,19,IAD,16.1,BWI,21.8,196.29,Express Cab,Riverfront Medical Center,DCA,48.9,IAD,44.8,BWI,39.9
+Ocean View Hotel,Washington,DC,DCA,43.2,IAD,9.2,BWI,31.3,247.09,BlueLine Taxi,Riverfront Medical Center,DCA,14.9,IAD,17.7,BWI,21.6
+Lakeside Inn,Washington,DC,DCA,41.3,IAD,37.4,BWI,33.1,175.12,Premier Rides,Central Clinic,DCA,39.4,IAD,24.7,BWI,33
+Harbor View Hotel,Washington,DC,DCA,8.2,IAD,41.9,BWI,3.8,123.57,Yellow Cab,Southern Health Clinic,DCA,44.9,IAD,48.7,BWI,6.9
+Sapphire Hotel,Washington,DC,DCA,29.3,IAD,40.5,BWI,10.2,264.56,Speedy Taxi,Main Street Medical Center,DCA,27.9,IAD,5.9,BWI,36.5
+City Center Lodge,Washington,DC,DCA,1.2,IAD,17.9,BWI,28.5,209.28,Alpha Cab,Valley Health Center,DCA,44.8,IAD,9.9,BWI,23.1
+Sunset Inn,Washington,DC,DCA,22.7,IAD,23.2,BWI,26.8,242.27,Eagle Taxi,General Hospital,DCA,19.3,IAD,28.3,BWI,49.7
+Bay Area Hotel,Washington,DC,DCA,27.1,IAD,2.2,BWI,2.9,131.85,Yellow Cab,Sunrise Hospital,DCA,47.6,IAD,26.3,BWI,46.4
+Bay Area Hotel,Washington,DC,DCA,20.5,IAD,14.2,BWI,15.7,260.74,Town Car Service,Lakeside Medical Center,DCA,22.3,IAD,37.7,BWI,45.4
+Palm Grove Hotel,Washington,DC,DCA,27.1,IAD,39.4,BWI,2.6,100.72,Green Cab,Green Valley Hospital,DCA,14.3,IAD,14.7,BWI,32.3
+Palm Grove Hotel,Washington,DC,DCA,37,IAD,36.1,BWI,32.2,176.05,Premier Rides,Downtown Medical Center,DCA,40,IAD,7.3,BWI,48
+Sunset Inn,Washington,DC,DCA,38.8,IAD,41.2,BWI,38.2,278.64,Comfort Ride,St. Mary's Hospital,DCA,4.6,IAD,23.4,BWI,12.9
+Urban Retreat,Washington,DC,DCA,47.7,IAD,8.8,BWI,5.6,222.42,TopRide Taxi,City Health Clinic,DCA,38.8,IAD,18.7,BWI,37.4
+Capitol Stay,Washington,DC,DCA,31.4,IAD,8.7,BWI,30.8,130.98,Liberty Taxi,Riverfront Medical Center,DCA,32.6,IAD,14.4,BWI,12.7
+Lakeside Inn,Washington,DC,DCA,38.8,IAD,22.3,BWI,46.7,206.26,Liberty Taxi,Community Hospital,DCA,13.2,IAD,29.8,BWI,5
+Garden Court Hotel,Washington,DC,DCA,6.8,IAD,3.5,BWI,33.3,257.71,Premier Rides,Central Clinic,DCA,29.9,IAD,29.2,BWI,45.1
+Maple Leaf Lodge,Washington,DC,DCA,23.6,IAD,1.8,BWI,7.9,115.43,Urban Cabs,Central Clinic,DCA,11.1,IAD,38.4,BWI,26.5
+Crystal Waters Hotel,Washington,DC,DCA,5.1,IAD,8.6,BWI,38,286.25,Premier Rides,Central Clinic,DCA,17.3,IAD,11.2,BWI,36.8
+Sapphire Hotel,Washington,DC,DCA,37.1,IAD,34.6,BWI,47.6,213.53,Green Cab,Mountain View Hospital,DCA,35.2,IAD,11.5,BWI,5.3
+Maple Leaf Lodge,Washington,DC,DCA,32.4,IAD,26.7,BWI,15.8,107.15,Rapid Cab,Memorial Hospital,DCA,27.9,IAD,0.9,BWI,46.5
+Sunset Inn,Washington,DC,DCA,24,IAD,4.6,BWI,10.4,194.1,Royal Cab,Green Valley Hospital,DCA,23.8,IAD,39.9,BWI,15.5
+Broadway Hotel,Washington,DC,DCA,18.6,IAD,24.3,BWI,32,227.75,Golden Cab,City Medical Center,DCA,24.8,IAD,23.9,BWI,3.2
+Grand Plaza,Washington,DC,DCA,42.7,IAD,9.6,BWI,38.4,256.19,First Choice Taxi,Northeast Medical Center,DCA,38.6,IAD,24.7,BWI,30.7
+Riverfront Hotel,Washington,DC,DCA,29.5,IAD,7,BWI,47.2,132.09,Comfort Ride,Pine Valley Hospital,DCA,28.8,IAD,18.5,BWI,48
+Skyline Suites,Washington,DC,DCA,14.6,IAD,19.9,BWI,17,251.8,Town Car Service,West End Hospital,DCA,1.9,IAD,9.1,BWI,13
+Pine Tree Inn,Washington,DC,DCA,7.5,IAD,41.9,BWI,31.3,280.82,Urban Cabs,Mountain View Hospital,DCA,39.9,IAD,19.6,BWI,20.2
+Harbor View Hotel,Washington,DC,DCA,7.3,IAD,46.1,BWI,35.4,148.25,Comfort Ride,City Medical Center,DCA,36.2,IAD,11.5,BWI,35.4
+Ocean View Hotel,Washington,DC,DCA,16.4,IAD,26.6,BWI,17.5,277.22,Comfort Ride,Pine Valley Hospital,DCA,29.2,IAD,27.6,BWI,38.9
+Pine Tree Inn,Washington,DC,DCA,36.7,IAD,25.4,BWI,28.1,142.47,Elite Taxi,Sunrise Hospital,DCA,45.2,IAD,12,BWI,10.6
+Desert Resort,Washington,DC,DCA,2,IAD,10.8,BWI,5.3,218.4,Premier Rides,Coastal Health Center,DCA,21.9,IAD,38.9,BWI,41.5
+Sunset Inn,Washington,DC,DCA,45.8,IAD,9,BWI,29.7,196.94,City Cab,Urban Health Clinic,DCA,32.5,IAD,4.1,BWI,20.4
+Central Park Inn,Washington,DC,DCA,9.5,IAD,47.4,BWI,36.6,126.43,Sunshine Taxi,Central Clinic,DCA,26.6,IAD,4.9,BWI,18.7
+Capitol Stay,Washington,DC,DCA,49.7,IAD,23.2,BWI,17.6,111.41,Town Car Service,Southern Health Clinic,DCA,29.6,IAD,46.2,BWI,48
+Mountain Peak Lodge,Washington,DC,DCA,6,IAD,24.7,BWI,24.7,292.34,Eagle Taxi,Sunrise Hospital,DCA,16.4,IAD,5.2,BWI,40.2
+City Center Lodge,Washington,DC,DCA,24,IAD,5.3,BWI,32,232.54,Alpha Cab,Valley Health Center,DCA,17.4,IAD,12.3,BWI,47.1
+City Center Lodge,Washington,DC,DCA,29.9,IAD,34,BWI,14.4,182.5,Quick Ride,Northeast Medical Center,DCA,11.1,IAD,2.9,BWI,15.4
+Coastal Breeze Hotel,Washington,DC,DCA,42.9,IAD,39.1,BWI,37.9,104.12,Elite Taxi,City Medical Center,DCA,36.7,IAD,25.4,BWI,37.1
+Central Park Inn,Washington,DC,DCA,35.6,IAD,45.6,BWI,27.2,287,Golden Cab,Downtown Medical Center,DCA,12.8,IAD,6.2,BWI,37.1
+Harbor View Hotel,Washington,DC,DCA,12.9,IAD,12.7,BWI,19.6,174.65,Quick Ride,Green Valley Hospital,DCA,9.7,IAD,49.7,BWI,10.5
+Skyline Suites,Washington,DC,DCA,31.1,IAD,16.3,BWI,23.1,276.66,Best Taxi,City Medical Center,DCA,9.2,IAD,2.2,BWI,17.5
+Lakeside Inn,Washington,DC,DCA,19.2,IAD,42.5,BWI,29.8,225.17,Royal Cab,Main Street Medical Center,DCA,32.4,IAD,6.1,BWI,18
+Crystal Waters Hotel,Washington,DC,DCA,9.3,IAD,42.2,BWI,36.9,259.82,Star Taxi,Northeast Medical Center,DCA,31.1,IAD,44.2,BWI,38.9
+Grand Plaza,Washington,DC,DCA,19.8,IAD,20.3,BWI,44,211.95,First Choice Taxi,Coastal Health Center,DCA,48.6,IAD,40.7,BWI,14.8
+Maple Leaf Lodge,Washington,DC,DCA,48.1,IAD,2.7,BWI,12.6,139.81,Metro Taxi,Pine Valley Hospital,DCA,2.7,IAD,12.8,BWI,16
+Bay Area Hotel,Washington,DC,DCA,27.1,IAD,40.2,BWI,41.4,166.94,Express Cab,Urban Health Clinic,DCA,12.8,IAD,35.2,BWI,5.6
+Central Park Inn,Washington,DC,DCA,17.1,IAD,27.2,BWI,48.6,130.13,Metro Taxi,Coastal Health Center,DCA,40,IAD,18.6,BWI,25.9
+Emerald Isle Hotel,Washington,DC,DCA,27.8,IAD,7.5,BWI,41,126.47,Best Taxi,Central Clinic,DCA,28.4,IAD,36.6,BWI,41
+Sapphire Hotel,Washington,DC,DCA,38.3,IAD,14.9,BWI,3.7,229.28,Urban Cabs,Regional Medical Center,DCA,38.4,IAD,41.3,BWI,47.3
+Harbor View Hotel,Washington,DC,DCA,7.6,IAD,31.7,BWI,1.5,102.67,Premier Rides,West End Hospital,DCA,27.6,IAD,29.1,BWI,40
+Urban Retreat,Washington,DC,DCA,21.6,IAD,25.7,BWI,18.6,187.26,Comfort Ride,Southern Health Clinic,DCA,33.2,IAD,42.7,BWI,25
+Bay Area Hotel,Washington,DC,DCA,19.9,IAD,25.2,BWI,22.4,137.22,BlueLine Taxi,Pine Valley Hospital,DCA,32.2,IAD,42.3,BWI,47.6
+Ocean View Hotel,Washington,DC,DCA,21.2,IAD,48.7,BWI,48.6,295.01,Golden Cab,Central Clinic,DCA,17.9,IAD,35.5,BWI,10.5
+Garden Court Hotel,Washington,DC,DCA,36.9,IAD,26.2,BWI,9,259.43,Premier Rides,Sunrise Hospital,DCA,24.4,IAD,36,BWI,35.1
+Sapphire Hotel,Washington,DC,DCA,43.2,IAD,34.9,BWI,30.7,204.16,Green Cab,Urban Health Clinic,DCA,22.6,IAD,20.7,BWI,40.1
+Mountain Peak Lodge,Washington,DC,DCA,47.5,IAD,30.8,BWI,30.4,151.42,Express Cab,City Medical Center,DCA,13.7,IAD,20,BWI,24.4
+Sunset Inn,Washington,DC,DCA,20.4,IAD,9.7,BWI,37.3,296.33,Royal Cab,Lakeside Medical Center,DCA,46.6,IAD,44.9,BWI,21.1
+Sapphire Hotel,Washington,DC,DCA,29.5,IAD,12.6,BWI,49.5,155.04,Alpha Cab,Mountain View Hospital,DCA,49.3,IAD,45.5,BWI,5.2
+Crystal Waters Hotel,Washington,DC,DCA,2.1,IAD,3.2,BWI,30,164.91,Premier Rides,Pine Valley Hospital,DCA,11.1,IAD,47.8,BWI,19.1
+Sunset Inn,Washington,DC,DCA,26,IAD,33.1,BWI,37.6,196.14,Eagle Taxi,Regional Medical Center,DCA,33.2,IAD,28.2,BWI,4.9
+Metro Inn,Washington,DC,DCA,19.8,IAD,41.3,BWI,45.9,227.76,Quick Ride,Memorial Hospital,DCA,18.7,IAD,49.3,BWI,24.7
+Mountain Peak Lodge,Washington,DC,DCA,43.6,IAD,17.8,BWI,38.7,123.8,Golden Cab,Eastside Medical Center,DCA,10.2,IAD,18.2,BWI,24.9
+Garden Court Hotel,Washington,DC,DCA,39.1,IAD,49,BWI,7.7,159.27,Speedy Taxi,Northeast Medical Center,DCA,39.4,IAD,28.4,BWI,4.3
+Riverfront Hotel,Washington,DC,DCA,38.5,IAD,31.1,BWI,4.2,161.2,City Cab,Northside Hospital,DCA,47.8,IAD,27.7,BWI,34.9
+Urban Retreat,Washington,DC,DCA,47.6,IAD,5.1,BWI,33,294.51,Eagle Taxi,Southern Health Clinic,DCA,36.8,IAD,3.4,BWI,15.6
+Coastal Breeze Hotel,Washington,DC,DCA,24.1,IAD,39.6,BWI,38.2,223.83,Town Car Service,Riverfront Medical Center,DCA,30,IAD,23,BWI,22
+Central Park Inn,Washington,DC,DCA,31.8,IAD,6,BWI,23.8,225.78,Comfort Ride,City Medical Center,DCA,37.8,IAD,41,BWI,21.4
+Sunset Inn,Washington,DC,DCA,18.1,IAD,15.6,BWI,15.8,137.48,Eagle Taxi,Coastal Health Center,DCA,25.9,IAD,6.8,BWI,30.7
+Pine Tree Inn,Washington,DC,DCA,33.6,IAD,22.6,BWI,29.9,103.16,Golden Cab,Northeast Medical Center,DCA,21.3,IAD,4.1,BWI,21.7
+Mountain Peak Lodge,Washington,DC,DCA,45.2,IAD,1,BWI,48,191.5,Star Taxi,City Medical Center,DCA,48.8,IAD,11.7,BWI,19.6
+Broadway Hotel,Washington,DC,DCA,5.2,IAD,40.1,BWI,41,254.95,Liberty Taxi,Valley Health Center,DCA,33.3,IAD,29,BWI,6.8
+Sunset Inn,Washington,DC,DCA,19.6,IAD,12.3,BWI,1.5,115.86,Eagle Taxi,General Hospital,DCA,32.8,IAD,25.1,BWI,14.5
+Capitol Stay,Washington,DC,DCA,4.2,IAD,38,BWI,48.9,119.68,Best Taxi,Pine Valley Hospital,DCA,28.6,IAD,18.7,BWI,48.7
+Metro Inn,Washington,DC,DCA,31.9,IAD,14.7,BWI,8.4,229.83,Golden Cab,City Medical Center,DCA,36.9,IAD,16.6,BWI,9.7
+Emerald Isle Hotel,Washington,DC,DCA,5.2,IAD,49.7,BWI,11.7,167.25,Liberty Taxi,Northeast Medical Center,DCA,8.8,IAD,31.2,BWI,48.5
+Pine Tree Inn,Washington,DC,DCA,39.5,IAD,6.1,BWI,28.6,209.44,Sunshine Taxi,Southern Health Clinic,DCA,41.5,IAD,0.7,BWI,44.1
+Maple Leaf Lodge,Washington,DC,DCA,21.7,IAD,48.1,BWI,0.6,105.29,Sunshine Taxi,Coastal Health Center,DCA,47,IAD,12.7,BWI,12.7
+Maple Leaf Lodge,Washington,DC,DCA,40.9,IAD,22.1,BWI,9.8,128.47,Premier Rides,Main Street Medical Center,DCA,22.9,IAD,40.5,BWI,43.2
+Palm Grove Hotel,Washington,DC,DCA,32.8,IAD,11.3,BWI,19.2,249.56,City Cab,Memorial Hospital,DCA,36.9,IAD,1,BWI,7.9
+Pine Tree Inn,Washington,DC,DCA,30.7,IAD,28.4,BWI,43.5,246.21,Eagle Taxi,General Hospital,DCA,36.6,IAD,32,BWI,49.5
+Palm Grove Hotel,Washington,DC,DCA,32.7,IAD,13.8,BWI,31.2,199.83,Yellow Cab,Coastal Health Center,SFO,31,OAK,32.3,SJC,2.6
+Desert Resort,Washington,DC,DCA,25.2,IAD,33.2,BWI,8.4,228.21,Town Car Service,Sunrise Hospital,SFO,29.7,OAK,45.1,SJC,26.3
+Bay Area Hotel,Washington,DC,DCA,11.5,IAD,38.3,BWI,46.7,252.6,BlueLine Taxi,West End Hospital,LAX,24,BUR,22.6,LGB,16.6
+Riverfront Hotel,Washington,DC,DCA,50,IAD,3,BWI,20.9,275.09,Yellow Cab,Lakeside Medical Center,SFO,49.6,OAK,15.5,SJC,5.6
+Riverfront Hotel,Washington,DC,DCA,13.2,IAD,1,BWI,5.1,155.03,Speedy Taxi,Regional Medical Center,SFO,25.7,OAK,24.9,SJC,23.8
+Metro Inn,Washington,DC,DCA,11.9,IAD,41.7,BWI,20.8,154.02,Star Taxi,Sunrise Hospital,SFO,11.7,OAK,41.5,SJC,24.6
+Garden Court Hotel,Washington,DC,DCA,16.5,IAD,22.4,BWI,18.4,275.92,Express Cab,Community Hospital,SFO,17.1,OAK,4.5,SJC,3.2
+Bay Area Hotel,San Francisco,CA,SFO,25.9,OAK,38.5,SJC,34.9,260.53,Town Car Service,Urban Health Clinic,LAX,30.7,BUR,23.7,LGB,10.2
+Maple Leaf Lodge,Los Angeles,CA,LAX,30.6,BUR,7.6,LGB,6.4,194.74,Golden Cab,Northeast Medical Center,LAX,14.3,BUR,31.6,LGB,30.5
+Sapphire Hotel,San Francisco,CA,SFO,33.6,OAK,11.1,SJC,24.1,118.09,City Cab,Community Hospital,LAX,40.8,BUR,0.5,LGB,21.7
+Desert Resort,San Francisco,CA,SFO,36.8,OAK,35.4,SJC,36.3,251.53,Premier Rides,Coastal Health Center,SFO,46.3,OAK,41.6,SJC,8.1
+Skyline Suites,San Francisco,CA,SFO,41.6,OAK,5.5,SJC,13,109.93,Urban Cabs,Riverfront Medical Center,SFO,40.4,OAK,8,SJC,5
+Lakeside Inn,San Francisco,CA,SFO,7.7,OAK,22,SJC,12.1,143.62,Star Taxi,Northeast Medical Center,LAX,14.5,BUR,7.8,LGB,37.7
+Emerald Isle Hotel,Los Angeles,CA,LAX,11.7,BUR,19.6,LGB,16,146.28,Quick Ride,Sunrise Hospital,LAX,7.3,BUR,49.8,LGB,0.8
+Riverfront Hotel,San Francisco,CA,SFO,32.5,OAK,19.1,SJC,4.5,166.57,TopRide Taxi,Southern Health Clinic,LAX,21,BUR,14.6,LGB,1.6
+Harbor View Hotel,San Francisco,CA,SFO,7.5,OAK,12.6,SJC,32.1,263.51,TopRide Taxi,Regional Medical Center,LAX,39.9,BUR,43.3,LGB,6.2
+Grand Plaza,San Francisco,CA,SFO,43.7,OAK,39.8,SJC,25.1,152.16,Reliable Rides,Valley Health Center,LAX,48.2,BUR,12.9,LGB,3.5
+Broadway Hotel,San Francisco,CA,SFO,23.8,OAK,23.8,SJC,9.7,272.13,Town Car Service,West End Hospital,LAX,0.7,BUR,42.4,LGB,8.7
+Urban Retreat,Los Angeles,CA,LAX,1.7,BUR,24.3,LGB,28,171.11,Royal Cab,West End Hospital,LAX,35.2,BUR,39.6,LGB,1.2
+Riverfront Hotel,San Francisco,CA,SFO,27.2,OAK,32.6,SJC,22.3,166.62,Eagle Taxi,Pine Valley Hospital,SFO,47.5,OAK,5.1,SJC,39.8
+Lakeside Inn,San Francisco,CA,SFO,13.5,OAK,14.4,SJC,5.2,225.26,Quick Ride,City Medical Center,SFO,38.1,OAK,28,SJC,2.2
+Central Park Inn,San Francisco,CA,SFO,28.7,OAK,5.9,SJC,28.4,195.56,Quick Ride,West End Hospital,LAX,30.6,BUR,21.2,LGB,1
+Coastal Breeze Hotel,Los Angeles,CA,LAX,24.4,BUR,17.4,LGB,44.4,294.26,Yellow Cab,Coastal Health Center,SFO,45.1,OAK,14.9,SJC,3.9
+Bay Area Hotel,Los Angeles,CA,LAX,27.2,BUR,18.6,LGB,22.4,266.09,Star Taxi,Pine Valley Hospital,SFO,27.9,OAK,35.4,SJC,39.4
+Coastal Breeze Hotel,Los Angeles,CA,LAX,36.2,BUR,14.7,LGB,21.8,208.44,Royal Cab,Downtown Medical Center,SFO,9.4,OAK,49.9,SJC,43.6
+Crystal Waters Hotel,Los Angeles,CA,LAX,17,BUR,7.7,LGB,29.3,149.25,Town Car Service,Regional Medical Center,SFO,4.7,OAK,20,SJC,39
+Lakeside Inn,San Francisco,CA,SFO,22.3,OAK,18.3,SJC,49.7,282.41,Eagle Taxi,Harbor Hospital,SFO,30,OAK,6.9,SJC,40.7
+Lakeside Inn,San Francisco,CA,SFO,25.7,OAK,47.4,SJC,38.4,109.73,Reliable Rides,Green Valley Hospital,SFO,26.6,OAK,22,SJC,34.9
+Riverfront Hotel,Los Angeles,CA,LAX,24.1,BUR,44,LGB,8.6,298.76,Premier Rides,Downtown Medical Center,SFO,23.7,OAK,8.7,SJC,47.8
+Grand Plaza,San Francisco,CA,SFO,48.5,OAK,2.3,SJC,14.5,133.66,Golden Cab,Regional Medical Center,LAX,9.3,BUR,47.2,LGB,38.9
+Emerald Isle Hotel,San Francisco,CA,SFO,18,OAK,4.3,SJC,45.2,147.2,Town Car Service,Mountain View Hospital,LAX,15.8,BUR,45.9,LGB,26.3
+Skyline Suites,Los Angeles,CA,LAX,49.6,BUR,1,LGB,40.2,100.5,City Cab,Northside Hospital,LAX,48.1,BUR,11.1,LGB,7.9
+Metro Inn,Los Angeles,CA,LAX,40.9,BUR,37.2,LGB,27.2,203.24,Golden Cab,Northeast Medical Center,SFO,12.1,OAK,11.6,SJC,3.5
+Crystal Waters Hotel,San Francisco,CA,SFO,39.2,OAK,48.3,SJC,13.3,200.58,Premier Rides,Riverfront Medical Center,SFO,5.9,OAK,25.6,SJC,9.8
+Palm Grove Hotel,San Francisco,CA,SFO,20.2,OAK,31.8,SJC,41.7,299.33,Yellow Cab,General Hospital,SFO,32.9,OAK,45.4,SJC,14.3
+Sapphire Hotel,San Francisco,CA,SFO,26.6,OAK,6.2,SJC,27.4,291.12,Eagle Taxi,Community Hospital,SFO,6.3,OAK,34.4,SJC,42
+Ocean View Hotel,San Francisco,CA,SFO,41.8,OAK,24,SJC,1.8,170.41,Express Cab,Harbor Hospital,SFO,44.5,OAK,11.5,SJC,9.2
+Harbor View Hotel,San Francisco,CA,SFO,22,OAK,27.6,SJC,30,209.94,Star Taxi,Eastside Medical Center,LAX,22,BUR,11.1,LGB,21.2
+Ocean View Hotel,San Francisco,CA,SFO,37.5,OAK,9.8,SJC,27.4,142.16,Rapid Cab,Pine Valley Hospital,SFO,17,OAK,44.5,SJC,3.9
+Urban Retreat,Los Angeles,CA,LAX,45,BUR,24.3,LGB,46.1,220.82,Quick Ride,Urban Health Clinic,LAX,42.2,BUR,4.1,LGB,5.3
+Maple Leaf Lodge,San Francisco,CA,SFO,24.8,OAK,42.6,SJC,28.3,112.61,Green Cab,City Health Clinic,SFO,41.1,OAK,14.7,SJC,29.6
+Grand Plaza,San Francisco,CA,SFO,18.2,OAK,34.6,SJC,33.2,120.63,TopRide Taxi,Northside Hospital,LAX,10.1,BUR,21.5,LGB,4.1
+Urban Retreat,San Francisco,CA,SFO,43.8,OAK,16.9,SJC,32.5,112.21,Sunshine Taxi,Sunrise Hospital,SFO,49.3,OAK,24.7,SJC,43.6
+Golden Gate Hotel,Los Angeles,CA,LAX,46,BUR,7.3,LGB,10.6,218.88,TopRide Taxi,Riverfront Medical Center,LAX,0.9,BUR,2.5,LGB,27.7
+Pine Tree Inn,Los Angeles,CA,LAX,20.5,BUR,6.9,LGB,46.3,257.31,Speedy Taxi,Coastal Health Center,SFO,11.6,OAK,39.7,SJC,47.7
+Ocean View Hotel,San Francisco,CA,SFO,32.4,OAK,9.4,SJC,22.9,297.48,Green Cab,Community Hospital,SFO,29.5,OAK,11.2,SJC,49.3
+Urban Retreat,Los Angeles,CA,LAX,40.7,BUR,45.5,LGB,26.6,229.31,TopRide Taxi,Central Clinic,LAX,6.7,BUR,18.8,LGB,0.7
+Mountain Peak Lodge,San Francisco,CA,SFO,5.6,OAK,14.4,SJC,48.1,168.25,First Choice Taxi,Northeast Medical Center,LAX,46.6,BUR,28.2,LGB,2.7
+Sunset Inn,San Francisco,CA,SFO,3.5,OAK,13.7,SJC,23.3,113.21,Golden Cab,Northside Hospital,LAX,40.2,BUR,39,LGB,46.8
+Sunset Inn,Los Angeles,CA,LAX,45.7,BUR,1.6,LGB,18.6,242.96,Best Taxi,Southern Health Clinic,SFO,27.1,OAK,34.7,SJC,4.1
+Maple Leaf Lodge,Los Angeles,CA,LAX,15.5,BUR,6.4,LGB,19.2,166.57,TopRide Taxi,Main Street Medical Center,SFO,36.7,OAK,10.1,SJC,48.8
+Capitol Stay,San Francisco,CA,SFO,11.1,OAK,45.9,SJC,35,129.29,Eagle Taxi,St. Mary's Hospital,LAX,39.6,BUR,40.3,LGB,49.9
+Desert Resort,Los Angeles,CA,LAX,43.2,BUR,46.2,LGB,43.7,103.79,Town Car Service,Community Hospital,SFO,3.2,OAK,39,SJC,12.2
+Lakeside Inn,San Francisco,CA,SFO,10.2,OAK,30.3,SJC,41.9,108.57,Quick Ride,Northeast Medical Center,SFO,32,OAK,24.1,SJC,17.9
+Coastal Breeze Hotel,Los Angeles,CA,LAX,24.5,BUR,35.9,LGB,6.3,118.63,Comfort Ride,Riverfront Medical Center,LAX,12.4,BUR,2.4,LGB,17.5
+Broadway Hotel,San Francisco,CA,SFO,27.3,OAK,43.4,SJC,41.7,158.43,Reliable Rides,Central Clinic,LAX,2.2,BUR,48.9,LGB,18.1
+Lakeside Inn,San Francisco,CA,SFO,29.7,OAK,2.5,SJC,23.4,117.66,Urban Cabs,Valley Health Center,LAX,25.4,BUR,33.4,LGB,28.1
+Riverfront Hotel,San Francisco,CA,SFO,41,OAK,2.1,SJC,28.6,264.17,TopRide Taxi,Main Street Medical Center,LAX,2.3,BUR,3.4,LGB,43.7
+Maple Leaf Lodge,Los Angeles,CA,LAX,1.2,BUR,23.9,LGB,24.1,274.82,Elite Taxi,Urban Health Clinic,SFO,3.7,OAK,21.5,SJC,33.8
+Sunset Inn,Los Angeles,CA,LAX,19.5,BUR,39.5,LGB,27.8,164.07,Elite Taxi,Downtown Medical Center,SFO,47.7,OAK,6.6,SJC,13.2
+Broadway Hotel,Los Angeles,CA,LAX,36.9,BUR,37.4,LGB,5.1,195.35,First Choice Taxi,Urban Health Clinic,LAX,39.7,BUR,9.1,LGB,4.2
+Capitol Stay,San Francisco,CA,SFO,11.2,OAK,29.5,SJC,49.1,203.56,Yellow Cab,Mountain View Hospital,LAX,36.2,BUR,44.1,LGB,4.6
+Harbor View Hotel,Los Angeles,CA,LAX,37.3,BUR,47,LGB,40.4,192.42,Urban Cabs,Green Valley Hospital,SFO,21.6,OAK,11.6,SJC,24.5
+Golden Gate Hotel,Los Angeles,CA,LAX,45.9,BUR,18.2,LGB,0.9,271.37,City Cab,Main Street Medical Center,LAX,28.3,BUR,22.4,LGB,42.7
+Crystal Waters Hotel,Los Angeles,CA,LAX,37.8,BUR,43.2,LGB,4.8,247.91,Speedy Taxi,Northside Hospital,SFO,13.2,OAK,49.9,SJC,45.7
+Garden Court Hotel,Los Angeles,CA,LAX,9.3,BUR,29.1,LGB,24.9,183.09,BlueLine Taxi,Riverfront Medical Center,LAX,1.1,BUR,44,LGB,48
+Broadway Hotel,San Francisco,CA,SFO,35.1,OAK,1.7,SJC,49.1,239.65,Yellow Cab,Central Clinic,SFO,45.9,OAK,2,SJC,9.4
+Maple Leaf Lodge,San Francisco,CA,SFO,8.1,OAK,33,SJC,21.2,178.31,Premier Rides,City Health Clinic,LAX,42,BUR,41,LGB,47.9
+Desert Resort,San Francisco,CA,SFO,10.8,OAK,44.3,SJC,7.5,192.35,BlueLine Taxi,Coastal Health Center,SFO,4.4,OAK,33,SJC,2.4
+Skyline Suites,Los Angeles,CA,LAX,9.7,BUR,3,LGB,10.5,156.78,Sunshine Taxi,Sunrise Hospital,LAX,19.2,BUR,41.3,LGB,8.1
+Mountain Peak Lodge,Los Angeles,CA,LAX,30.8,BUR,14.2,LGB,29.8,197.35,Metro Taxi,Coastal Health Center,SFO,31.2,OAK,38.5,SJC,40
+Ocean View Hotel,Los Angeles,CA,LAX,43.3,BUR,12.5,LGB,31.3,229.4,Elite Taxi,General Hospital,LAX,29.8,BUR,6.8,LGB,35.5
+Coastal Breeze Hotel,Los Angeles,CA,LAX,33.9,BUR,5.2,LGB,14.5,209.27,Rapid Cab,Pine Valley Hospital,LAX,1.2,BUR,31.1,LGB,39.2
+Palm Grove Hotel,San Francisco,CA,SFO,5.3,OAK,12.5,SJC,38.8,296.58,Speedy Taxi,Riverfront Medical Center,SFO,49.6,OAK,2.4,SJC,37.9
+Lakeside Inn,San Francisco,CA,SFO,18.9,OAK,1.5,SJC,34.1,201.72,City Cab,Central Clinic,LAX,46.1,BUR,49.9,LGB,18.5
+Mountain Peak Lodge,San Francisco,CA,SFO,13.3,OAK,28.2,SJC,16.4,191.06,Star Taxi,Southern Health Clinic,LAX,3.2,BUR,1.5,LGB,31.6
+Urban Retreat,San Francisco,CA,SFO,27.8,OAK,37.8,SJC,30.9,145.05,Town Car Service,City Medical Center,SFO,13.8,OAK,40.5,SJC,18.3
+Golden Gate Hotel,San Francisco,CA,SFO,18.1,OAK,24,SJC,26.8,100.61,Golden Cab,Coastal Health Center,SFO,33.6,OAK,32.9,SJC,32.5
+Bay Area Hotel,San Francisco,CA,SFO,37,OAK,5.2,SJC,9.4,101.24,Rapid Cab,West End Hospital,SFO,33.6,OAK,49.1,SJC,23.7
+Lakeside Inn,Los Angeles,CA,LAX,17.9,BUR,27.6,LGB,32.5,204.13,Express Cab,West End Hospital,LAX,28.8,BUR,16.8,LGB,10.5
+Desert Resort,San Francisco,CA,SFO,40.5,OAK,19.7,SJC,25.2,253.69,Elite Taxi,Harbor Hospital,LAX,22.3,BUR,39.5,LGB,1.3
+Broadway Hotel,Los Angeles,CA,LAX,36.2,BUR,35.7,LGB,31.6,214.04,Town Car Service,Community Hospital,SFO,25.4,OAK,5.1,SJC,5
+Riverfront Hotel,San Francisco,CA,SFO,4.4,OAK,38.3,SJC,23.5,202.47,Best Taxi,City Medical Center,SFO,19.9,OAK,36.2,SJC,10.2
+Metro Inn,San Francisco,CA,SFO,21.4,OAK,15.6,SJC,42.3,123.53,Comfort Ride,Green Valley Hospital,SFO,15.4,OAK,15.5,SJC,28.5
+Metro Inn,Los Angeles,CA,LAX,48.9,BUR,40.8,LGB,44.1,104.48,First Choice Taxi,Main Street Medical Center,LAX,14.5,BUR,18,LGB,24.4
+Golden Gate Hotel,Los Angeles,CA,LAX,47.9,BUR,29.2,LGB,16.8,184.87,Express Cab,Harbor Hospital,SFO,8.2,OAK,40.3,SJC,23.5
+Garden Court Hotel,San Francisco,CA,SFO,35.4,OAK,38.3,SJC,4.4,271.63,Best Taxi,Central Clinic,SFO,4.9,OAK,34.5,SJC,19.3
+Coastal Breeze Hotel,San Francisco,CA,SFO,2,OAK,46.8,SJC,35,115.27,Reliable Rides,Regional Medical Center,LAX,4.8,BUR,38.9,LGB,23.1
+Ocean View Hotel,San Francisco,CA,SFO,19.9,OAK,46.9,SJC,49.6,171.7,BlueLine Taxi,Northside Hospital,SFO,6.1,OAK,8,SJC,8.1
+Bay Area Hotel,San Francisco,CA,SFO,15.8,OAK,36.5,SJC,13.2,163.68,Speedy Taxi,Riverfront Medical Center,LAX,21.2,BUR,35.6,LGB,10
+Golden Gate Hotel,Los Angeles,CA,LAX,25.7,BUR,41.6,LGB,21.6,174.91,Liberty Taxi,Riverfront Medical Center,LAX,28.7,BUR,37.3,LGB,19
+Harbor View Hotel,Los Angeles,CA,LAX,27.8,BUR,29.5,LGB,29.8,271.45,Metro Taxi,Regional Medical Center,LAX,25.9,BUR,30.7,LGB,36.9
+Riverfront Hotel,San Francisco,CA,SFO,13.1,OAK,30.6,SJC,13.7,286.85,Green Cab,Urban Health Clinic,LAX,19.9,BUR,28.7,LGB,17.8
+Riverfront Hotel,San Francisco,CA,SFO,27.3,OAK,48,SJC,9.6,175.98,Best Taxi,Northside Hospital,LAX,26.1,BUR,25.8,LGB,23.4
+Bay Area Hotel,Los Angeles,CA,LAX,5.5,BUR,5.9,LGB,36,205.26,Comfort Ride,Eastside Medical Center,SFO,49.6,OAK,30.6,SJC,28.9
+Crystal Waters Hotel,San Francisco,CA,SFO,37,OAK,22.3,SJC,32.2,264.22,Comfort Ride,Regional Medical Center,LAX,21,BUR,41.1,LGB,48.1
+Crystal Waters Hotel,Los Angeles,CA,LAX,14.3,BUR,1.7,LGB,31.3,206.81,Liberty Taxi,St. Mary's Hospital,SFO,47.9,OAK,49.1,SJC,31.3
+Capitol Stay,Los Angeles,CA,LAX,44.4,BUR,41.5,LGB,48.6,116.08,Alpha Cab,Memorial Hospital,SFO,20.2,OAK,1.2,SJC,49.8
+Garden Court Hotel,Los Angeles,CA,LAX,44.1,BUR,30.1,LGB,26.9,225.53,Quick Ride,West End Hospital,LAX,3.4,BUR,37.2,LGB,44.2
+Riverfront Hotel,Los Angeles,CA,LAX,2.6,BUR,28.6,LGB,38.6,171.13,Premier Rides,City Health Clinic,LAX,22.1,BUR,3.2,LGB,40.9
+Golden Gate Hotel,San Francisco,CA,SFO,22.7,OAK,13.4,SJC,17.1,137.45,Liberty Taxi,Downtown Medical Center,LAX,15.6,BUR,40.9,LGB,3.3
+Lakeside Inn,Los Angeles,CA,LAX,14.6,BUR,11,LGB,17.4,130.7,Metro Taxi,City Medical Center,SFO,37.5,OAK,9,SJC,13.7
+Maple Leaf Lodge,Los Angeles,CA,LAX,2.1,BUR,37.1,LGB,15.1,127.86,TopRide Taxi,Pine Valley Hospital,LAX,30.7,BUR,35.5,LGB,33.7
+Grand Plaza,San Francisco,CA,SFO,17.7,OAK,8.2,SJC,17.7,103.35,Golden Cab,Downtown Medical Center,SFO,14.7,OAK,15,SJC,10
+Skyline Suites,Los Angeles,CA,LAX,40.3,BUR,0.6,LGB,13.9,299.04,City Cab,Central Clinic,LAX,33.6,BUR,34.1,LGB,5.7
+Mountain Peak Lodge,San Francisco,CA,SFO,22.2,OAK,38.8,SJC,6,240.75,City Cab,Green Valley Hospital,SFO,48.3,OAK,19.3,SJC,10.7
+Sapphire Hotel,San Francisco,CA,SFO,47.9,OAK,40.6,SJC,12.2,122.68,Sunshine Taxi,Green Valley Hospital,LAX,43.1,BUR,44.3,LGB,33
+Desert Resort,San Francisco,CA,SFO,18.8,OAK,47.6,SJC,32.6,101.17,Liberty Taxi,Mountain View Hospital,LAX,32.6,BUR,49.3,LGB,44.4
+Palm Grove Hotel,Los Angeles,CA,LAX,1,BUR,14.5,LGB,28.7,230.32,Urban Cabs,Central Clinic,LAX,7.4,BUR,43.6,LGB,23.7
+Capitol Stay,Los Angeles,CA,LAX,4.6,BUR,14,LGB,31.8,259.33,Star Taxi,Lakeside Medical Center,LAX,35.9,BUR,10.3,LGB,29.5
+Urban Retreat,Los Angeles,CA,LAX,9.9,BUR,30,LGB,45.8,206.78,Comfort Ride,Northside Hospital,LAX,35.7,BUR,45.9,LGB,11.8
+Maple Leaf Lodge,Los Angeles,CA,LAX,25,BUR,14.5,LGB,49,282.24,Green Cab,City Health Clinic,LAX,31.4,BUR,42.7,LGB,38.2
+Harbor View Hotel,San Francisco,CA,SFO,49.9,OAK,27.2,SJC,36.2,116.72,Eagle Taxi,Urban Health Clinic,SFO,37,OAK,36.7,SJC,31.2
+Crystal Waters Hotel,San Francisco,CA,SFO,20.6,OAK,45.9,SJC,20.1,116.42,Golden Cab,West End Hospital,SFO,7.1,OAK,19.7,SJC,23.3
+Capitol Stay,San Francisco,CA,SFO,5.4,OAK,7.5,SJC,49.5,178.22,Quick Ride,Coastal Health Center,SFO,28,OAK,45.3,SJC,48
+Skyline Suites,San Francisco,CA,SFO,15.2,OAK,32,SJC,34,143.91,Liberty Taxi,Central Clinic,SFO,9.2,OAK,24.5,SJC,47.9
+Mountain Peak Lodge,Los Angeles,CA,LAX,36.8,BUR,26.4,LGB,48,288.22,BlueLine Taxi,Harbor Hospital,LAX,23.5,BUR,31.6,LGB,28.8
+Sapphire Hotel,San Francisco,CA,SFO,26.7,OAK,45.9,SJC,17.6,204.83,Comfort Ride,Southern Health Clinic,LAX,34.7,BUR,1.2,LGB,12.7
+Pine Tree Inn,San Francisco,CA,SFO,23.2,OAK,6.2,SJC,36.5,173.05,BlueLine Taxi,St. Mary's Hospital,SFO,20.7,OAK,17.9,SJC,17.4
+Coastal Breeze Hotel,San Francisco,CA,SFO,34.4,OAK,10,SJC,38.2,171.07,Metro Taxi,Northside Hospital,SFO,27.4,OAK,30.8,SJC,39.8
+Pine Tree Inn,Los Angeles,CA,LAX,24.3,BUR,6.1,LGB,31.9,123.23,First Choice Taxi,Community Hospital,SFO,46.6,OAK,40,SJC,16.9
+Crystal Waters Hotel,San Francisco,CA,SFO,44.8,OAK,8.8,SJC,48,114.66,Comfort Ride,City Health Clinic,SFO,23.1,OAK,7.5,SJC,45.2
+Coastal Breeze Hotel,San Francisco,CA,SFO,45.5,OAK,40.6,SJC,43.2,186.01,Rapid Cab,Lakeside Medical Center,LAX,0.9,BUR,30.5,LGB,39
+Sapphire Hotel,Los Angeles,CA,LAX,15.8,BUR,29.4,LGB,28.3,273.81,Elite Taxi,Southern Health Clinic,SFO,13.2,OAK,16.6,SJC,30.1
+Broadway Hotel,San Francisco,CA,SFO,7.5,OAK,7.7,SJC,1.8,158.34,BlueLine Taxi,Mountain View Hospital,SFO,33.6,OAK,7.8,SJC,7.6
+Harbor View Hotel,San Francisco,CA,SFO,4.2,OAK,38.2,SJC,26.8,147.96,Reliable Rides,Urban Health Clinic,LAX,39.1,BUR,46.3,LGB,49.3
+Maple Leaf Lodge,Los Angeles,CA,LAX,21.3,BUR,44.9,LGB,49.3,101.92,Sunshine Taxi,Urban Health Clinic,LAX,16,BUR,24.1,LGB,23.9
+Riverfront Hotel,San Francisco,CA,SFO,6,OAK,25.7,SJC,34.6,248.63,Alpha Cab,Riverfront Medical Center,LAX,11.5,BUR,21.3,LGB,0.9
+Central Park Inn,Los Angeles,CA,LAX,5.1,BUR,37.2,LGB,14,139.04,Royal Cab,Memorial Hospital,SFO,48.1,OAK,36.5,SJC,48.9
+Sunset Inn,San Francisco,CA,SFO,20,OAK,43.5,SJC,44,208.9,Sunshine Taxi,Community Hospital,SFO,7.2,OAK,47.9,SJC,38.3
+Grand Plaza,Los Angeles,CA,LAX,5.3,BUR,11.1,LGB,7.1,196.66,Urban Cabs,Lakeside Medical Center,SFO,18.4,OAK,23.3,SJC,30.6
+Sapphire Hotel,San Francisco,CA,SFO,17.1,OAK,31.9,SJC,35.2,290.36,Golden Cab,Central Clinic,LAX,37.3,BUR,19.3,LGB,40.3
+Riverfront Hotel,San Francisco,CA,SFO,33.1,OAK,18.9,SJC,0.9,135.06,Rapid Cab,West End Hospital,LAX,4.4,BUR,17.6,LGB,1.5
+Harbor View Hotel,San Francisco,CA,SFO,4.1,OAK,48.2,SJC,48.5,271.45,Liberty Taxi,Central Clinic,LAX,27.8,BUR,22.4,LGB,23.1
+Mountain Peak Lodge,Los Angeles,CA,LAX,4.6,BUR,40,LGB,34.2,143.51,First Choice Taxi,Pine Valley Hospital,SFO,1.9,OAK,20.6,SJC,41
+Central Park Inn,San Francisco,CA,SFO,1.7,OAK,14.1,SJC,49.9,296.01,Express Cab,Regional Medical Center,LAX,32,BUR,49,LGB,38.3
+Ocean View Hotel,San Francisco,CA,SFO,16.2,OAK,2.7,SJC,24.9,142.59,Rapid Cab,General Hospital,SFO,6.2,OAK,21.1,SJC,1.1
+Harbor View Hotel,Los Angeles,CA,LAX,25.2,BUR,30.9,LGB,9.5,271.74,Green Cab,Central Clinic,LAX,11.9,BUR,44,LGB,36.4
+Urban Retreat,Los Angeles,CA,LAX,28.6,BUR,19.8,LGB,33.9,283.43,Rapid Cab,City Medical Center,LAX,42.5,BUR,33.4,LGB,31.6
+Sapphire Hotel,San Francisco,CA,SFO,38.3,OAK,38.9,SJC,41,284.84,Quick Ride,Riverfront Medical Center,SFO,40.2,OAK,13.9,SJC,21.4
+Bay Area Hotel,San Francisco,CA,SFO,4.8,OAK,49.2,SJC,2.6,188.85,Sunshine Taxi,City Health Clinic,SFO,22.8,OAK,20.3,SJC,40.8
+Sunset Inn,San Francisco,CA,SFO,16.8,OAK,28.6,SJC,24.9,215.45,Premier Rides,City Health Clinic,SFO,30.9,OAK,38.6,SJC,31.2
+Harbor View Hotel,San Francisco,CA,SFO,25.5,OAK,13,SJC,34,259.59,Liberty Taxi,Riverfront Medical Center,LAX,20.5,BUR,8.9,LGB,7.8
+Capitol Stay,Los Angeles,CA,LAX,29.6,BUR,45.5,LGB,39.1,135.37,Urban Cabs,Green Valley Hospital,SFO,20.6,OAK,3.9,SJC,28.5
+Desert Resort,San Francisco,CA,SFO,14,OAK,31.7,SJC,32.5,189.12,Best Taxi,Valley Health Center,LAX,21.4,BUR,15.6,LGB,26.4
+Crystal Waters Hotel,San Francisco,CA,SFO,12.6,OAK,7,SJC,3.2,230.62,Star Taxi,Mountain View Hospital,LAX,22.7,BUR,11,LGB,36.1
+Ocean View Hotel,San Francisco,CA,SFO,45.8,OAK,5.4,SJC,21,185.96,Metro Taxi,Central Clinic,LAX,23,BUR,38.4,LGB,20.9
+Garden Court Hotel,San Francisco,CA,SFO,42.1,OAK,19,SJC,27.7,182.23,Eagle Taxi,Valley Health Center,SFO,25.3,OAK,16.4,SJC,21.7
+Broadway Hotel,Los Angeles,CA,LAX,3.4,BUR,33.6,LGB,32.3,179.24,Yellow Cab,Central Clinic,LAX,4.1,BUR,10.3,LGB,41.6
+Broadway Hotel,Los Angeles,CA,LAX,26,BUR,46.3,LGB,32.3,295.58,Alpha Cab,Harbor Hospital,LAX,13.5,BUR,11.1,LGB,46.6
+Ocean View Hotel,San Francisco,CA,SFO,32.1,OAK,49.9,SJC,40.4,136.38,Green Cab,Pine Valley Hospital,LAX,3.8,BUR,27.2,LGB,47.6
+Capitol Stay,San Francisco,CA,SFO,41.3,OAK,49.2,SJC,11.3,116.83,Alpha Cab,Sunrise Hospital,LAX,38.5,BUR,31.1,LGB,22.9
+Lakeside Inn,San Francisco,CA,SFO,42.8,OAK,17.7,SJC,13.5,280.64,Golden Cab,Coastal Health Center,SFO,35.4,OAK,37.1,SJC,34.1
+Coastal Breeze Hotel,Los Angeles,CA,LAX,13.3,BUR,17.4,LGB,41.6,243.94,Quick Ride,General Hospital,LAX,13,BUR,43.2,LGB,34
+Coastal Breeze Hotel,San Francisco,CA,SFO,43.9,OAK,11.4,SJC,32.3,126.18,City Cab,St. Mary's Hospital,LAX,28.7,BUR,35.1,LGB,47.7
+Skyline Suites,Los Angeles,CA,LAX,32.9,BUR,25.3,LGB,1.3,289,Rapid Cab,Valley Health Center,LAX,19.8,BUR,41.7,LGB,23.4
+Ocean View Hotel,Los Angeles,CA,LAX,39,BUR,40.8,LGB,39.2,176.68,Golden Cab,Eastside Medical Center,LAX,32.9,BUR,41.9,LGB,13.1
+Sapphire Hotel,San Francisco,CA,SFO,37.8,OAK,7.5,SJC,30.9,166.6,Star Taxi,City Medical Center,LAX,42.9,BUR,2.5,LGB,27.8
+Garden Court Hotel,San Francisco,CA,SFO,37.2,OAK,48.6,SJC,22.9,163.44,Quick Ride,Downtown Medical Center,SFO,32.5,OAK,4.6,SJC,45.9
+Garden Court Hotel,San Francisco,CA,SFO,35.1,OAK,19.9,SJC,37.9,125.54,Royal Cab,Northside Hospital,SFO,49.7,OAK,35.3,SJC,27.9
+Maple Leaf Lodge,Los Angeles,CA,LAX,7.3,BUR,23.2,LGB,48.7,125.7,Reliable Rides,City Medical Center,LAX,5.4,BUR,5.5,LGB,46.3
+Metro Inn,San Francisco,CA,SFO,47,OAK,27.2,SJC,43.6,231.53,Town Car Service,Lakeside Medical Center,LAX,46.7,BUR,21.1,LGB,26.3
+Sapphire Hotel,Los Angeles,CA,LAX,10.4,BUR,27.2,LGB,28.1,240.04,Metro Taxi,Northeast Medical Center,SFO,5.6,OAK,34.7,SJC,45.5
+Emerald Isle Hotel,San Francisco,CA,SFO,35.8,OAK,44.8,SJC,15.1,117.45,Reliable Rides,Central Clinic,LAX,18.3,BUR,21.3,LGB,14.5
+Sunset Inn,San Francisco,CA,SFO,19.8,OAK,22.7,SJC,10,252.69,Liberty Taxi,Memorial Hospital,SFO,19.2,OAK,17.2,SJC,2.6
+Ocean View Hotel,Los Angeles,CA,LAX,28.2,BUR,46,LGB,29.6,219.56,Rapid Cab,Regional Medical Center,SFO,21,OAK,1.8,SJC,20.3
+Ocean View Hotel,San Francisco,CA,SFO,15.7,OAK,19.5,SJC,27.7,241.28,TopRide Taxi,Southern Health Clinic,LAX,5.5,BUR,20.7,LGB,24.9
+Grand Plaza,San Francisco,CA,SFO,33.1,OAK,33.8,SJC,14.6,200.26,Express Cab,General Hospital,LAX,7.8,BUR,4.3,LGB,42.9
+Pine Tree Inn,San Francisco,CA,SFO,43.3,OAK,39.6,SJC,17,107.35,Alpha Cab,City Health Clinic,SFO,4.4,OAK,21.5,SJC,14.5
+City Center Lodge,San Francisco,CA,SFO,19.9,OAK,22.9,SJC,6.4,264.51,Star Taxi,Northeast Medical Center,LAX,15.4,BUR,44.6,LGB,14
+Skyline Suites,San Francisco,CA,SFO,18.3,OAK,8.5,SJC,35.8,270.94,Eagle Taxi,St. Mary's Hospital,LAX,41,BUR,33.7,LGB,11.7
+City Center Lodge,San Francisco,CA,SFO,3.4,OAK,30.2,SJC,41.6,119.7,TopRide Taxi,Central Clinic,LAX,32.1,BUR,18.7,LGB,28.3
+Skyline Suites,San Francisco,CA,SFO,18.4,OAK,43.5,SJC,41.9,164.39,Metro Taxi,Regional Medical Center,LAX,21.5,BUR,31.3,LGB,1.5
+Pine Tree Inn,San Francisco,CA,SFO,26.4,OAK,27.4,SJC,22.2,245.93,TopRide Taxi,Valley Health Center,LAX,35.1,BUR,18.5,LGB,45.4
+Bay Area Hotel,San Francisco,CA,SFO,16.4,OAK,36.3,SJC,28.9,273.6,Star Taxi,Valley Health Center,SFO,6.6,OAK,1.6,SJC,41.3
+Mountain Peak Lodge,San Francisco,CA,SFO,2.8,OAK,46.5,SJC,14.2,193.85,Urban Cabs,Memorial Hospital,SFO,43,OAK,43.3,SJC,35.2
+Metro Inn,Los Angeles,CA,LAX,42.1,BUR,20.3,LGB,9.6,185.96,BlueLine Taxi,Northeast Medical Center,SFO,4.6,OAK,24.8,SJC,34.9
+Sapphire Hotel,Los Angeles,CA,LAX,43.8,BUR,48.4,LGB,35,237.05,Green Cab,St. Mary's Hospital,SFO,29.6,OAK,4.2,SJC,16.3
+Central Park Inn,San Francisco,CA,SFO,45.2,OAK,38.5,SJC,38.3,264.07,Metro Taxi,Northside Hospital,SFO,46,OAK,19.9,SJC,13.5
+Golden Gate Hotel,San Francisco,CA,SFO,44.4,OAK,5.9,SJC,2,122.97,Alpha Cab,City Medical Center,SFO,22.6,OAK,19.1,SJC,15
+Sunset Inn,San Francisco,CA,SFO,20,OAK,4.7,SJC,22.2,207.75,Premier Rides,Urban Health Clinic,LAX,9.4,BUR,44,LGB,46.7
+Bay Area Hotel,San Francisco,CA,SFO,25.5,OAK,43.4,SJC,38.4,147.43,Elite Taxi,City Health Clinic,LAX,48.8,BUR,17.9,LGB,34.6
+Coastal Breeze Hotel,San Francisco,CA,SFO,20.2,OAK,29.9,SJC,28,197.7,City Cab,Northeast Medical Center,SFO,19.1,OAK,25.7,SJC,25.4
+Sunset Inn,Los Angeles,CA,LAX,23.4,BUR,9.4,LGB,33.5,209.35,Express Cab,Mountain View Hospital,LAX,40.9,BUR,16.4,LGB,36.4
+Lakeside Inn,Los Angeles,CA,LAX,4.6,BUR,15.2,LGB,8.9,154.73,Rapid Cab,Urban Health Clinic,LAX,32.4,BUR,38.5,LGB,12.5
+Skyline Suites,San Francisco,CA,SFO,10.1,OAK,37.3,SJC,1.1,208.46,Comfort Ride,City Health Clinic,LAX,44.9,BUR,39.4,LGB,19.5
+Golden Gate Hotel,Los Angeles,CA,LAX,11.8,BUR,37.5,LGB,49.7,100.67,Urban Cabs,Lakeside Medical Center,LAX,33,BUR,18.4,LGB,19.7
+Bay Area Hotel,Los Angeles,CA,LAX,3.5,BUR,42.7,LGB,14.7,231.01,BlueLine Taxi,West End Hospital,LAX,17.1,BUR,33.9,LGB,9.2
+Capitol Stay,Los Angeles,CA,LAX,33.7,BUR,34.7,LGB,34.1,175.03,Rapid Cab,City Health Clinic,LAX,10.5,BUR,46,LGB,11.5
+Skyline Suites,San Francisco,CA,SFO,45.6,OAK,18.4,SJC,2.8,112.7,Alpha Cab,Main Street Medical Center,SFO,0.6,OAK,36.6,SJC,43.3
+Central Park Inn,Los Angeles,CA,LAX,27.5,BUR,32.8,LGB,27.3,252.79,Star Taxi,Harbor Hospital,SFO,46.5,OAK,4.8,SJC,13.7
+Harbor View Hotel,Los Angeles,CA,LAX,48.2,BUR,6.8,LGB,15.7,279.42,Metro Taxi,Lakeside Medical Center,SFO,17.7,OAK,46.2,SJC,10.1
+Palm Grove Hotel,San Francisco,CA,SFO,45.3,OAK,33.9,SJC,9.7,150.68,Liberty Taxi,Mountain View Hospital,SFO,24.9,OAK,33.6,SJC,30.6
+Mountain Peak Lodge,San Francisco,CA,SFO,47.6,OAK,15.3,SJC,29,270.88,Sunshine Taxi,Northeast Medical Center,SFO,22.2,OAK,44.1,SJC,18
+Bay Area Hotel,San Francisco,CA,SFO,42.1,OAK,33.4,SJC,15.3,148.97,Green Cab,St. Mary's Hospital,SFO,34.5,OAK,23.7,SJC,6.4
+Mountain Peak Lodge,Los Angeles,CA,LAX,35.6,BUR,35.8,LGB,43.8,289.33,Express Cab,Coastal Health Center,LAX,18.6,BUR,40.7,LGB,36
+Maple Leaf Lodge,Los Angeles,CA,LAX,10.9,BUR,32.8,LGB,20.3,224.78,Sunshine Taxi,West End Hospital,LAX,14.5,BUR,18.5,LGB,40.8
+Garden Court Hotel,Los Angeles,CA,LAX,10.4,BUR,3.9,LGB,48.4,198.84,Rapid Cab,Lakeside Medical Center,SFO,41.7,OAK,6.5,SJC,1
+Bay Area Hotel,Los Angeles,CA,LAX,8.6,BUR,4.9,LGB,15.9,155.78,Rapid Cab,Northeast Medical Center,SFO,12.6,OAK,20.1,SJC,4.3
+Sapphire Hotel,Los Angeles,CA,LAX,28,BUR,35,LGB,42.4,188.29,Liberty Taxi,Mountain View Hospital,LAX,21.9,BUR,12.7,LGB,48.4
+Skyline Suites,Los Angeles,CA,LAX,21.8,BUR,13.8,LGB,9.6,248.74,Star Taxi,Riverfront Medical Center,SFO,29.2,OAK,33.5,SJC,17.9
+Riverfront Hotel,Los Angeles,CA,LAX,10.3,BUR,48.3,LGB,1.9,249.21,Green Cab,Community Hospital,LAX,24.4,BUR,11.8,LGB,19.7
+City Center Lodge,San Francisco,CA,SFO,22.7,OAK,26.5,SJC,31.1,223.82,First Choice Taxi,Regional Medical Center,MIA,42,FLL,38.6,PBI,21.3
+Central Park Inn,Miami,FL,MIA,45.5,FLL,14.5,PBI,28.9,222.01,Express Cab,Main Street Medical Center,MIA,44.3,FLL,27.2,PBI,17.3
+Palm Grove Hotel,Miami,FL,MIA,45.3,FLL,38.9,PBI,10.8,238.61,Comfort Ride,Harbor Hospital,MIA,40,FLL,40.2,PBI,38.4
+Central Park Inn,Miami,FL,MIA,36,FLL,43.5,PBI,13.7,165.75,Metro Taxi,Urban Health Clinic,MIA,18.9,FLL,20.9,PBI,30.9
+Metro Inn,Miami,FL,MIA,10.2,FLL,21.1,PBI,40.1,135.15,Quick Ride,Community Hospital,MIA,40.1,FLL,29.8,PBI,18.9
+Metro Inn,Miami,FL,MIA,30.7,FLL,47.6,PBI,8.5,203.55,Express Cab,Lakeside Medical Center,MIA,39.3,FLL,21.9,PBI,34.5
+Central Park Inn,Miami,FL,MIA,5.2,FLL,4.4,PBI,45.4,207.82,Yellow Cab,Mountain View Hospital,MIA,18,FLL,25.6,PBI,4.4
+Central Park Inn,Miami,FL,MIA,42.7,FLL,22.1,PBI,38.2,277.25,Town Car Service,Urban Health Clinic,MIA,43.4,FLL,23.2,PBI,16.7
+Lakeside Inn,Miami,FL,MIA,46.2,FLL,19.1,PBI,29.8,167.27,Express Cab,Pine Valley Hospital,MIA,24,FLL,11.5,PBI,14.3
+Capitol Stay,Miami,FL,MIA,14,FLL,14.3,PBI,25,265.61,Town Car Service,West End Hospital,MIA,42.1,FLL,36.7,PBI,11.5
+Sapphire Hotel,Miami,FL,MIA,10,FLL,16.6,PBI,36.5,102.17,Rapid Cab,Valley Health Center,MIA,28.5,FLL,1.3,PBI,38.4
+Bay Area Hotel,Miami,FL,MIA,18.9,FLL,16.4,PBI,34.8,280.23,Golden Cab,Community Hospital,MIA,17.1,FLL,48.1,PBI,1.4
+Ocean View Hotel,Miami,FL,MIA,34.8,FLL,31.6,PBI,41.9,241.77,Best Taxi,City Health Clinic,MIA,41.3,FLL,45,PBI,39.6
+Broadway Hotel,Miami,FL,MIA,21,FLL,24.1,PBI,35.3,263.5,Premier Rides,Southern Health Clinic,MIA,0.5,FLL,6.3,PBI,45.4
+Pine Tree Inn,Miami,FL,MIA,3.4,FLL,26.5,PBI,15.9,168.32,Star Taxi,Main Street Medical Center,MIA,14.1,FLL,26.9,PBI,23.4
+Coastal Breeze Hotel,Miami,FL,MIA,23.5,FLL,34.4,PBI,46.7,189.13,Urban Cabs,Southern Health Clinic,MIA,45.4,FLL,33.9,PBI,31.4
+Skyline Suites,Miami,FL,MIA,7.4,FLL,6.6,PBI,13.2,123.13,Speedy Taxi,Downtown Medical Center,MIA,45.4,FLL,26.5,PBI,34
+City Center Lodge,Miami,FL,MIA,6.4,FLL,8.1,PBI,49.2,177.1,Star Taxi,Mountain View Hospital,MIA,31.3,FLL,20.2,PBI,25.9
+Urban Retreat,Miami,FL,MIA,2,FLL,4.9,PBI,14.6,268.19,Town Car Service,Community Hospital,MIA,3,FLL,21.3,PBI,43.3
+Lakeside Inn,Miami,FL,MIA,45.2,FLL,6.1,PBI,45.7,235.61,Green Cab,Urban Health Clinic,MIA,4.9,FLL,42.8,PBI,12.3
+Bay Area Hotel,Miami,FL,MIA,16.5,FLL,12.9,PBI,13.9,183.58,Quick Ride,Green Valley Hospital,MIA,4.9,FLL,19.9,PBI,11.7
+Sunset Inn,Miami,FL,MIA,48.6,FLL,2.8,PBI,40.5,257.13,First Choice Taxi,West End Hospital,MIA,12,FLL,28.9,PBI,37.5
+Sunset Inn,Miami,FL,MIA,17.3,FLL,43.5,PBI,41.9,101.46,Sunshine Taxi,Urban Health Clinic,MIA,13.4,FLL,19.5,PBI,25.2
+Sunset Inn,Miami,FL,MIA,26.9,FLL,46.9,PBI,19.3,181.62,Speedy Taxi,Northeast Medical Center,MIA,17.9,FLL,11.6,PBI,23.9
+Pine Tree Inn,Miami,FL,MIA,12.7,FLL,22.9,PBI,10.6,191.46,Sunshine Taxi,Pine Valley Hospital,MIA,41.5,FLL,28.2,PBI,41.7
+Crystal Waters Hotel,Miami,FL,MIA,46.6,FLL,15.6,PBI,14.5,160.41,TopRide Taxi,City Health Clinic,MIA,5.3,FLL,38.5,PBI,31.1
+Sunset Inn,Miami,FL,MIA,9.6,FLL,16.3,PBI,39.7,219.83,Sunshine Taxi,Regional Medical Center,MIA,42.5,FLL,34.5,PBI,45.9
+Broadway Hotel,Miami,FL,MIA,40.9,FLL,18.3,PBI,37.4,281.04,Star Taxi,Downtown Medical Center,MIA,9.5,FLL,45.1,PBI,23.8
+Skyline Suites,Miami,FL,MIA,4.9,FLL,45.1,PBI,13.1,107.65,Royal Cab,City Health Clinic,MIA,36.1,FLL,40.6,PBI,11.5
+Grand Plaza,Miami,FL,MIA,16.4,FLL,17.9,PBI,7.2,207.71,Star Taxi,Memorial Hospital,MIA,20,FLL,41.7,PBI,32.9
+Lakeside Inn,Miami,FL,MIA,34.2,FLL,15.9,PBI,21.3,214.82,City Cab,Northside Hospital,MIA,19.4,FLL,35.6,PBI,25.4
+Sunset Inn,Miami,FL,MIA,45,FLL,39.6,PBI,13.7,186.55,Urban Cabs,City Health Clinic,MIA,22.1,FLL,2.6,PBI,12.2
+Lakeside Inn,Miami,FL,MIA,20.7,FLL,3.2,PBI,34.6,238.58,Metro Taxi,General Hospital,MIA,20,FLL,27.9,PBI,36.3
+Coastal Breeze Hotel,Miami,FL,MIA,11.2,FLL,43.1,PBI,32.7,131.83,Royal Cab,Central Clinic,MIA,14.7,FLL,33.9,PBI,1.5
+Bay Area Hotel,Miami,FL,MIA,26.5,FLL,12.5,PBI,24.4,158.84,Town Car Service,Sunrise Hospital,MIA,26.4,FLL,16.3,PBI,26.7
+Desert Resort,Miami,FL,MIA,19.2,FLL,25.9,PBI,2,233.19,Royal Cab,Coastal Health Center,MIA,47.2,FLL,47.3,PBI,20.3
+Golden Gate Hotel,Miami,FL,MIA,35.5,FLL,4,PBI,32.1,149.29,Liberty Taxi,Urban Health Clinic,MIA,33.8,FLL,11.3,PBI,15.8
+Emerald Isle Hotel,Miami,FL,MIA,33.3,FLL,30.6,PBI,24.6,157.07,Express Cab,Downtown Medical Center,MIA,44.8,FLL,23.3,PBI,28
+Crystal Waters Hotel,Miami,FL,MIA,4.9,FLL,39.2,PBI,43.9,262.56,Best Taxi,Downtown Medical Center,MIA,3.3,FLL,44.2,PBI,20.2
+Bay Area Hotel,Miami,FL,MIA,26.3,FLL,37.2,PBI,49.9,293.24,Elite Taxi,City Health Clinic,MIA,33.3,FLL,22.8,PBI,16.2
+Coastal Breeze Hotel,Miami,FL,MIA,47.2,FLL,30.1,PBI,12.2,267.35,TopRide Taxi,Eastside Medical Center,MIA,26.4,FLL,41.6,PBI,4.4
+Mountain Peak Lodge,Miami,FL,MIA,24.2,FLL,21.9,PBI,23.5,264.62,Golden Cab,Riverfront Medical Center,MIA,31.1,FLL,24.7,PBI,9
+Ocean View Hotel,Miami,FL,MIA,32.5,FLL,47.6,PBI,20.1,260.93,City Cab,Southern Health Clinic,MIA,24.5,FLL,29.5,PBI,3.5
+Crystal Waters Hotel,Miami,FL,MIA,41,FLL,26,PBI,42.7,211.08,BlueLine Taxi,Eastside Medical Center,MIA,48.4,FLL,34.4,PBI,49.3
+Coastal Breeze Hotel,Miami,FL,MIA,2.2,FLL,14.2,PBI,27.7,223.63,Sunshine Taxi,General Hospital,MIA,43.8,FLL,26.9,PBI,32.3
+Bay Area Hotel,Miami,FL,MIA,14.3,FLL,26.1,PBI,46.2,265.08,Elite Taxi,Downtown Medical Center,MIA,4.9,FLL,31.4,PBI,40
+Central Park Inn,Miami,FL,MIA,25.6,FLL,23,PBI,27.4,135.7,Rapid Cab,Urban Health Clinic,MIA,30.1,FLL,36.8,PBI,4.9
+Bay Area Hotel,Miami,FL,MIA,34.4,FLL,9.3,PBI,4.9,149.32,Speedy Taxi,Northeast Medical Center,MIA,12.6,FLL,47.7,PBI,14
+Capitol Stay,Miami,FL,MIA,10.8,FLL,35.3,PBI,39.6,142.27,Express Cab,Riverfront Medical Center,MIA,8.6,FLL,13.2,PBI,6.6
+Skyline Suites,Miami,FL,MIA,26,FLL,6,PBI,4.3,124.54,Premier Rides,Northeast Medical Center,MIA,45.8,FLL,19.3,PBI,32.2
+Coastal Breeze Hotel,Miami,FL,MIA,43.3,FLL,39.1,PBI,49.7,293.77,Star Taxi,Valley Health Center,MIA,38.6,FLL,27.6,PBI,31.8
+Sapphire Hotel,Miami,FL,MIA,21.1,FLL,18.5,PBI,9.1,176.17,Sunshine Taxi,Downtown Medical Center,MIA,41.8,FLL,21.2,PBI,36
+Sunset Inn,Miami,FL,MIA,34.4,FLL,36,PBI,11,298.42,Express Cab,Central Clinic,MIA,25.4,FLL,19.6,PBI,18.8
+Harbor View Hotel,Miami,FL,MIA,38.1,FLL,29.6,PBI,24.3,213.18,TopRide Taxi,Sunrise Hospital,MIA,19.4,FLL,12,PBI,15.6
+Golden Gate Hotel,Miami,FL,MIA,28,FLL,19.8,PBI,28.6,226.54,Quick Ride,Green Valley Hospital,MIA,9.2,FLL,47.7,PBI,3.6
+Metro Inn,Miami,FL,MIA,24.9,FLL,45.7,PBI,1.5,299.39,Star Taxi,City Medical Center,MIA,25.6,FLL,19.1,PBI,43.4
+Golden Gate Hotel,Miami,FL,MIA,13.9,FLL,6.3,PBI,31.5,113.34,Premier Rides,Community Hospital,MIA,48.9,FLL,31.5,PBI,19.1
+Urban Retreat,Miami,FL,MIA,11,FLL,18.5,PBI,33.2,268.05,Rapid Cab,Riverfront Medical Center,MIA,43.2,FLL,9.9,PBI,19.7
+Emerald Isle Hotel,Miami,FL,MIA,21.4,FLL,37.4,PBI,28.5,144.38,Express Cab,Sunrise Hospital,MIA,21.6,FLL,6.1,PBI,19
+Harbor View Hotel,Miami,FL,MIA,0.8,FLL,3.9,PBI,44.2,228.5,Best Taxi,Sunrise Hospital,MIA,21,FLL,20.4,PBI,24.2
+Pine Tree Inn,Miami,FL,MIA,16.5,FLL,30.2,PBI,38.9,136.75,First Choice Taxi,Southern Health Clinic,MIA,33.3,FLL,26.3,PBI,34.9
+Skyline Suites,Miami,FL,MIA,23.2,FLL,31.2,PBI,35.4,164.91,Reliable Rides,Riverfront Medical Center,MIA,19,FLL,27.9,PBI,43.6
+Emerald Isle Hotel,Miami,FL,MIA,40.7,FLL,31.7,PBI,17.2,173,Eagle Taxi,Mountain View Hospital,MIA,20.5,FLL,17.1,PBI,35.2
+Lakeside Inn,Miami,FL,MIA,16.8,FLL,17,PBI,37.9,153.66,Eagle Taxi,Northside Hospital,MIA,6,FLL,33.7,PBI,14.1
+Pine Tree Inn,Miami,FL,MIA,14.5,FLL,41.9,PBI,38.3,246.91,Premier Rides,Eastside Medical Center,MIA,1.6,FLL,35.8,PBI,18.9
+Desert Resort,Miami,FL,MIA,15.2,FLL,13,PBI,47.6,249.26,Comfort Ride,Memorial Hospital,MIA,24.9,FLL,6.7,PBI,30.4
+Bay Area Hotel,Miami,FL,MIA,20.4,FLL,1.8,PBI,17.9,107.7,Yellow Cab,Lakeside Medical Center,MIA,27.6,FLL,10.5,PBI,40.2
+Central Park Inn,Miami,FL,MIA,8.9,FLL,4.4,PBI,49.8,203.61,City Cab,Valley Health Center,MIA,32.6,FLL,44.7,PBI,10.8
+Pine Tree Inn,Miami,FL,MIA,41,FLL,15.3,PBI,15.5,142.34,City Cab,City Health Clinic,MIA,36.5,FLL,22.2,PBI,42.2
+Bay Area Hotel,Miami,FL,MIA,38.9,FLL,42.7,PBI,18.5,267.66,Urban Cabs,St. Mary's Hospital,MIA,25.8,FLL,32.2,PBI,13.8
+City Center Lodge,Miami,FL,MIA,49.6,FLL,47.1,PBI,21.7,257.51,Comfort Ride,Coastal Health Center,MIA,45.3,FLL,28.9,PBI,34.5
+Lakeside Inn,Miami,FL,MIA,0.9,FLL,45.4,PBI,34.8,265.52,Town Car Service,Community Hospital,MIA,20.5,FLL,13.7,PBI,7.9
+Urban Retreat,Miami,FL,MIA,7.5,FLL,38.2,PBI,35.2,215.97,Liberty Taxi,Community Hospital,MIA,34,FLL,9.9,PBI,39.2
+Urban Retreat,Miami,FL,MIA,28.6,FLL,15.6,PBI,45.8,185.82,Speedy Taxi,Regional Medical Center,MIA,19.9,FLL,31.1,PBI,5
+Ocean View Hotel,Miami,FL,MIA,15.2,FLL,26.8,PBI,36.9,243.41,Liberty Taxi,Sunrise Hospital,MIA,20,FLL,14.1,PBI,46.5
+Emerald Isle Hotel,Miami,FL,MIA,43.2,FLL,1.9,PBI,24,231.38,Eagle Taxi,City Medical Center,MIA,21.8,FLL,36.5,PBI,21.2
+Riverfront Hotel,Miami,FL,MIA,41.3,FLL,6.4,PBI,5.7,200.28,Premier Rides,Eastside Medical Center,MIA,45.6,FLL,28.2,PBI,26.2
+Crystal Waters Hotel,Miami,FL,MIA,28.2,FLL,2.3,PBI,36.8,123.81,Eagle Taxi,St. Mary's Hospital,MIA,9,FLL,8.4,PBI,48.6
+Ocean View Hotel,Miami,FL,MIA,17.6,FLL,16.1,PBI,28.5,222.07,Liberty Taxi,Downtown Medical Center,MIA,19,FLL,31.3,PBI,19
+Emerald Isle Hotel,Miami,FL,MIA,43.5,FLL,8.9,PBI,19.2,219.96,Town Car Service,City Medical Center,MIA,29.8,FLL,30.7,PBI,13.3
+Broadway Hotel,Miami,FL,MIA,31.9,FLL,33.9,PBI,19,277.17,BlueLine Taxi,Main Street Medical Center,MIA,38.3,FLL,36.9,PBI,7.9
+Crystal Waters Hotel,Miami,FL,MIA,27.2,FLL,25.8,PBI,38.7,109.05,Eagle Taxi,General Hospital,MIA,24.4,FLL,16.9,PBI,12.5
+Bay Area Hotel,Miami,FL,MIA,27.7,FLL,3.5,PBI,42.1,128.56,TopRide Taxi,West End Hospital,MIA,2.3,FLL,35.9,PBI,13.1
+Lakeside Inn,Miami,FL,MIA,12.1,FLL,20.9,PBI,2.1,227.08,Eagle Taxi,Lakeside Medical Center,MIA,6.1,FLL,9.7,PBI,2.5
+Riverfront Hotel,Miami,FL,MIA,20.8,FLL,40.4,PBI,44.5,203.07,Eagle Taxi,St. Mary's Hospital,MIA,38.8,FLL,46.6,PBI,43.3
+Broadway Hotel,Miami,FL,MIA,33.4,FLL,18.7,PBI,41.2,125.39,Speedy Taxi,Mountain View Hospital,MIA,32,FLL,14.1,PBI,20.9
+Pine Tree Inn,Miami,FL,MIA,49.8,FLL,30,PBI,7.2,165.78,Elite Taxi,Mountain View Hospital,MIA,28.3,FLL,34.2,PBI,27.2
+Maple Leaf Lodge,Miami,FL,MIA,49.9,FLL,25,PBI,18.6,198.52,Eagle Taxi,Green Valley Hospital,MIA,15.4,FLL,20.8,PBI,20.6
+Bay Area Hotel,Miami,FL,MIA,24.8,FLL,32.6,PBI,35.4,107.99,Liberty Taxi,Downtown Medical Center,MIA,25.6,FLL,5.6,PBI,33.3
+Capitol Stay,Miami,FL,MIA,5.9,FLL,9.8,PBI,7,229.46,First Choice Taxi,Southern Health Clinic,MIA,43.3,FLL,21.2,PBI,28
+Sapphire Hotel,Miami,FL,MIA,3,FLL,44.9,PBI,11.1,211.63,TopRide Taxi,Riverfront Medical Center,MIA,25.2,FLL,11.1,PBI,15.7
+Palm Grove Hotel,Miami,FL,MIA,37.4,FLL,28.1,PBI,39,129.06,Yellow Cab,St. Mary's Hospital,JFK,13.3,LGA,15.8,EWR,38
+Garden Court Hotel,Miami,FL,MIA,31.4,FLL,18.8,PBI,30.3,206.07,Comfort Ride,Central Clinic,JFK,38,LGA,24.9,EWR,42.6
+Central Park Inn,Miami,FL,MIA,23.1,FLL,23.8,PBI,1,115.06,City Cab,Northside Hospital,JFK,40.6,LGA,26.6,EWR,35.5
+Palm Grove Hotel,Miami,FL,MIA,27.3,FLL,15.2,PBI,40.2,238.99,Alpha Cab,Southern Health Clinic,JFK,13,LGA,0.5,EWR,36.8
+Lakeside Inn,Miami,FL,MIA,38.1,FLL,4.4,PBI,6.9,201.11,Golden Cab,West End Hospital,JFK,20.7,LGA,47.1,EWR,16.8
+Lakeside Inn,New York,NY,JFK,11.7,LGA,18.9,EWR,23.9,255.32,Metro Taxi,City Medical Center,JFK,49.9,LGA,20.3,EWR,16.4
+Maple Leaf Lodge,New York,NY,JFK,7,LGA,7.8,EWR,10.7,213.22,Town Car Service,Urban Health Clinic,JFK,7.2,LGA,39,EWR,8.1
+Ocean View Hotel,New York,NY,JFK,43.8,LGA,35.2,EWR,23.7,138.95,Reliable Rides,Harbor Hospital,JFK,5.2,LGA,34.1,EWR,13.7
+Riverfront Hotel,New York,NY,JFK,2.2,LGA,37.6,EWR,44.6,236.84,Comfort Ride,Main Street Medical Center,JFK,33.2,LGA,14.9,EWR,9.9
+Coastal Breeze Hotel,New York,NY,JFK,25.1,LGA,44.4,EWR,37.2,272.78,First Choice Taxi,Northeast Medical Center,JFK,25.5,LGA,39,EWR,37.4
+Bay Area Hotel,New York,NY,JFK,27,LGA,41.8,EWR,29.1,105.42,Speedy Taxi,Green Valley Hospital,JFK,32.1,LGA,48.2,EWR,28.2
+Golden Gate Hotel,New York,NY,JFK,42.7,LGA,6.8,EWR,22.4,110.5,TopRide Taxi,Memorial Hospital,JFK,38.8,LGA,12.5,EWR,44.1
+Mountain Peak Lodge,New York,NY,JFK,12.4,LGA,43.8,EWR,36.6,150.82,City Cab,Harbor Hospital,JFK,44.2,LGA,15.5,EWR,47.6
+Bay Area Hotel,New York,NY,JFK,22,LGA,8.2,EWR,36.1,288.53,Rapid Cab,Southern Health Clinic,JFK,44.6,LGA,12.2,EWR,27.7
+City Center Lodge,New York,NY,JFK,35.7,LGA,1.1,EWR,45,193.55,Reliable Rides,Northeast Medical Center,JFK,9.4,LGA,39.4,EWR,36.2
+Harbor View Hotel,New York,NY,JFK,23.4,LGA,19.3,EWR,36.6,149.11,Town Car Service,Riverfront Medical Center,JFK,41,LGA,18.1,EWR,36.8
+Harbor View Hotel,New York,NY,JFK,4.3,LGA,45.5,EWR,22,212.51,Town Car Service,Sunrise Hospital,JFK,48.9,LGA,7.2,EWR,41
+Crystal Waters Hotel,New York,NY,JFK,29.3,LGA,10.5,EWR,49.5,127.76,Metro Taxi,West End Hospital,JFK,33.4,LGA,16.6,EWR,33
+Metro Inn,New York,NY,JFK,14,LGA,28,EWR,43.4,140.95,City Cab,Pine Valley Hospital,JFK,31.7,LGA,31.3,EWR,12.4
+Skyline Suites,New York,NY,JFK,27.4,LGA,11.5,EWR,42.9,252.58,Speedy Taxi,Eastside Medical Center,JFK,45.7,LGA,23.7,EWR,47.9
+Maple Leaf Lodge,New York,NY,JFK,47,LGA,6.6,EWR,26.1,276.6,BlueLine Taxi,Mountain View Hospital,JFK,25.4,LGA,18.4,EWR,49.8
+Golden Gate Hotel,New York,NY,JFK,8.2,LGA,48,EWR,1.2,153.03,BlueLine Taxi,Harbor Hospital,JFK,45.7,LGA,1.1,EWR,38.4
+Emerald Isle Hotel,New York,NY,JFK,12.9,LGA,21.6,EWR,3.8,225.71,Express Cab,Mountain View Hospital,JFK,14.4,LGA,11.6,EWR,39.1
+Lakeside Inn,New York,NY,JFK,21.4,LGA,34.8,EWR,26.2,229.98,Royal Cab,Regional Medical Center,JFK,41.1,LGA,12.4,EWR,3.3
+Lakeside Inn,New York,NY,JFK,28.5,LGA,27.2,EWR,42.3,118.67,Urban Cabs,Green Valley Hospital,JFK,16.3,LGA,44.7,EWR,20.8
+Central Park Inn,New York,NY,JFK,41.9,LGA,10.9,EWR,34.5,211.6,Golden Cab,Urban Health Clinic,JFK,22.1,LGA,34.6,EWR,4.8
+Riverfront Hotel,New York,NY,JFK,22.6,LGA,43.7,EWR,30.5,232.52,Comfort Ride,Memorial Hospital,JFK,44.5,LGA,6.1,EWR,18.8
+Capitol Stay,New York,NY,JFK,30.6,LGA,12.3,EWR,1.7,135.12,Reliable Rides,Downtown Medical Center,JFK,24.7,LGA,15.5,EWR,1.3
+Ocean View Hotel,New York,NY,JFK,22.2,LGA,22.4,EWR,15.4,162.16,Urban Cabs,Central Clinic,JFK,7.8,LGA,40.8,EWR,41.6
+Garden Court Hotel,New York,NY,JFK,2.2,LGA,43.6,EWR,19.5,129.91,Eagle Taxi,City Medical Center,JFK,3.3,LGA,2.2,EWR,37.7
+Sapphire Hotel,New York,NY,JFK,33.6,LGA,35.6,EWR,10.5,263.99,BlueLine Taxi,Northside Hospital,JFK,28.7,LGA,19.4,EWR,49.3
+Central Park Inn,New York,NY,JFK,22.7,LGA,15.7,EWR,31.4,109.06,Reliable Rides,Green Valley Hospital,JFK,39.2,LGA,45.7,EWR,9
+Emerald Isle Hotel,New York,NY,JFK,12.6,LGA,14,EWR,46.6,137.76,Urban Cabs,City Health Clinic,JFK,44.5,LGA,37.9,EWR,23.2
+Maple Leaf Lodge,New York,NY,JFK,17.8,LGA,1.6,EWR,35.3,170.64,Express Cab,Pine Valley Hospital,JFK,24.8,LGA,24.9,EWR,43.4
+Bay Area Hotel,New York,NY,JFK,8.9,LGA,0.9,EWR,7.1,281.38,Premier Rides,Green Valley Hospital,JFK,25.3,LGA,35.6,EWR,9.6
+Mountain Peak Lodge,New York,NY,JFK,39.9,LGA,31.5,EWR,30.8,138.47,Best Taxi,Coastal Health Center,JFK,25.1,LGA,37.5,EWR,39
+Grand Plaza,New York,NY,JFK,23.5,LGA,34.8,EWR,29.5,226.32,Royal Cab,Pine Valley Hospital,JFK,1.4,LGA,39.7,EWR,46.7
+Pine Tree Inn,New York,NY,JFK,35.7,LGA,0.8,EWR,48.4,223.02,Quick Ride,Northside Hospital,JFK,37.4,LGA,42.7,EWR,40.2
+Metro Inn,New York,NY,JFK,8.5,LGA,29.1,EWR,32.3,265.56,Premier Rides,Urban Health Clinic,JFK,41,LGA,25.3,EWR,11.5
+Coastal Breeze Hotel,New York,NY,JFK,49.1,LGA,41,EWR,32,273.43,Rapid Cab,Lakeside Medical Center,JFK,42.5,LGA,43.5,EWR,3.6
+Garden Court Hotel,New York,NY,JFK,29.9,LGA,48.6,EWR,0.8,240.03,TopRide Taxi,St. Mary's Hospital,JFK,49.9,LGA,46.5,EWR,30.9
+Grand Plaza,New York,NY,JFK,20.7,LGA,7.1,EWR,30.6,265.65,Green Cab,Lakeside Medical Center,JFK,23.2,LGA,38.3,EWR,17.1
+Skyline Suites,New York,NY,JFK,7.9,LGA,30.9,EWR,39.5,149.49,Yellow Cab,General Hospital,JFK,2.4,LGA,23.6,EWR,11.7
+Garden Court Hotel,New York,NY,JFK,14.9,LGA,40.2,EWR,35.3,102.07,Alpha Cab,City Medical Center,JFK,49.2,LGA,1.8,EWR,48.5
+Crystal Waters Hotel,New York,NY,JFK,39.2,LGA,35.1,EWR,34.1,188.49,BlueLine Taxi,Green Valley Hospital,JFK,46,LGA,20.3,EWR,46
+Harbor View Hotel,New York,NY,JFK,33.9,LGA,18.2,EWR,37.1,164.11,Reliable Rides,City Medical Center,JFK,10.5,LGA,8.4,EWR,16.4
+Mountain Peak Lodge,New York,NY,JFK,26.9,LGA,45.3,EWR,17.9,285.79,First Choice Taxi,Riverfront Medical Center,JFK,11.1,LGA,39.8,EWR,2
+Golden Gate Hotel,New York,NY,JFK,48,LGA,21.2,EWR,35.7,168.76,First Choice Taxi,Southern Health Clinic,JFK,14,LGA,42,EWR,28.4
+Sapphire Hotel,New York,NY,JFK,41.6,LGA,31.2,EWR,3.9,175.21,Rapid Cab,City Medical Center,JFK,42.2,LGA,4.6,EWR,38.7
+Central Park Inn,New York,NY,JFK,41.6,LGA,17.6,EWR,48.2,181.99,Metro Taxi,Memorial Hospital,JFK,25.3,LGA,19.1,EWR,12.7
+Harbor View Hotel,New York,NY,JFK,35.2,LGA,40,EWR,44.4,251.23,City Cab,Central Clinic,JFK,37.6,LGA,39.8,EWR,12.6
+City Center Lodge,New York,NY,JFK,14.9,LGA,6,EWR,19.6,217.77,Quick Ride,Sunrise Hospital,JFK,41.7,LGA,6.9,EWR,34.5
+Garden Court Hotel,New York,NY,JFK,37.3,LGA,10.1,EWR,33.2,178.09,Liberty Taxi,Community Hospital,JFK,49.3,LGA,30.4,EWR,24.5
+Crystal Waters Hotel,New York,NY,JFK,43,LGA,13.4,EWR,21.4,231.55,Best Taxi,Downtown Medical Center,JFK,42.6,LGA,18.3,EWR,19.4
+Palm Grove Hotel,New York,NY,JFK,14.7,LGA,25.2,EWR,13.8,132,Yellow Cab,St. Mary's Hospital,JFK,12.7,LGA,42.6,EWR,27.4
+Lakeside Inn,New York,NY,JFK,42,LGA,36.7,EWR,12,240.42,Urban Cabs,Northeast Medical Center,JFK,36.1,LGA,15.9,EWR,37.4
+Urban Retreat,New York,NY,JFK,4.2,LGA,32.4,EWR,45.4,153.8,BlueLine Taxi,Eastside Medical Center,JFK,22.8,LGA,19.3,EWR,9.8
+Mountain Peak Lodge,New York,NY,JFK,1.7,LGA,48.1,EWR,2.7,148.75,Express Cab,Memorial Hospital,JFK,7.3,LGA,20.3,EWR,5.9
+Central Park Inn,New York,NY,JFK,38,LGA,6.2,EWR,4.5,116.47,Urban Cabs,Pine Valley Hospital,JFK,27.3,LGA,48.3,EWR,44.5
+Ocean View Hotel,New York,NY,JFK,44.2,LGA,30.4,EWR,2.3,232.41,Alpha Cab,Harbor Hospital,JFK,23.7,LGA,20.5,EWR,37.6
+Palm Grove Hotel,New York,NY,JFK,23.6,LGA,12,EWR,41,223.41,Express Cab,St. Mary's Hospital,JFK,18.7,LGA,27.8,EWR,43.5
+Emerald Isle Hotel,New York,NY,JFK,40.7,LGA,47.7,EWR,18.7,199.42,Town Car Service,Harbor Hospital,JFK,16.9,LGA,8.1,EWR,16.3
+Ocean View Hotel,New York,NY,JFK,16.3,LGA,35.9,EWR,5.8,153.88,Best Taxi,City Health Clinic,JFK,46.7,LGA,47.8,EWR,10.1
+Sapphire Hotel,New York,NY,JFK,37.4,LGA,38.4,EWR,19,127.85,Urban Cabs,West End Hospital,JFK,9.2,LGA,36.9,EWR,38.1
+Garden Court Hotel,New York,NY,JFK,41.3,LGA,12.6,EWR,43.7,234.69,Sunshine Taxi,Downtown Medical Center,JFK,37.6,LGA,48.3,EWR,7.1
+Crystal Waters Hotel,New York,NY,JFK,26.1,LGA,7.1,EWR,3.4,130.63,Express Cab,Main Street Medical Center,JFK,47.6,LGA,26.7,EWR,20.6
+Grand Plaza,New York,NY,JFK,47.6,LGA,2.6,EWR,38.5,154.95,Star Taxi,Green Valley Hospital,JFK,32.5,LGA,46.9,EWR,31.3
+Grand Plaza,New York,NY,JFK,45.2,LGA,45.1,EWR,30.6,290.19,Golden Cab,Southern Health Clinic,JFK,24.3,LGA,16.1,EWR,35.3
+Garden Court Hotel,New York,NY,JFK,18.2,LGA,9.7,EWR,31.1,280.69,Liberty Taxi,Valley Health Center,JFK,1.1,LGA,5.4,EWR,8.4
+Riverfront Hotel,New York,NY,JFK,9.8,LGA,3.9,EWR,1.6,127.37,Premier Rides,City Health Clinic,JFK,49.1,LGA,34.5,EWR,46.6
+Broadway Hotel,New York,NY,JFK,13.4,LGA,37.9,EWR,30.2,236.25,City Cab,City Health Clinic,JFK,42.6,LGA,11.8,EWR,37.1
+Bay Area Hotel,New York,NY,JFK,36.9,LGA,27.2,EWR,12.8,227.63,Speedy Taxi,Harbor Hospital,JFK,48,LGA,16.8,EWR,20.8
+Riverfront Hotel,New York,NY,JFK,30.6,LGA,39,EWR,21.5,255.05,Green Cab,Eastside Medical Center,JFK,18.5,LGA,3.9,EWR,12.2
+Grand Plaza,New York,NY,JFK,30,LGA,48.3,EWR,13.4,133.84,Urban Cabs,Community Hospital,JFK,34.6,LGA,37.2,EWR,0.6
+Metro Inn,New York,NY,JFK,22.4,LGA,2.2,EWR,5.6,284.9,Premier Rides,Pine Valley Hospital,JFK,5.2,LGA,14.8,EWR,19.1
+Riverfront Hotel,New York,NY,JFK,23,LGA,35,EWR,28.1,120.91,Royal Cab,City Health Clinic,JFK,36.3,LGA,3.9,EWR,22.9
+City Center Lodge,New York,NY,JFK,6.1,LGA,5,EWR,28.8,180.95,First Choice Taxi,City Medical Center,JFK,49.3,LGA,36.4,EWR,37.1
+Harbor View Hotel,New York,NY,JFK,13,LGA,12.5,EWR,5.4,247.58,Rapid Cab,General Hospital,JFK,31.1,LGA,27.7,EWR,37.4
+Mountain Peak Lodge,New York,NY,JFK,39.3,LGA,14.2,EWR,1.2,169.42,Elite Taxi,Memorial Hospital,JFK,1.5,LGA,20.9,EWR,18.4
+Metro Inn,New York,NY,JFK,8,LGA,12.2,EWR,14.3,258.63,TopRide Taxi,Urban Health Clinic,JFK,25.2,LGA,34.2,EWR,22.7
+Riverfront Hotel,New York,NY,JFK,45.9,LGA,29.7,EWR,0.9,188.2,Liberty Taxi,Central Clinic,JFK,12,LGA,30.7,EWR,14.1
+Pine Tree Inn,New York,NY,JFK,46.1,LGA,42.3,EWR,42.5,155.46,Star Taxi,Downtown Medical Center,JFK,26.7,LGA,35.9,EWR,42.3
+Crystal Waters Hotel,New York,NY,JFK,29.9,LGA,45.7,EWR,8.5,281.71,Urban Cabs,Riverfront Medical Center,JFK,32.2,LGA,32.4,EWR,2.7
+City Center Lodge,New York,NY,JFK,7.5,LGA,4.4,EWR,38.7,192.98,Liberty Taxi,City Health Clinic,JFK,25.6,LGA,40.5,EWR,12.9
+Bay Area Hotel,New York,NY,JFK,24.7,LGA,35.2,EWR,47.2,139.96,Elite Taxi,West End Hospital,JFK,36.7,LGA,36.3,EWR,15
+Broadway Hotel,New York,NY,JFK,5.1,LGA,6.7,EWR,33.1,211.75,Royal Cab,City Medical Center,JFK,46.3,LGA,7,EWR,48.6
+Ocean View Hotel,New York,NY,JFK,48.1,LGA,20.8,EWR,24.3,163.39,Express Cab,West End Hospital,JFK,9.4,LGA,45.4,EWR,34.5
+Bay Area Hotel,New York,NY,JFK,37.1,LGA,33.6,EWR,3.9,115.64,City Cab,City Health Clinic,JFK,5.9,LGA,27.1,EWR,27.2
+Skyline Suites,New York,NY,JFK,5.3,LGA,13.5,EWR,16.3,180.97,First Choice Taxi,General Hospital,JFK,8.7,LGA,49.8,EWR,38.5
+Coastal Breeze Hotel,New York,NY,JFK,3.3,LGA,27.3,EWR,10.4,177.22,Quick Ride,Southern Health Clinic,JFK,29.3,LGA,13.4,EWR,30.9
+Crystal Waters Hotel,New York,NY,JFK,43.5,LGA,35.4,EWR,34.9,145.3,BlueLine Taxi,City Medical Center,JFK,32.6,LGA,46.4,EWR,9.6
+Metro Inn,New York,NY,JFK,36.9,LGA,17.2,EWR,15.8,140.14,Town Car Service,Main Street Medical Center,JFK,10.3,LGA,9.1,EWR,34.8
+Riverfront Hotel,New York,NY,JFK,19.1,LGA,4.1,EWR,11.7,233.51,TopRide Taxi,Eastside Medical Center,JFK,5.2,LGA,17.9,EWR,46.2
+Capitol Stay,New York,NY,JFK,39.3,LGA,20.8,EWR,11.9,296.44,Royal Cab,Downtown Medical Center,JFK,4.5,LGA,3.3,EWR,28.3
+Harbor View Hotel,New York,NY,JFK,34.2,LGA,10.2,EWR,40.7,174.94,BlueLine Taxi,Riverfront Medical Center,JFK,43.3,LGA,31.9,EWR,38.8
+Golden Gate Hotel,New York,NY,JFK,13.5,LGA,26.8,EWR,18.1,282.94,Quick Ride,St. Mary's Hospital,JFK,33.8,LGA,40.7,EWR,16.1
+Palm Grove Hotel,New York,NY,JFK,29.5,LGA,10.7,EWR,11.5,181.06,Town Car Service,Urban Health Clinic,JFK,30.7,LGA,15.1,EWR,8.9
+Maple Leaf Lodge,New York,NY,JFK,17.6,LGA,34.5,EWR,46.1,163.42,Eagle Taxi,Green Valley Hospital,JFK,13.6,LGA,40.6,EWR,10.7
+Maple Leaf Lodge,New York,NY,JFK,23.9,LGA,9.1,EWR,34.4,136.69,Elite Taxi,Coastal Health Center,JFK,45.5,LGA,38.3,EWR,25.2
+Crystal Waters Hotel,New York,NY,JFK,13.8,LGA,5.2,EWR,42.8,275.34,City Cab,Regional Medical Center,SEA,31.9,PAE,14.9,BFI,1.5
+Sapphire Hotel,New York,NY,JFK,27.4,LGA,46.9,EWR,5.2,273.37,Eagle Taxi,Lakeside Medical Center,SEA,26.2,PAE,4.5,BFI,27.8
+Riverfront Hotel,New York,NY,JFK,2.7,LGA,0.6,EWR,31.2,137.82,City Cab,Pine Valley Hospital,SEA,12.5,PAE,41.5,BFI,26.9
+Lakeside Inn,New York,NY,JFK,40.9,LGA,20.5,EWR,25.9,250.66,Urban Cabs,Main Street Medical Center,SEA,19.1,PAE,45.1,BFI,43.9
+Mountain Peak Lodge,New York,NY,JFK,30.8,LGA,2.2,EWR,5.1,101.53,Golden Cab,Regional Medical Center,SEA,31.1,PAE,39.9,BFI,47.5
+Mountain Peak Lodge,New York,NY,JFK,27.5,LGA,19.2,EWR,45.8,235.43,Royal Cab,Pine Valley Hospital,SEA,14.5,PAE,37.4,BFI,8.7
+Golden Gate Hotel,New York,NY,JFK,10.7,LGA,2.1,EWR,47.8,214.06,First Choice Taxi,Northeast Medical Center,SEA,16,PAE,30.7,BFI,7.3
+Harbor View Hotel,New York,NY,JFK,21.5,LGA,9.1,EWR,9.4,220.43,Express Cab,City Health Clinic,SEA,10,PAE,11.7,BFI,12.9
+Urban Retreat,New York,NY,JFK,31.9,LGA,32.6,EWR,17.1,293,Green Cab,Riverfront Medical Center,SEA,41.8,PAE,21.8,BFI,25.6
+Riverfront Hotel,New York,NY,JFK,14,LGA,3.6,EWR,21.1,227.85,Reliable Rides,Regional Medical Center,SEA,37,PAE,44.8,BFI,31.8
+Riverfront Hotel,New York,NY,JFK,38.6,LGA,8.4,EWR,13.2,200.5,Sunshine Taxi,Eastside Medical Center,SEA,9.9,PAE,45.3,BFI,38.1
+Desert Resort,Seattle,WA,SEA,23.2,PAE,45.6,BFI,21.1,284.64,Star Taxi,Northside Hospital,SEA,14.9,PAE,18.4,BFI,47.8
+Urban Retreat,Seattle,WA,SEA,19.2,PAE,19.2,BFI,49.6,281.24,First Choice Taxi,Urban Health Clinic,SEA,15.7,PAE,45.6,BFI,2.4
+Pine Tree Inn,Seattle,WA,SEA,12.4,PAE,44.2,BFI,34.7,227.27,Premier Rides,Northeast Medical Center,SEA,35.4,PAE,7.5,BFI,16.2
+Golden Gate Hotel,Seattle,WA,SEA,15.9,PAE,36.3,BFI,15.4,211.61,Reliable Rides,Sunrise Hospital,SEA,19.1,PAE,17.2,BFI,32.1
+Palm Grove Hotel,Seattle,WA,SEA,3.3,PAE,31.2,BFI,42.2,151.54,Alpha Cab,Mountain View Hospital,SEA,10,PAE,24.5,BFI,37.2
+Ocean View Hotel,Seattle,WA,SEA,6.8,PAE,47.5,BFI,9.9,191.36,Eagle Taxi,Downtown Medical Center,SEA,11.9,PAE,7.1,BFI,31.8
+Sapphire Hotel,Seattle,WA,SEA,5.4,PAE,39.9,BFI,39,133.36,Premier Rides,City Medical Center,SEA,2,PAE,30.5,BFI,24.8
+Broadway Hotel,Seattle,WA,SEA,46.5,PAE,33.8,BFI,7,172.75,Sunshine Taxi,Riverfront Medical Center,SEA,3,PAE,48.6,BFI,16.5
+Sapphire Hotel,Seattle,WA,SEA,42.1,PAE,3.8,BFI,36.4,179.03,Best Taxi,Northside Hospital,SEA,10.8,PAE,12.2,BFI,26.5
+Lakeside Inn,Seattle,WA,SEA,38.6,PAE,18,BFI,20.8,102.03,Royal Cab,St. Mary's Hospital,SEA,32.7,PAE,22,BFI,39.5
+Ocean View Hotel,Seattle,WA,SEA,48.1,PAE,29.8,BFI,23.9,223.78,Star Taxi,Urban Health Clinic,SEA,49.7,PAE,19.4,BFI,35
+Bay Area Hotel,Seattle,WA,SEA,8.5,PAE,42.7,BFI,8.4,183.35,Green Cab,Sunrise Hospital,SEA,35.7,PAE,23.7,BFI,2.6
+Maple Leaf Lodge,Seattle,WA,SEA,47.9,PAE,18.7,BFI,2.1,122.15,Quick Ride,Southern Health Clinic,SEA,3.6,PAE,21.6,BFI,36.4
+Sapphire Hotel,Seattle,WA,SEA,7.8,PAE,47.2,BFI,27.7,179.14,City Cab,Central Clinic,SEA,2.7,PAE,48.5,BFI,16.6
+Sunset Inn,Seattle,WA,SEA,24.9,PAE,6.8,BFI,35.5,280.47,First Choice Taxi,Pine Valley Hospital,SEA,9.6,PAE,17.9,BFI,19.4
+Ocean View Hotel,Seattle,WA,SEA,28.8,PAE,14,BFI,29.9,118.85,Eagle Taxi,Community Hospital,SEA,29.9,PAE,18.1,BFI,30.2
+Desert Resort,Seattle,WA,SEA,20.8,PAE,22.1,BFI,5.1,127.21,BlueLine Taxi,Pine Valley Hospital,SEA,23.3,PAE,22.7,BFI,13.9
+Bay Area Hotel,Seattle,WA,SEA,46.3,PAE,2.1,BFI,2.8,264.55,Reliable Rides,Eastside Medical Center,SEA,13.5,PAE,27,BFI,29.2
+Garden Court Hotel,Seattle,WA,SEA,12.8,PAE,40.4,BFI,47.3,258.69,Alpha Cab,Coastal Health Center,SEA,6.3,PAE,4,BFI,21.4
+Lakeside Inn,Seattle,WA,SEA,36.7,PAE,23.4,BFI,14.8,261.22,Reliable Rides,Lakeside Medical Center,SEA,38.3,PAE,48.1,BFI,22.3
+Maple Leaf Lodge,Seattle,WA,SEA,46.7,PAE,14.1,BFI,39.3,134.12,Reliable Rides,St. Mary's Hospital,SEA,13,PAE,11.6,BFI,5.5
+Bay Area Hotel,Seattle,WA,SEA,27.4,PAE,20.4,BFI,7.3,192.42,Reliable Rides,Community Hospital,SEA,43.2,PAE,11.3,BFI,30
+Metro Inn,Seattle,WA,SEA,43.7,PAE,16.3,BFI,27.7,130.19,Elite Taxi,Eastside Medical Center,SEA,41,PAE,49.1,BFI,6.5
+Coastal Breeze Hotel,Seattle,WA,SEA,6.9,PAE,32.5,BFI,16.7,155.85,City Cab,Southern Health Clinic,SEA,24.6,PAE,46.2,BFI,37.8
+Golden Gate Hotel,Seattle,WA,SEA,45.4,PAE,8.7,BFI,5.1,133.24,Liberty Taxi,Green Valley Hospital,SEA,23.2,PAE,33.4,BFI,36.1
+Metro Inn,Seattle,WA,SEA,38.9,PAE,36.9,BFI,20.4,188.98,Reliable Rides,Downtown Medical Center,SEA,35.9,PAE,18.5,BFI,35.7
+Pine Tree Inn,Seattle,WA,SEA,14.1,PAE,38.2,BFI,26.8,189.08,Town Car Service,Coastal Health Center,SEA,11.4,PAE,33.7,BFI,19.1
+Emerald Isle Hotel,Seattle,WA,SEA,12.4,PAE,34.6,BFI,13,118.87,Comfort Ride,Coastal Health Center,SEA,21.8,PAE,24.7,BFI,39.6
+Broadway Hotel,Seattle,WA,SEA,4.7,PAE,10.6,BFI,1.7,232.04,Best Taxi,General Hospital,SEA,39.4,PAE,4.5,BFI,43.3
+Central Park Inn,Seattle,WA,SEA,15.7,PAE,47.2,BFI,30.5,206.94,Metro Taxi,Urban Health Clinic,SEA,49.6,PAE,25,BFI,28.8
+Ocean View Hotel,Seattle,WA,SEA,17.6,PAE,33.2,BFI,22.4,288.21,First Choice Taxi,Central Clinic,SEA,24.3,PAE,2.6,BFI,48.3
+Maple Leaf Lodge,Seattle,WA,SEA,40.5,PAE,15.4,BFI,33.1,137.76,Sunshine Taxi,Pine Valley Hospital,SEA,15.9,PAE,42.1,BFI,3.6
+Skyline Suites,Seattle,WA,SEA,0.8,PAE,46.4,BFI,28.3,134.67,Yellow Cab,General Hospital,SEA,27.2,PAE,49.3,BFI,42.3
+Maple Leaf Lodge,Seattle,WA,SEA,23.8,PAE,31.5,BFI,24.7,279.44,Premier Rides,Mountain View Hospital,SEA,3,PAE,3.2,BFI,37.8
+Grand Plaza,Seattle,WA,SEA,13.3,PAE,45.9,BFI,28.5,223.43,Royal Cab,Green Valley Hospital,SEA,23,PAE,35,BFI,17.7
+Ocean View Hotel,Seattle,WA,SEA,43,PAE,35.7,BFI,19.3,222.28,Sunshine Taxi,St. Mary's Hospital,SEA,25.3,PAE,38.3,BFI,20.6
+Lakeside Inn,Seattle,WA,SEA,20.8,PAE,43.2,BFI,13.9,245.17,Reliable Rides,Community Hospital,SEA,2.1,PAE,5.6,BFI,6
+Maple Leaf Lodge,Seattle,WA,SEA,41.9,PAE,1.4,BFI,35.3,257.87,Best Taxi,Mountain View Hospital,SEA,1.1,PAE,22.7,BFI,47.7
+Coastal Breeze Hotel,Seattle,WA,SEA,34.8,PAE,20.3,BFI,18.7,130.15,Best Taxi,West End Hospital,SEA,13.8,PAE,34,BFI,45.4
+Capitol Stay,Seattle,WA,SEA,10,PAE,41.5,BFI,3,160.91,Rapid Cab,Lakeside Medical Center,SEA,14,PAE,35.8,BFI,21.1
+Golden Gate Hotel,Seattle,WA,SEA,31.2,PAE,12.1,BFI,13.9,247.42,Alpha Cab,General Hospital,SEA,7.9,PAE,25.4,BFI,35.1
+Maple Leaf Lodge,Seattle,WA,SEA,37.6,PAE,32.5,BFI,8.4,143.33,Eagle Taxi,Regional Medical Center,SEA,41.8,PAE,48.2,BFI,19.6
+Coastal Breeze Hotel,Seattle,WA,SEA,25.4,PAE,16.5,BFI,6.5,145.4,Express Cab,City Health Clinic,SEA,11.1,PAE,28.2,BFI,40.7
+Sunset Inn,Seattle,WA,SEA,23.1,PAE,36.3,BFI,18.1,249.55,First Choice Taxi,Memorial Hospital,SEA,36.5,PAE,5.8,BFI,36.7
+Emerald Isle Hotel,Seattle,WA,SEA,2.1,PAE,28.2,BFI,10.1,214.82,City Cab,Harbor Hospital,SEA,43.9,PAE,13.8,BFI,22.6
+City Center Lodge,Seattle,WA,SEA,10.8,PAE,36.4,BFI,10.1,120.26,Metro Taxi,Green Valley Hospital,SEA,40.7,PAE,47.4,BFI,13.4
+Broadway Hotel,Seattle,WA,SEA,15.3,PAE,49.6,BFI,41.6,114.42,Reliable Rides,City Medical Center,SEA,48.5,PAE,9.4,BFI,48.4
+Grand Plaza,Seattle,WA,SEA,40.7,PAE,26.4,BFI,29.5,135.98,Alpha Cab,Northside Hospital,SEA,35.3,PAE,33.5,BFI,41.4
+Sunset Inn,Seattle,WA,SEA,37.1,PAE,32.4,BFI,43.2,298.61,First Choice Taxi,Lakeside Medical Center,SEA,33.4,PAE,39.5,BFI,10.2
+Pine Tree Inn,Seattle,WA,SEA,25.1,PAE,8.8,BFI,46.7,221.06,Sunshine Taxi,Sunrise Hospital,SEA,32.4,PAE,14.3,BFI,44
+Palm Grove Hotel,Seattle,WA,SEA,26.7,PAE,20.8,BFI,1.7,125.94,Town Car Service,St. Mary's Hospital,SEA,23.7,PAE,40.9,BFI,27.6
+Crystal Waters Hotel,Seattle,WA,SEA,27.8,PAE,4.3,BFI,46.4,113.68,Comfort Ride,Lakeside Medical Center,SEA,1.8,PAE,5.5,BFI,26.3
+Desert Resort,Seattle,WA,SEA,22.6,PAE,35.4,BFI,20.8,231.5,Premier Rides,Regional Medical Center,SEA,9.4,PAE,44,BFI,31
+Harbor View Hotel,Seattle,WA,SEA,41.9,PAE,17.9,BFI,32.4,127.61,Yellow Cab,Southern Health Clinic,SEA,12.3,PAE,21.3,BFI,20.3
+Harbor View Hotel,Seattle,WA,SEA,29.9,PAE,18.1,BFI,35.4,116.39,BlueLine Taxi,Community Hospital,SEA,21.5,PAE,26.9,BFI,37.3
+Pine Tree Inn,Seattle,WA,SEA,23.4,PAE,22.1,BFI,13.1,246.78,Urban Cabs,Main Street Medical Center,SEA,39.6,PAE,10.2,BFI,2.5
+Capitol Stay,Seattle,WA,SEA,19,PAE,49,BFI,25,211.19,TopRide Taxi,Central Clinic,SEA,43.3,PAE,48,BFI,6.9
+Capitol Stay,Seattle,WA,SEA,27.7,PAE,42.9,BFI,44.7,171.37,TopRide Taxi,Lakeside Medical Center,SEA,15,PAE,2.7,BFI,44.9
+Sunset Inn,Seattle,WA,SEA,8.2,PAE,31.5,BFI,35.2,159.68,Star Taxi,City Medical Center,SEA,3,PAE,15.9,BFI,12.4
+Urban Retreat,Seattle,WA,SEA,39.4,PAE,36.1,BFI,11.5,204.52,Eagle Taxi,Lakeside Medical Center,SEA,46.9,PAE,7.6,BFI,32.4
+Metro Inn,Seattle,WA,SEA,16.3,PAE,30.4,BFI,21,263.87,Royal Cab,Lakeside Medical Center,SEA,5.8,PAE,17.1,BFI,8.3
+Lakeside Inn,Seattle,WA,SEA,30.5,PAE,41.3,BFI,25.7,250.04,Golden Cab,Urban Health Clinic,SEA,14.1,PAE,8,BFI,35.7
+Maple Leaf Lodge,Seattle,WA,SEA,24.6,PAE,41,BFI,40.1,114.07,Sunshine Taxi,Northside Hospital,SEA,23.1,PAE,42.6,BFI,37.9
+Maple Leaf Lodge,Seattle,WA,SEA,6.1,PAE,12.3,BFI,12.9,210.18,Speedy Taxi,Regional Medical Center,SEA,15.2,PAE,33.2,BFI,42.1
+Grand Plaza,Seattle,WA,SEA,10.3,PAE,1.8,BFI,34.5,265.91,Premier Rides,City Health Clinic,SEA,23.9,PAE,26.7,BFI,34.1
+Ocean View Hotel,Seattle,WA,SEA,17.5,PAE,45.6,BFI,39.1,201.85,Alpha Cab,Urban Health Clinic,SEA,2.4,PAE,3.2,BFI,3.9
+Crystal Waters Hotel,Seattle,WA,SEA,17.3,PAE,30.4,BFI,13.2,290.11,City Cab,Community Hospital,SEA,4.1,PAE,12.6,BFI,19
+Harbor View Hotel,Seattle,WA,SEA,43,PAE,34.5,BFI,21.1,262.35,Comfort Ride,Harbor Hospital,SEA,2.4,PAE,1.5,BFI,17.5
+Coastal Breeze Hotel,Seattle,WA,SEA,23.5,PAE,1.3,BFI,15.6,261.19,BlueLine Taxi,Mountain View Hospital,SEA,7.4,PAE,46.9,BFI,27.2
+Mountain Peak Lodge,Seattle,WA,SEA,13.8,PAE,38.7,BFI,43.1,101.23,Reliable Rides,Green Valley Hospital,SEA,42.1,PAE,48.7,BFI,1.1
+Metro Inn,Seattle,WA,SEA,21.7,PAE,15.3,BFI,11,224.26,Urban Cabs,Southern Health Clinic,SEA,27.7,PAE,39.9,BFI,33.7
+Harbor View Hotel,Seattle,WA,SEA,20,PAE,48.6,BFI,24.2,170.94,Alpha Cab,City Medical Center,SEA,5.3,PAE,7.9,BFI,21.8
+Crystal Waters Hotel,Seattle,WA,SEA,15.2,PAE,37.5,BFI,46.7,169.49,Liberty Taxi,Northeast Medical Center,SEA,23.9,PAE,28.8,BFI,2.9
+City Center Lodge,Seattle,WA,SEA,17.3,PAE,27.2,BFI,46,219.28,Star Taxi,Riverfront Medical Center,SEA,23.6,PAE,44.2,BFI,41.2
+Broadway Hotel,Seattle,WA,SEA,9,PAE,9,BFI,23,124.88,Liberty Taxi,Valley Health Center,SEA,42.1,PAE,15,BFI,32.9
+Harbor View Hotel,Seattle,WA,SEA,49,PAE,18.8,BFI,42.6,106.62,Metro Taxi,West End Hospital,SEA,45.5,PAE,36,BFI,35.4
+Lakeside Inn,Seattle,WA,SEA,37.4,PAE,31.3,BFI,13.2,287.17,Speedy Taxi,Community Hospital,SEA,17.3,PAE,18.2,BFI,24.5
+Mountain Peak Lodge,Seattle,WA,SEA,48.5,PAE,6.3,BFI,4.1,145.4,Reliable Rides,Central Clinic,SEA,23.1,PAE,29,BFI,25.1
+Maple Leaf Lodge,Seattle,WA,SEA,36,PAE,44.5,BFI,4.4,218.87,First Choice Taxi,Sunrise Hospital,SEA,36.1,PAE,23.8,BFI,6
+Garden Court Hotel,Seattle,WA,SEA,34.9,PAE,38.9,BFI,36.3,230.66,Reliable Rides,Coastal Health Center,SEA,31.7,PAE,14,BFI,33.8
+Ocean View Hotel,Seattle,WA,SEA,35.9,PAE,23.3,BFI,30.6,216,Reliable Rides,Eastside Medical Center,SEA,20.1,PAE,8.6,BFI,24.2
+Capitol Stay,Seattle,WA,SEA,9.4,PAE,32.3,BFI,38.1,238.53,Rapid Cab,Northside Hospital,SEA,18.2,PAE,34.7,BFI,28.4
+Skyline Suites,Seattle,WA,SEA,49.9,PAE,31.1,BFI,10.1,213.63,Metro Taxi,Memorial Hospital,SEA,21.3,PAE,29.1,BFI,38.3
+Lakeside Inn,Seattle,WA,SEA,8.4,PAE,6,BFI,6.8,229.93,Green Cab,Urban Health Clinic,SEA,5.2,PAE,33.6,BFI,20.5
+Palm Grove Hotel,Seattle,WA,SEA,29.9,PAE,41.7,BFI,48.2,196.15,Express Cab,City Medical Center,SEA,25.7,PAE,13.7,BFI,43.5
+Palm Grove Hotel,Seattle,WA,SEA,32.7,PAE,14.6,BFI,29.3,250.4,Town Car Service,St. Mary's Hospital,ORD,23.2,MDW,17.6,RFD,0.6
+Capitol Stay,Seattle,WA,SEA,5.8,PAE,19.9,BFI,37.1,205.72,Star Taxi,Mountain View Hospital,ORD,19.3,MDW,44.8,RFD,12
+Crystal Waters Hotel,Seattle,WA,SEA,3.7,PAE,47.6,BFI,19.4,253.1,Sunshine Taxi,Main Street Medical Center,ORD,30.1,MDW,27.6,RFD,34
+Capitol Stay,Seattle,WA,SEA,37.4,PAE,12,BFI,12.8,264.9,Royal Cab,Downtown Medical Center,ORD,42.4,MDW,10.3,RFD,7.3
+Ocean View Hotel,Seattle,WA,SEA,40.8,PAE,37.9,BFI,7,123.16,Star Taxi,Lakeside Medical Center,ORD,39.7,MDW,4.6,RFD,21.2
+Mountain Peak Lodge,Seattle,WA,SEA,45.9,PAE,45.5,BFI,3.7,249.69,Alpha Cab,Regional Medical Center,ORD,26.2,MDW,37.1,RFD,37.1
+Lakeside Inn,Seattle,WA,SEA,24,PAE,7.1,BFI,8,278.91,BlueLine Taxi,Regional Medical Center,ORD,43.5,MDW,20.9,RFD,10.9
+Golden Gate Hotel,Seattle,WA,SEA,21.7,PAE,6.9,BFI,1.9,100.95,Premier Rides,Riverfront Medical Center,ORD,1.3,MDW,8.9,RFD,17.3
+Coastal Breeze Hotel,Seattle,WA,SEA,37,PAE,25.4,BFI,23.7,271.22,Urban Cabs,Regional Medical Center,ORD,49.8,MDW,45.1,RFD,47.5
+Harbor View Hotel,Seattle,WA,SEA,13.5,PAE,23.8,BFI,21.8,162.16,Premier Rides,City Medical Center,ORD,1,MDW,41.4,RFD,16.3
+Crystal Waters Hotel,Seattle,WA,SEA,47,PAE,36.6,BFI,39.1,241.15,City Cab,Green Valley Hospital,ORD,8,MDW,36.1,RFD,30.4
+Sunset Inn,Seattle,WA,SEA,47.7,PAE,3.2,BFI,13.2,227.46,Best Taxi,Southern Health Clinic,ORD,9.5,MDW,33.9,RFD,41.5
+Ocean View Hotel,Seattle,WA,SEA,14.8,PAE,31.8,BFI,33,261.1,Urban Cabs,Valley Health Center,ORD,41.9,MDW,32.9,RFD,9.4
+Pine Tree Inn,Seattle,WA,SEA,48,PAE,10.3,BFI,34.7,213.24,Best Taxi,City Health Clinic,ORD,5,MDW,44.7,RFD,49.1
+Urban Retreat,Seattle,WA,SEA,32.1,PAE,43.1,BFI,39.9,238.68,Best Taxi,Eastside Medical Center,ORD,10.2,MDW,31.6,RFD,21.1
+Bay Area Hotel,Seattle,WA,SEA,49.6,PAE,25.4,BFI,3.8,118.13,Green Cab,Sunrise Hospital,ORD,24.5,MDW,22.3,RFD,10.9
+Golden Gate Hotel,Seattle,WA,SEA,44.9,PAE,11.5,BFI,22.8,131.01,Alpha Cab,Regional Medical Center,ORD,6,MDW,39,RFD,26.7
+Bay Area Hotel,Seattle,WA,SEA,1.4,PAE,42.1,BFI,38.8,144.19,Best Taxi,Mountain View Hospital,ORD,17,MDW,45,RFD,27.6
+Palm Grove Hotel,Seattle,WA,SEA,40.9,PAE,23.4,BFI,22.8,135.05,Town Car Service,Southern Health Clinic,ORD,9.6,MDW,20.6,RFD,19.2
+Skyline Suites,Seattle,WA,SEA,45.9,PAE,33.3,BFI,6.4,145.18,Premier Rides,City Medical Center,ORD,39.4,MDW,23.8,RFD,32.4
+Bay Area Hotel,Seattle,WA,SEA,40.5,PAE,6.5,BFI,38.5,135.58,Urban Cabs,City Health Clinic,ORD,13.7,MDW,7.5,RFD,12.3
+Lakeside Inn,Seattle,WA,SEA,9.1,PAE,18.9,BFI,29.9,174.21,Best Taxi,Harbor Hospital,ORD,28.9,MDW,18.6,RFD,4.4
+Ocean View Hotel,Chicago,IL,ORD,18.6,MDW,2.9,RFD,37,127.13,Green Cab,Valley Health Center,ORD,41,MDW,37.5,RFD,14.6
+Skyline Suites,Chicago,IL,ORD,26.3,MDW,48.1,RFD,19.2,119.48,Quick Ride,Riverfront Medical Center,ORD,21.8,MDW,15,RFD,49.3
+Mountain Peak Lodge,Chicago,IL,ORD,21.8,MDW,1,RFD,29.7,219.08,City Cab,City Health Clinic,ORD,39.7,MDW,46.3,RFD,48.7
+Skyline Suites,Chicago,IL,ORD,17.6,MDW,11.6,RFD,34.2,244.21,BlueLine Taxi,Northside Hospital,ORD,28.4,MDW,31.1,RFD,32.9
+Crystal Waters Hotel,Chicago,IL,ORD,14.3,MDW,33.9,RFD,43.8,232.91,BlueLine Taxi,City Medical Center,ORD,14.7,MDW,17.6,RFD,25
+Sapphire Hotel,Chicago,IL,ORD,13.7,MDW,0.7,RFD,18.7,251.7,Comfort Ride,Green Valley Hospital,ORD,32.9,MDW,3.2,RFD,4.7
+City Center Lodge,Chicago,IL,ORD,21.3,MDW,11.4,RFD,46.7,150.2,Quick Ride,Downtown Medical Center,ORD,4.7,MDW,11,RFD,25.9
+Urban Retreat,Chicago,IL,ORD,34.9,MDW,46.8,RFD,43.9,263.28,Speedy Taxi,City Health Clinic,ORD,23.5,MDW,13.6,RFD,33.7
+Urban Retreat,Chicago,IL,ORD,18.6,MDW,38.4,RFD,0.5,156.38,Town Car Service,Green Valley Hospital,ORD,42.5,MDW,36.1,RFD,21.7
+City Center Lodge,Chicago,IL,ORD,40.8,MDW,14.6,RFD,36.1,103.84,Yellow Cab,Southern Health Clinic,ORD,4.7,MDW,30.2,RFD,29.2
+Maple Leaf Lodge,Chicago,IL,ORD,1.4,MDW,43.8,RFD,18.4,133.01,Liberty Taxi,West End Hospital,ORD,31.8,MDW,19.1,RFD,23
+Palm Grove Hotel,Chicago,IL,ORD,38.4,MDW,26.5,RFD,23.3,111.65,Reliable Rides,Southern Health Clinic,ORD,41.2,MDW,12.1,RFD,7.8
+Metro Inn,Chicago,IL,ORD,20.5,MDW,18.1,RFD,11.7,248.62,First Choice Taxi,City Health Clinic,ORD,47.8,MDW,47.5,RFD,31.1
+Pine Tree Inn,Chicago,IL,ORD,43.8,MDW,36.1,RFD,43.8,279.16,Metro Taxi,Harbor Hospital,ORD,40.2,MDW,27.8,RFD,9.4
+Pine Tree Inn,Chicago,IL,ORD,6.9,MDW,35.4,RFD,45.4,256.7,Best Taxi,Sunrise Hospital,ORD,10.4,MDW,7.8,RFD,47.9
+Maple Leaf Lodge,Chicago,IL,ORD,42.7,MDW,5.8,RFD,33.9,296.16,First Choice Taxi,Southern Health Clinic,ORD,7.8,MDW,7.1,RFD,21
+Harbor View Hotel,Chicago,IL,ORD,23.4,MDW,49,RFD,49,191.12,Quick Ride,Central Clinic,ORD,40.6,MDW,46.3,RFD,44.7
+Urban Retreat,Chicago,IL,ORD,38.7,MDW,6.2,RFD,39.1,122.98,Speedy Taxi,Urban Health Clinic,ORD,42.7,MDW,47.7,RFD,49.7
+Sunset Inn,Chicago,IL,ORD,35.9,MDW,40.9,RFD,8.5,166.91,Speedy Taxi,Southern Health Clinic,ORD,43.7,MDW,47.9,RFD,38.3
+Garden Court Hotel,Chicago,IL,ORD,36.3,MDW,44.2,RFD,14.6,253.13,Royal Cab,Eastside Medical Center,ORD,41.2,MDW,32.8,RFD,29.1
+Sunset Inn,Chicago,IL,ORD,23,MDW,24.8,RFD,47.8,192.74,Golden Cab,Downtown Medical Center,ORD,44.2,MDW,23.7,RFD,3.6
+Capitol Stay,Chicago,IL,ORD,15.6,MDW,9,RFD,43.4,120.36,Reliable Rides,Central Clinic,ORD,39.6,MDW,6.4,RFD,22.7
+Broadway Hotel,Chicago,IL,ORD,38.1,MDW,42.7,RFD,45.3,137.6,First Choice Taxi,Eastside Medical Center,ORD,4.7,MDW,42.5,RFD,11.7
+Emerald Isle Hotel,Chicago,IL,ORD,35.3,MDW,8.5,RFD,11,200.17,Royal Cab,West End Hospital,ORD,35.2,MDW,11.6,RFD,16.6
+Harbor View Hotel,Chicago,IL,ORD,6.2,MDW,9.8,RFD,13.3,263.08,Speedy Taxi,Green Valley Hospital,ORD,32.5,MDW,16,RFD,49
+Desert Resort,Chicago,IL,ORD,36.5,MDW,34.3,RFD,46.4,223.03,Elite Taxi,Southern Health Clinic,ORD,12.6,MDW,25.4,RFD,2.8
+Ocean View Hotel,Chicago,IL,ORD,18,MDW,25.3,RFD,43.6,104.36,Royal Cab,Mountain View Hospital,ORD,41.2,MDW,35.6,RFD,24.5
+Lakeside Inn,Chicago,IL,ORD,20.9,MDW,26.7,RFD,38.2,146.77,City Cab,Central Clinic,ORD,19.3,MDW,11.1,RFD,47.3
+City Center Lodge,Chicago,IL,ORD,9.4,MDW,14.5,RFD,5.6,169.72,Town Car Service,Riverfront Medical Center,ORD,23.9,MDW,44.4,RFD,5
+Crystal Waters Hotel,Chicago,IL,ORD,8,MDW,10,RFD,30.9,298.87,Eagle Taxi,City Medical Center,ORD,27.6,MDW,22.8,RFD,4.2
+Riverfront Hotel,Chicago,IL,ORD,18.6,MDW,6.8,RFD,25.2,213.86,BlueLine Taxi,General Hospital,ORD,40.5,MDW,41.8,RFD,0.7
+Lakeside Inn,Chicago,IL,ORD,5.1,MDW,47.2,RFD,43.7,185.36,Reliable Rides,Valley Health Center,ORD,13.9,MDW,3.1,RFD,15.1
+Crystal Waters Hotel,Chicago,IL,ORD,43.3,MDW,27.6,RFD,40,178.21,Green Cab,Harbor Hospital,ORD,38,MDW,35.6,RFD,10.2
+Coastal Breeze Hotel,Chicago,IL,ORD,7.8,MDW,25.6,RFD,42.8,156.2,First Choice Taxi,Sunrise Hospital,ORD,28.9,MDW,24,RFD,42.6
+Maple Leaf Lodge,Chicago,IL,ORD,39.6,MDW,37.8,RFD,40.3,215.28,Best Taxi,Green Valley Hospital,ORD,31.3,MDW,35.5,RFD,0.9
+Garden Court Hotel,Chicago,IL,ORD,14.3,MDW,33,RFD,43.1,226.22,Elite Taxi,Northeast Medical Center,ORD,34,MDW,5.9,RFD,7.9
+Lakeside Inn,Chicago,IL,ORD,19.1,MDW,18.4,RFD,7.3,154.19,TopRide Taxi,Eastside Medical Center,ORD,42.1,MDW,33.5,RFD,30
+Riverfront Hotel,Chicago,IL,ORD,41.6,MDW,13.1,RFD,19.7,212.58,TopRide Taxi,Riverfront Medical Center,ORD,21.2,MDW,49.9,RFD,38.6
+Coastal Breeze Hotel,Chicago,IL,ORD,32.3,MDW,46.1,RFD,8.9,112.29,Premier Rides,Main Street Medical Center,ORD,5.7,MDW,31.7,RFD,10.1
+Maple Leaf Lodge,Chicago,IL,ORD,19.9,MDW,21.6,RFD,32,205.12,Reliable Rides,Downtown Medical Center,ORD,1.9,MDW,26.9,RFD,28.8
+Metro Inn,Chicago,IL,ORD,2.3,MDW,6.2,RFD,6.1,286.66,Liberty Taxi,General Hospital,ORD,20.2,MDW,25.8,RFD,30.4
+Ocean View Hotel,Chicago,IL,ORD,16.6,MDW,25.6,RFD,15.9,177.51,Rapid Cab,Urban Health Clinic,ORD,14.6,MDW,26.2,RFD,33.4
+Bay Area Hotel,Chicago,IL,ORD,42.5,MDW,13.5,RFD,12,206.83,Express Cab,General Hospital,ORD,19.7,MDW,3.2,RFD,25.3
+Desert Resort,Chicago,IL,ORD,13.2,MDW,7.5,RFD,45.4,144.28,Urban Cabs,Main Street Medical Center,ORD,10.3,MDW,13.8,RFD,17.8
+Golden Gate Hotel,Chicago,IL,ORD,20.9,MDW,41.2,RFD,46.3,255.57,TopRide Taxi,Lakeside Medical Center,ORD,29,MDW,39.7,RFD,13
+Central Park Inn,Chicago,IL,ORD,39.2,MDW,25.2,RFD,10.7,217.08,Metro Taxi,Riverfront Medical Center,ORD,12.5,MDW,42.3,RFD,34.1
+Capitol Stay,Chicago,IL,ORD,30.2,MDW,3.5,RFD,30.6,194.28,Comfort Ride,Memorial Hospital,ORD,35,MDW,17.2,RFD,37.3
+Maple Leaf Lodge,Chicago,IL,ORD,41.8,MDW,0.6,RFD,0.7,170.59,City Cab,Riverfront Medical Center,ORD,22.7,MDW,4.5,RFD,5.9
+Metro Inn,Chicago,IL,ORD,28.3,MDW,35.2,RFD,2.5,106.76,Yellow Cab,Harbor Hospital,ORD,42.7,MDW,41,RFD,37.7
+Urban Retreat,Chicago,IL,ORD,6,MDW,16.8,RFD,9.8,255.85,First Choice Taxi,Valley Health Center,ORD,26.3,MDW,38.9,RFD,33
+Mountain Peak Lodge,Chicago,IL,ORD,34,MDW,42.1,RFD,49.1,226.4,TopRide Taxi,Valley Health Center,ORD,17.3,MDW,14,RFD,9.2
+Skyline Suites,Chicago,IL,ORD,24.7,MDW,47.2,RFD,17.6,222.03,Golden Cab,Valley Health Center,ORD,13.9,MDW,30.1,RFD,35.3
+Skyline Suites,Chicago,IL,ORD,14.5,MDW,34.9,RFD,38.4,183.09,Metro Taxi,Regional Medical Center,ORD,40,MDW,22.5,RFD,24.8
+Central Park Inn,Chicago,IL,ORD,7.6,MDW,23,RFD,47.3,142.45,Reliable Rides,City Medical Center,ORD,23.2,MDW,9.7,RFD,8.3
+Sunset Inn,Chicago,IL,ORD,46.5,MDW,31.4,RFD,17.9,238.96,First Choice Taxi,Downtown Medical Center,ORD,26.8,MDW,16.6,RFD,47.7
+Crystal Waters Hotel,Chicago,IL,ORD,24.8,MDW,29.5,RFD,7,270.38,Eagle Taxi,Main Street Medical Center,ORD,15.7,MDW,37.3,RFD,41.8
+Garden Court Hotel,Chicago,IL,ORD,21.3,MDW,24,RFD,20.1,174.09,BlueLine Taxi,City Health Clinic,ORD,38.5,MDW,37.3,RFD,27.9
+Lakeside Inn,Chicago,IL,ORD,11.4,MDW,42.4,RFD,36,109.72,Alpha Cab,Mountain View Hospital,ORD,27.1,MDW,38.4,RFD,20.3
+Central Park Inn,Chicago,IL,ORD,13.4,MDW,40,RFD,1.6,250.08,Yellow Cab,Memorial Hospital,ORD,1.4,MDW,18.4,RFD,13.1
+Emerald Isle Hotel,Chicago,IL,ORD,4.7,MDW,16.2,RFD,38.4,181.97,Star Taxi,Harbor Hospital,ORD,31.4,MDW,10.6,RFD,42.5
+Emerald Isle Hotel,Chicago,IL,ORD,44.6,MDW,23.9,RFD,27,260.7,City Cab,Main Street Medical Center,ORD,17.1,MDW,12.3,RFD,6.6
+Palm Grove Hotel,Chicago,IL,ORD,7.5,MDW,15.3,RFD,35.1,114.57,Eagle Taxi,Sunrise Hospital,ORD,37,MDW,17.6,RFD,39
+Sapphire Hotel,Chicago,IL,ORD,10.2,MDW,7.2,RFD,48.3,135.26,Quick Ride,Urban Health Clinic,ORD,9.7,MDW,29.9,RFD,0.5
+Pine Tree Inn,Chicago,IL,ORD,12.4,MDW,44.1,RFD,1.7,181.43,Speedy Taxi,City Medical Center,ORD,1.8,MDW,25.4,RFD,35
+Bay Area Hotel,Chicago,IL,ORD,23.9,MDW,38,RFD,9.2,101.41,Metro Taxi,Northeast Medical Center,ORD,45.8,MDW,18.9,RFD,9.8
+Harbor View Hotel,Chicago,IL,ORD,38.2,MDW,24.9,RFD,39.1,164.31,Speedy Taxi,Coastal Health Center,ORD,26.6,MDW,7.3,RFD,14.5
+Mountain Peak Lodge,Chicago,IL,ORD,32.5,MDW,47.9,RFD,6,255.27,Quick Ride,Main Street Medical Center,ORD,24.8,MDW,17.4,RFD,34.4
+Maple Leaf Lodge,Chicago,IL,ORD,20.2,MDW,48.1,RFD,3.7,273.42,Town Car Service,General Hospital,ORD,45.2,MDW,29.3,RFD,22
+Desert Resort,Chicago,IL,ORD,26.1,MDW,7.5,RFD,29.3,281.68,Reliable Rides,St. Mary's Hospital,ORD,19.5,MDW,30.2,RFD,8.9
+Riverfront Hotel,Chicago,IL,ORD,6.3,MDW,24.5,RFD,31.1,269.51,City Cab,Pine Valley Hospital,ORD,1.1,MDW,49.6,RFD,28.1
+Broadway Hotel,Chicago,IL,ORD,8.2,MDW,37.8,RFD,12.4,165.18,Sunshine Taxi,Sunrise Hospital,ORD,31.1,MDW,45.4,RFD,9.7
+Crystal Waters Hotel,Chicago,IL,ORD,11.3,MDW,36.1,RFD,14.2,215.55,Royal Cab,Memorial Hospital,ORD,22.2,MDW,40.6,RFD,6.9
+Sunset Inn,Chicago,IL,ORD,45.5,MDW,11.3,RFD,10.1,290.41,Premier Rides,Valley Health Center,ORD,47.9,MDW,30.7,RFD,18.7
+Desert Resort,Chicago,IL,ORD,9,MDW,40.5,RFD,31.2,163.04,Rapid Cab,Northeast Medical Center,ORD,12.6,MDW,19.6,RFD,24.4
+Coastal Breeze Hotel,Chicago,IL,ORD,38,MDW,39.3,RFD,11.4,298.44,Speedy Taxi,Regional Medical Center,ORD,40.5,MDW,26,RFD,9.5
+Grand Plaza,Chicago,IL,ORD,5.6,MDW,1.6,RFD,17.6,132.02,Royal Cab,Eastside Medical Center,ORD,37.5,MDW,45.8,RFD,37.6
+Sapphire Hotel,Chicago,IL,ORD,5.5,MDW,12.2,RFD,11.8,213.75,TopRide Taxi,Valley Health Center,ORD,3.5,MDW,6.7,RFD,6.4
+Urban Retreat,Chicago,IL,ORD,44.3,MDW,8.1,RFD,34.7,260.54,Royal Cab,Community Hospital,ORD,19.6,MDW,40.7,RFD,9.5
+Desert Resort,Chicago,IL,ORD,28.7,MDW,34.9,RFD,12.1,248.67,Eagle Taxi,Central Clinic,ORD,29.4,MDW,6.7,RFD,33.4
+Metro Inn,Chicago,IL,ORD,33.7,MDW,4.6,RFD,44.7,298.59,Star Taxi,Riverfront Medical Center,ORD,47.3,MDW,44.3,RFD,19.2
+Garden Court Hotel,Chicago,IL,ORD,41.3,MDW,25.4,RFD,20.3,104.07,City Cab,City Health Clinic,ORD,6.3,MDW,33.5,RFD,26.1
+Bay Area Hotel,Chicago,IL,ORD,23.7,MDW,46.9,RFD,20.4,280.35,Premier Rides,General Hospital,ORD,9.7,MDW,33,RFD,9
+Mountain Peak Lodge,Chicago,IL,ORD,26.7,MDW,32.6,RFD,23,144.82,Reliable Rides,West End Hospital,ORD,28.6,MDW,6.7,RFD,20.2
+Skyline Suites,Chicago,IL,ORD,40.1,MDW,47.6,RFD,38.4,211.6,Best Taxi,Community Hospital,ORD,16.5,MDW,6.7,RFD,13.9
+Sapphire Hotel,Chicago,IL,ORD,17.5,MDW,6,RFD,33,163.28,Royal Cab,West End Hospital,ORD,22,MDW,41.8,RFD,40
+Emerald Isle Hotel,Chicago,IL,ORD,27.9,MDW,36,RFD,40.7,218.02,Urban Cabs,Mountain View Hospital,ORD,7.6,MDW,4.6,RFD,48.6
+Grand Plaza,Chicago,IL,ORD,2.7,MDW,14.3,RFD,40.2,273.3,Premier Rides,Southern Health Clinic,ORD,41.7,MDW,7.5,RFD,5.2
+Lakeside Inn,Chicago,IL,ORD,9.7,MDW,38.7,RFD,6.2,223.52,Elite Taxi,Urban Health Clinic,ORD,33.8,MDW,24.5,RFD,12
+Riverfront Hotel,Chicago,IL,ORD,28.8,MDW,6,RFD,41,215.37,Liberty Taxi,Eastside Medical Center,ORD,41.1,MDW,43.7,RFD,33.8
+Emerald Isle Hotel,Chicago,IL,ORD,37.2,MDW,16.7,RFD,8.9,200.27,Speedy Taxi,Green Valley Hospital,ORD,16.6,MDW,31.9,RFD,2.8
+Ocean View Hotel,Chicago,IL,ORD,44.5,MDW,33.1,RFD,48.2,113.48,Best Taxi,Memorial Hospital,ORD,2.4,MDW,28.3,RFD,12.1
+Sunset Inn,Chicago,IL,ORD,8.9,MDW,3.2,RFD,16.5,164.81,Liberty Taxi,General Hospital,ORD,11.2,MDW,6.6,RFD,27
+Bay Area Hotel,Chicago,IL,ORD,7.4,MDW,33.3,RFD,40,194.48,Golden Cab,Valley Health Center,ORD,46.4,MDW,5.8,RFD,32.8
+Sapphire Hotel,Chicago,IL,ORD,34.7,MDW,4.4,RFD,4,196.96,Town Car Service,City Medical Center,PHX,10,AZA,4.6,SDL,8.3
+Riverfront Hotel,Chicago,IL,ORD,47,MDW,25.8,RFD,38.9,126.89,Speedy Taxi,General Hospital,PHX,10.5,AZA,7.1,SDL,21.6
+Coastal Breeze Hotel,Chicago,IL,ORD,38.3,MDW,31.3,RFD,24.8,234.7,Comfort Ride,West End Hospital,PHX,3.3,AZA,5.8,SDL,22.6
+Riverfront Hotel,Chicago,IL,ORD,29.4,MDW,49.1,RFD,4.8,293.17,Star Taxi,Northeast Medical Center,PHX,38.8,AZA,15.5,SDL,37.7
+Lakeside Inn,Chicago,IL,ORD,16.2,MDW,47.8,RFD,23.8,102.59,Sunshine Taxi,Downtown Medical Center,PHX,28,AZA,27.1,SDL,46.4
+Lakeside Inn,Chicago,IL,ORD,23.1,MDW,13.8,RFD,48.2,204.88,Premier Rides,Southern Health Clinic,PHX,40.6,AZA,48.1,SDL,27.6
+Urban Retreat,Chicago,IL,ORD,36.9,MDW,48.3,RFD,18.7,165.6,Reliable Rides,Downtown Medical Center,PHX,35.9,AZA,35.9,SDL,34.4
+Desert Resort,Phoenix,AZ,PHX,47.6,AZA,37.3,SDL,9.7,174.1,Golden Cab,Regional Medical Center,PHX,19.5,AZA,7.4,SDL,17.8
+Harbor View Hotel,Phoenix,AZ,PHX,47.8,AZA,26.5,SDL,21.9,145.04,TopRide Taxi,Riverfront Medical Center,PHX,11.1,AZA,20.1,SDL,6.4
+Skyline Suites,Phoenix,AZ,PHX,13.7,AZA,31.7,SDL,44.6,250.7,Alpha Cab,Downtown Medical Center,PHX,17.7,AZA,45.3,SDL,2.3
+Mountain Peak Lodge,Phoenix,AZ,PHX,26.8,AZA,3.3,SDL,29.1,236.82,Golden Cab,General Hospital,PHX,45.1,AZA,17.2,SDL,18.4
+City Center Lodge,Phoenix,AZ,PHX,35.8,AZA,5.4,SDL,4.2,148.49,Premier Rides,Main Street Medical Center,PHX,20.5,AZA,15.5,SDL,19.8
+Lakeside Inn,Phoenix,AZ,PHX,2.4,AZA,39,SDL,48.3,113.33,Express Cab,Southern Health Clinic,PHX,20.5,AZA,19.8,SDL,17.7
+Bay Area Hotel,Phoenix,AZ,PHX,22.8,AZA,28.5,SDL,31.1,231.32,BlueLine Taxi,Urban Health Clinic,PHX,33.5,AZA,44,SDL,1
+Ocean View Hotel,Phoenix,AZ,PHX,49.7,AZA,31.2,SDL,11.4,119.15,Quick Ride,City Health Clinic,PHX,6.4,AZA,21.9,SDL,4.7
+Palm Grove Hotel,Phoenix,AZ,PHX,3.8,AZA,23,SDL,38.6,162.96,Quick Ride,General Hospital,PHX,21.8,AZA,34.1,SDL,1.8
+Garden Court Hotel,Phoenix,AZ,PHX,24.7,AZA,28.3,SDL,39.6,126.11,Metro Taxi,Southern Health Clinic,PHX,43.7,AZA,16.1,SDL,13.2
+Garden Court Hotel,Phoenix,AZ,PHX,35.8,AZA,37.8,SDL,30.6,106.53,City Cab,Memorial Hospital,PHX,33.8,AZA,33.6,SDL,20.7
+Maple Leaf Lodge,Phoenix,AZ,PHX,17.9,AZA,42.3,SDL,44,133.06,Reliable Rides,West End Hospital,PHX,31.9,AZA,30.8,SDL,28.3
+Lakeside Inn,Phoenix,AZ,PHX,27.1,AZA,14.4,SDL,0.8,256.24,Quick Ride,City Health Clinic,PHX,15.7,AZA,23.9,SDL,14.4
+Metro Inn,Phoenix,AZ,PHX,9.4,AZA,9,SDL,31.6,158.25,City Cab,Community Hospital,PHX,18.3,AZA,15.8,SDL,10.7
+Pine Tree Inn,Phoenix,AZ,PHX,6.6,AZA,35.5,SDL,20.1,150.71,Comfort Ride,Coastal Health Center,PHX,40.9,AZA,30.9,SDL,9.1
+Coastal Breeze Hotel,Phoenix,AZ,PHX,15.6,AZA,32,SDL,10.9,257.52,Royal Cab,Harbor Hospital,PHX,43.5,AZA,13.4,SDL,46.4
+Golden Gate Hotel,Phoenix,AZ,PHX,42.7,AZA,48.4,SDL,10.7,136.61,Best Taxi,Memorial Hospital,PHX,47.8,AZA,45.6,SDL,20.6
+Desert Resort,Phoenix,AZ,PHX,43.6,AZA,26.3,SDL,16,261.64,Sunshine Taxi,Urban Health Clinic,PHX,42.3,AZA,48.5,SDL,43.7
+City Center Lodge,Phoenix,AZ,PHX,9.2,AZA,12.5,SDL,4.4,121.35,Golden Cab,Harbor Hospital,PHX,24.3,AZA,26.4,SDL,0.8
+Urban Retreat,Phoenix,AZ,PHX,32,AZA,26.9,SDL,3.9,106.04,Rapid Cab,Northeast Medical Center,PHX,11.4,AZA,8.3,SDL,11.2
+Pine Tree Inn,Phoenix,AZ,PHX,43,AZA,37,SDL,47.1,130.73,Speedy Taxi,Northeast Medical Center,PHX,17,AZA,42.2,SDL,34.8
+Urban Retreat,Phoenix,AZ,PHX,44.7,AZA,45.3,SDL,24.1,200.52,Express Cab,Riverfront Medical Center,PHX,28.5,AZA,47.1,SDL,2
+Maple Leaf Lodge,Phoenix,AZ,PHX,24.4,AZA,42,SDL,16.1,271.62,Reliable Rides,Coastal Health Center,PHX,20.8,AZA,9.1,SDL,17
+Harbor View Hotel,Phoenix,AZ,PHX,10.8,AZA,25.2,SDL,38.9,144.18,Best Taxi,West End Hospital,PHX,10.6,AZA,18.6,SDL,14
+Ocean View Hotel,Phoenix,AZ,PHX,10.9,AZA,28.8,SDL,44.2,192.63,Liberty Taxi,West End Hospital,PHX,16.6,AZA,6.1,SDL,40.3
+Maple Leaf Lodge,Phoenix,AZ,PHX,38.3,AZA,12.3,SDL,12.3,105.18,Urban Cabs,Memorial Hospital,PHX,39.8,AZA,48.4,SDL,22.7
+Golden Gate Hotel,Phoenix,AZ,PHX,33.1,AZA,41.1,SDL,44.1,122.6,Star Taxi,Sunrise Hospital,PHX,5.3,AZA,43.6,SDL,43.2
+Metro Inn,Phoenix,AZ,PHX,26.4,AZA,9.2,SDL,18.2,282.69,Sunshine Taxi,City Health Clinic,PHX,17.1,AZA,23.7,SDL,15.1
+Pine Tree Inn,Phoenix,AZ,PHX,5.6,AZA,31.1,SDL,23.9,268.12,Elite Taxi,City Health Clinic,PHX,29.3,AZA,9,SDL,4.7
+Maple Leaf Lodge,Phoenix,AZ,PHX,19,AZA,25.4,SDL,40.6,206.11,Star Taxi,Pine Valley Hospital,PHX,40.1,AZA,31.5,SDL,14.9
+Broadway Hotel,Phoenix,AZ,PHX,17.8,AZA,49.8,SDL,10.6,265.76,City Cab,Community Hospital,PHX,9.7,AZA,16.8,SDL,40.6
+Palm Grove Hotel,Phoenix,AZ,PHX,7.9,AZA,17,SDL,7.4,154.82,TopRide Taxi,Northside Hospital,PHX,8.4,AZA,32.3,SDL,4.1
+Harbor View Hotel,Phoenix,AZ,PHX,40.1,AZA,25.8,SDL,32.2,282.99,Reliable Rides,West End Hospital,PHX,46.5,AZA,30.5,SDL,2.2
+Urban Retreat,Phoenix,AZ,PHX,48.8,AZA,16.1,SDL,22.8,245.7,Urban Cabs,City Medical Center,PHX,16.9,AZA,23.9,SDL,43.4
+Metro Inn,Phoenix,AZ,PHX,20.1,AZA,22.5,SDL,37.8,252.01,Alpha Cab,Urban Health Clinic,PHX,46.6,AZA,15.8,SDL,13.9
+Central Park Inn,Phoenix,AZ,PHX,11.5,AZA,38,SDL,14.2,154.86,Quick Ride,Mountain View Hospital,PHX,43.7,AZA,42.2,SDL,33.9
+Sapphire Hotel,Phoenix,AZ,PHX,7.3,AZA,15.3,SDL,33.1,260.91,Quick Ride,Community Hospital,PHX,37.8,AZA,49.2,SDL,19.2
+Desert Resort,Phoenix,AZ,PHX,31.6,AZA,5.4,SDL,17.1,145.29,City Cab,Sunrise Hospital,PHX,9,AZA,22.9,SDL,30.5
+City Center Lodge,Phoenix,AZ,PHX,24.4,AZA,8.9,SDL,20.8,262.36,Sunshine Taxi,City Medical Center,PHX,45.6,AZA,10.3,SDL,29.9
+Mountain Peak Lodge,Phoenix,AZ,PHX,14.5,AZA,17,SDL,31.2,114.56,Rapid Cab,Coastal Health Center,PHX,21.4,AZA,16.4,SDL,31.3
+Crystal Waters Hotel,Phoenix,AZ,PHX,46.8,AZA,35.4,SDL,2.6,223.73,Best Taxi,Northeast Medical Center,PHX,45.2,AZA,24.5,SDL,41.3
+Capitol Stay,Phoenix,AZ,PHX,14.3,AZA,1.7,SDL,43.7,270.8,First Choice Taxi,Green Valley Hospital,PHX,1.2,AZA,33.8,SDL,13.4
+Maple Leaf Lodge,Phoenix,AZ,PHX,38.8,AZA,3.8,SDL,37.7,115.01,Green Cab,Lakeside Medical Center,PHX,24,AZA,23,SDL,7.4
+Capitol Stay,Phoenix,AZ,PHX,36.9,AZA,26.6,SDL,4.7,159.75,Metro Taxi,Pine Valley Hospital,PHX,45,AZA,1.9,SDL,21.4
+Ocean View Hotel,Phoenix,AZ,PHX,8.7,AZA,36.2,SDL,29.6,260.37,Town Car Service,Memorial Hospital,PHX,4,AZA,24.4,SDL,23.6
+Pine Tree Inn,Phoenix,AZ,PHX,3.1,AZA,34.8,SDL,11.2,199.61,Express Cab,Lakeside Medical Center,PHX,41.1,AZA,5.2,SDL,23.6
+Desert Resort,Phoenix,AZ,PHX,43.8,AZA,18.5,SDL,1.9,279.67,Eagle Taxi,Downtown Medical Center,PHX,46.4,AZA,6.5,SDL,11.6
+Crystal Waters Hotel,Phoenix,AZ,PHX,31.1,AZA,32.7,SDL,8.7,259.39,Star Taxi,Pine Valley Hospital,PHX,19.1,AZA,13,SDL,16.3
+Metro Inn,Phoenix,AZ,PHX,32.8,AZA,3.4,SDL,33.2,294,Star Taxi,Community Hospital,PHX,45.9,AZA,28.9,SDL,25.5
+Crystal Waters Hotel,Phoenix,AZ,PHX,42,AZA,0.6,SDL,4.1,212.97,Speedy Taxi,Eastside Medical Center,PHX,18.8,AZA,18.2,SDL,49
+City Center Lodge,Phoenix,AZ,PHX,46.6,AZA,25.8,SDL,42,270.57,Golden Cab,Eastside Medical Center,PHX,4.1,AZA,45.1,SDL,28.9
+Sapphire Hotel,Phoenix,AZ,PHX,20.4,AZA,9.4,SDL,35.6,247,Reliable Rides,Urban Health Clinic,PHX,10.8,AZA,7,SDL,20.4
+City Center Lodge,Phoenix,AZ,PHX,22.3,AZA,38.2,SDL,28.6,135.41,BlueLine Taxi,West End Hospital,PHX,33.2,AZA,42.7,SDL,48.1
+Palm Grove Hotel,Phoenix,AZ,PHX,2.9,AZA,2.9,SDL,39.4,131.74,Comfort Ride,West End Hospital,PHX,29.5,AZA,39.7,SDL,35.9
+Ocean View Hotel,Phoenix,AZ,PHX,37.2,AZA,10.8,SDL,46.3,185.79,TopRide Taxi,Community Hospital,PHX,32.7,AZA,11.7,SDL,26.9
+Sapphire Hotel,Phoenix,AZ,PHX,29.5,AZA,37,SDL,20.6,216.55,Elite Taxi,Memorial Hospital,PHX,49.9,AZA,45.3,SDL,36
+Lakeside Inn,Phoenix,AZ,PHX,34.4,AZA,0.8,SDL,33.2,247.96,Rapid Cab,Valley Health Center,PHX,20.6,AZA,48.5,SDL,25.6
+Grand Plaza,Phoenix,AZ,PHX,47.8,AZA,15.5,SDL,38,199.12,Speedy Taxi,Eastside Medical Center,PHX,24.9,AZA,30.1,SDL,34.6
+Harbor View Hotel,Phoenix,AZ,PHX,45.2,AZA,29.5,SDL,29.7,136.76,Reliable Rides,Central Clinic,PHX,29.5,AZA,2.2,SDL,26.6
+Ocean View Hotel,Phoenix,AZ,PHX,35.7,AZA,17.7,SDL,30.4,103.31,Premier Rides,Lakeside Medical Center,PHX,18.3,AZA,20.2,SDL,30.7
+Crystal Waters Hotel,Phoenix,AZ,PHX,44.8,AZA,19.5,SDL,5.5,245.28,Rapid Cab,Harbor Hospital,PHX,1.7,AZA,30.9,SDL,49.7
+Garden Court Hotel,Phoenix,AZ,PHX,18.9,AZA,9.5,SDL,1.6,201.32,Yellow Cab,City Health Clinic,PHX,15.5,AZA,22.7,SDL,37.3
+Garden Court Hotel,Phoenix,AZ,PHX,32.3,AZA,22.9,SDL,43.2,172.44,Rapid Cab,Southern Health Clinic,PHX,24.3,AZA,19.5,SDL,21.9
+City Center Lodge,Phoenix,AZ,PHX,26.2,AZA,46.8,SDL,15.2,172.01,Sunshine Taxi,Regional Medical Center,PHX,0.8,AZA,28.6,SDL,30
+Broadway Hotel,Phoenix,AZ,PHX,10,AZA,3.9,SDL,29.1,229.87,Sunshine Taxi,City Medical Center,PHX,41.1,AZA,15.8,SDL,5.5
+Riverfront Hotel,Phoenix,AZ,PHX,26,AZA,23.7,SDL,7.5,238.75,Liberty Taxi,Regional Medical Center,PHX,38.6,AZA,46.3,SDL,10.2
+Golden Gate Hotel,Phoenix,AZ,PHX,44,AZA,34,SDL,41.5,198.01,Star Taxi,Lakeside Medical Center,PHX,4.5,AZA,45.9,SDL,17.6
+Mountain Peak Lodge,Phoenix,AZ,PHX,4.2,AZA,3.9,SDL,8.4,114.52,Rapid Cab,Central Clinic,PHX,5.8,AZA,8.3,SDL,15.1
+Bay Area Hotel,Phoenix,AZ,PHX,32.6,AZA,19.9,SDL,29.3,114.27,Rapid Cab,Coastal Health Center,PHX,9.3,AZA,44,SDL,11.7
+Sapphire Hotel,Phoenix,AZ,PHX,12.2,AZA,38.3,SDL,1.4,142.22,Express Cab,Valley Health Center,PHX,43.7,AZA,36.4,SDL,43.9
+Maple Leaf Lodge,Phoenix,AZ,PHX,13.4,AZA,32.6,SDL,25.7,287.25,Premier Rides,City Health Clinic,PHX,39,AZA,42.8,SDL,41.2
+Crystal Waters Hotel,Phoenix,AZ,PHX,45.9,AZA,11.6,SDL,43.4,278.67,First Choice Taxi,Northside Hospital,PHX,30.6,AZA,28.5,SDL,17.8
+Sapphire Hotel,Phoenix,AZ,PHX,49.6,AZA,13.7,SDL,34.4,262.31,Quick Ride,Urban Health Clinic,PHX,4.3,AZA,42.1,SDL,43.8
+Urban Retreat,Phoenix,AZ,PHX,44.2,AZA,18.7,SDL,15,268.79,Best Taxi,City Medical Center,PHX,3,AZA,30.1,SDL,29.3
+City Center Lodge,Phoenix,AZ,PHX,15.5,AZA,1.7,SDL,14.2,132.9,BlueLine Taxi,Harbor Hospital,PHX,24.3,AZA,17.1,SDL,48.4
+Pine Tree Inn,Phoenix,AZ,PHX,10.8,AZA,7.8,SDL,3.5,131.25,Royal Cab,Southern Health Clinic,PHX,7,AZA,2.5,SDL,41.7
+Grand Plaza,Phoenix,AZ,PHX,18.9,AZA,20.3,SDL,12.5,261.76,Royal Cab,General Hospital,PHX,23.5,AZA,8.8,SDL,9.4
+Harbor View Hotel,Phoenix,AZ,PHX,20,AZA,11.4,SDL,11.4,277.11,Sunshine Taxi,Community Hospital,PHX,1.6,AZA,43.3,SDL,30.7
+Ocean View Hotel,Phoenix,AZ,PHX,17.5,AZA,9.6,SDL,11.4,126.26,Alpha Cab,West End Hospital,PHX,26.9,AZA,13.1,SDL,14.8
+Central Park Inn,Phoenix,AZ,PHX,23.9,AZA,9.8,SDL,16.3,226.7,Urban Cabs,Memorial Hospital,PHX,7.2,AZA,34.6,SDL,3
+City Center Lodge,Phoenix,AZ,PHX,38.3,AZA,4.4,SDL,40.9,220.96,Yellow Cab,Northside Hospital,PHX,39.9,AZA,16,SDL,19
+Maple Leaf Lodge,Phoenix,AZ,PHX,3.3,AZA,49.1,SDL,2.3,114.04,Quick Ride,Urban Health Clinic,PHX,31.7,AZA,1.9,SDL,12
+Broadway Hotel,Phoenix,AZ,PHX,40.2,AZA,40.3,SDL,47.8,101.61,Best Taxi,St. Mary's Hospital,PHX,1,AZA,38.8,SDL,35.6
+Skyline Suites,Phoenix,AZ,PHX,19.4,AZA,21.5,SDL,19.4,203.84,Comfort Ride,Central Clinic,PHX,47.6,AZA,17.6,SDL,1
+Urban Retreat,Phoenix,AZ,PHX,4.2,AZA,6.6,SDL,46.2,171.08,Quick Ride,Regional Medical Center,PHX,9,AZA,19.6,SDL,14.5
+Garden Court Hotel,Phoenix,AZ,PHX,5.5,AZA,11.4,SDL,7.7,157.56,City Cab,General Hospital,PHX,8,AZA,15.9,SDL,23.1
+Ocean View Hotel,Phoenix,AZ,PHX,19.3,AZA,38.9,SDL,33.4,175.14,Speedy Taxi,Community Hospital,PHX,28.3,AZA,5.1,SDL,42.9
+Coastal Breeze Hotel,Phoenix,AZ,PHX,47,AZA,30.1,SDL,45,162.65,Town Car Service,City Health Clinic,PHX,43.7,AZA,46.3,SDL,14.7
+Riverfront Hotel,Phoenix,AZ,PHX,12.7,AZA,28,SDL,26.8,239.52,Urban Cabs,Southern Health Clinic,PHX,40.8,AZA,27.3,SDL,16.7
+Riverfront Hotel,Phoenix,AZ,PHX,32.2,AZA,42.4,SDL,1.3,224,Town Car Service,Central Clinic,PHX,35.3,AZA,20.5,SDL,36.3
+Harbor View Hotel,Phoenix,AZ,PHX,36.1,AZA,33.1,SDL,6.3,261.09,Express Cab,Coastal Health Center,PHX,43.8,AZA,32.6,SDL,30.5
+Riverfront Hotel,Phoenix,AZ,PHX,30.1,AZA,15.1,SDL,28.5,297.1,Liberty Taxi,Lakeside Medical Center,PHX,0.7,AZA,25.6,SDL,29.1
+Riverfront Hotel,Phoenix,AZ,PHX,5.1,AZA,37.5,SDL,49.8,260.45,Quick Ride,Harbor Hospital,PHX,49.9,AZA,38.4,SDL,41.2
+Pine Tree Inn,Phoenix,AZ,PHX,33,AZA,43.9,SDL,14.8,107.59,Speedy Taxi,Sunrise Hospital,PHX,48.1,AZA,25.1,SDL,46.3
+Riverfront Hotel,Phoenix,AZ,PHX,34.2,AZA,44,SDL,38.2,104.44,TopRide Taxi,Sunrise Hospital,PHX,0.8,AZA,38.7,SDL,40.7
+Capitol Stay,Phoenix,AZ,PHX,30.4,AZA,4.7,SDL,38.9,299.74,Green Cab,Pine Valley Hospital,PHX,27.5,AZA,18.2,SDL,26.3
+Emerald Isle Hotel,Phoenix,AZ,PHX,31.2,AZA,11.1,SDL,8.3,176.64,Metro Taxi,Urban Health Clinic,PHX,28.4,AZA,48.7,SDL,7
+Desert Resort,Phoenix,AZ,PHX,11.4,AZA,42.6,SDL,16.1,208.02,Town Car Service,Community Hospital,STL,27.6,CPS,5.4,BLV,22.2
+Broadway Hotel,Phoenix,AZ,PHX,47.8,AZA,4.7,SDL,18.6,278.25,Elite Taxi,Urban Health Clinic,STL,32.8,CPS,43.6,BLV,28.6
+Ocean View Hotel,Phoenix,AZ,PHX,35.9,AZA,45.5,SDL,5.7,135.95,Liberty Taxi,Main Street Medical Center,STL,13.7,CPS,46.5,BLV,38.9
+Grand Plaza,Phoenix,AZ,PHX,1.1,AZA,3.3,SDL,21.5,122.75,Best Taxi,Riverfront Medical Center,STL,24.8,CPS,44,BLV,18.8
+Capitol Stay,Phoenix,AZ,PHX,3,AZA,18.6,SDL,25.7,121.75,Eagle Taxi,Mountain View Hospital,STL,48.6,CPS,29.8,BLV,33.5
+Sapphire Hotel,Phoenix,AZ,PHX,19.5,AZA,12.8,SDL,39.3,261.75,Green Cab,Urban Health Clinic,STL,15.2,CPS,12.9,BLV,21.9
+Central Park Inn,Phoenix,AZ,PHX,14.2,AZA,48,SDL,27.8,192.52,Liberty Taxi,Downtown Medical Center,STL,21,CPS,48,BLV,4.3
+Lakeside Inn,Phoenix,AZ,PHX,48.3,AZA,39.1,SDL,29.4,283.77,Rapid Cab,Harbor Hospital,STL,39.1,CPS,29.1,BLV,16.3
+Riverfront Hotel,Phoenix,AZ,PHX,6.1,AZA,9.3,SDL,7.7,233.57,Liberty Taxi,City Health Clinic,STL,19.7,CPS,4.9,BLV,4.4
+Emerald Isle Hotel,Phoenix,AZ,PHX,23.6,AZA,33.4,SDL,30.3,137.56,BlueLine Taxi,City Health Clinic,STL,16.2,CPS,11.4,BLV,38.9
+Desert Resort,Phoenix,AZ,PHX,49.2,AZA,11.7,SDL,36.2,263.61,Royal Cab,Sunrise Hospital,STL,14.5,CPS,41.7,BLV,44.2
+Garden Court Hotel,Phoenix,AZ,PHX,0.9,AZA,34.6,SDL,30.8,170.67,TopRide Taxi,City Health Clinic,STL,33.3,CPS,26.1,BLV,22.5
+Golden Gate Hotel,Phoenix,AZ,PHX,48.2,AZA,18.5,SDL,27.7,127.9,BlueLine Taxi,Northside Hospital,STL,26.1,CPS,10,BLV,26.4
+Sapphire Hotel,Phoenix,AZ,PHX,46.7,AZA,48.8,SDL,28.6,191.61,Liberty Taxi,Community Hospital,STL,49.7,CPS,18.1,BLV,43.3
+Lakeside Inn,Phoenix,AZ,PHX,11.4,AZA,43.7,SDL,3.5,147.56,Best Taxi,Urban Health Clinic,STL,36.1,CPS,10.7,BLV,49.2
+Bay Area Hotel,St. Louis,MO,STL,43.8,CPS,34.4,BLV,15.5,256.9,Sunshine Taxi,Memorial Hospital,STL,2.6,CPS,6.8,BLV,24
+Broadway Hotel,St. Louis,MO,STL,36.6,CPS,49.4,BLV,34.7,291.85,Urban Cabs,Northside Hospital,STL,34.1,CPS,5.6,BLV,49.5
+Coastal Breeze Hotel,St. Louis,MO,STL,10.9,CPS,20.6,BLV,42.8,215.89,Golden Cab,City Health Clinic,STL,15.3,CPS,36.4,BLV,3.1
+Skyline Suites,St. Louis,MO,STL,11.8,CPS,48.6,BLV,41.7,260.8,Sunshine Taxi,Pine Valley Hospital,STL,38,CPS,19.3,BLV,42.6
+Crystal Waters Hotel,St. Louis,MO,STL,8.3,CPS,31.7,BLV,8,266.59,Town Car Service,Sunrise Hospital,STL,33,CPS,13.3,BLV,47.3
+Sapphire Hotel,St. Louis,MO,STL,21.2,CPS,40.2,BLV,27.6,170.56,Yellow Cab,Lakeside Medical Center,STL,20.7,CPS,13,BLV,17.2
+Broadway Hotel,St. Louis,MO,STL,6.7,CPS,24.2,BLV,31.4,267.64,Premier Rides,Memorial Hospital,STL,28.9,CPS,41.8,BLV,35.9
+Riverfront Hotel,St. Louis,MO,STL,47,CPS,38.9,BLV,48.6,246.85,First Choice Taxi,Green Valley Hospital,STL,6.8,CPS,31.6,BLV,7
+Maple Leaf Lodge,St. Louis,MO,STL,38.3,CPS,37.6,BLV,10.4,255.25,Speedy Taxi,West End Hospital,STL,27.2,CPS,16.2,BLV,16
+Desert Resort,St. Louis,MO,STL,37.2,CPS,43.2,BLV,12.6,255.83,Premier Rides,General Hospital,STL,32.5,CPS,39.4,BLV,36.3
+Urban Retreat,St. Louis,MO,STL,44.1,CPS,26.2,BLV,34.4,294.15,Eagle Taxi,Riverfront Medical Center,STL,4.7,CPS,31.3,BLV,17.1
+Riverfront Hotel,St. Louis,MO,STL,10.7,CPS,39.8,BLV,39.1,231.3,Urban Cabs,Urban Health Clinic,STL,22,CPS,37.2,BLV,38.8
+Capitol Stay,St. Louis,MO,STL,19.1,CPS,2.9,BLV,6.6,291.32,Express Cab,Regional Medical Center,STL,28,CPS,4.5,BLV,18.6
+Metro Inn,St. Louis,MO,STL,4.5,CPS,21.1,BLV,32.8,103.05,Green Cab,Riverfront Medical Center,STL,28.8,CPS,48.9,BLV,19.4
+Crystal Waters Hotel,St. Louis,MO,STL,35.3,CPS,1.5,BLV,39.4,125.47,Yellow Cab,Central Clinic,STL,13.8,CPS,40.2,BLV,32.9
+Riverfront Hotel,St. Louis,MO,STL,43.2,CPS,10.9,BLV,6.7,102.1,Green Cab,General Hospital,STL,15.8,CPS,29.9,BLV,8.9
+Coastal Breeze Hotel,St. Louis,MO,STL,32.3,CPS,11.8,BLV,18,188.81,Metro Taxi,Sunrise Hospital,STL,39.4,CPS,38,BLV,33.2
+Harbor View Hotel,St. Louis,MO,STL,11.7,CPS,48.6,BLV,35.6,165.63,Eagle Taxi,Memorial Hospital,STL,35,CPS,46.4,BLV,46.1
+Skyline Suites,St. Louis,MO,STL,19.3,CPS,2.4,BLV,15.8,155.58,Royal Cab,Urban Health Clinic,STL,30.2,CPS,40.1,BLV,37
+Broadway Hotel,St. Louis,MO,STL,22.6,CPS,20.1,BLV,5.7,263.9,BlueLine Taxi,City Health Clinic,STL,44.5,CPS,7.5,BLV,0.5
+Maple Leaf Lodge,St. Louis,MO,STL,8.3,CPS,50,BLV,27.3,214.29,Best Taxi,Valley Health Center,STL,5.1,CPS,27.9,BLV,27.3
+Skyline Suites,St. Louis,MO,STL,4.6,CPS,41.7,BLV,22.8,227.68,Urban Cabs,General Hospital,STL,12.1,CPS,3.4,BLV,30.1
+Grand Plaza,St. Louis,MO,STL,34.5,CPS,29.8,BLV,19.4,151.26,Comfort Ride,City Medical Center,STL,8.8,CPS,7.8,BLV,38.5
+Pine Tree Inn,St. Louis,MO,STL,35.8,CPS,29.4,BLV,6.6,178.43,Rapid Cab,Mountain View Hospital,STL,5.4,CPS,26.3,BLV,1.5
+Sunset Inn,St. Louis,MO,STL,20,CPS,49.9,BLV,14.5,240.32,Green Cab,Northeast Medical Center,STL,33.1,CPS,5.6,BLV,33.6
+Ocean View Hotel,St. Louis,MO,STL,35.6,CPS,10.7,BLV,26.6,294.06,Alpha Cab,Green Valley Hospital,STL,21.1,CPS,28.7,BLV,14.5
+Urban Retreat,St. Louis,MO,STL,41.2,CPS,27.7,BLV,46.4,258.65,Town Car Service,Urban Health Clinic,STL,11.5,CPS,49.8,BLV,30.3
+Grand Plaza,St. Louis,MO,STL,40.5,CPS,46.1,BLV,5,110.51,Liberty Taxi,General Hospital,STL,10.5,CPS,47.9,BLV,17.4
+Grand Plaza,St. Louis,MO,STL,4.9,CPS,46.2,BLV,14.3,234.89,Speedy Taxi,City Medical Center,STL,2.2,CPS,43.6,BLV,40.1
+Grand Plaza,St. Louis,MO,STL,39.8,CPS,8.8,BLV,49.9,239.99,City Cab,Community Hospital,STL,7.7,CPS,25.1,BLV,49.5
+Harbor View Hotel,St. Louis,MO,STL,43.2,CPS,38.7,BLV,24.1,126.65,Metro Taxi,Downtown Medical Center,STL,15.5,CPS,18.9,BLV,10.3
+Golden Gate Hotel,St. Louis,MO,STL,13.7,CPS,42.8,BLV,29.5,159.36,TopRide Taxi,Mountain View Hospital,STL,35,CPS,15.2,BLV,22.4
+Metro Inn,St. Louis,MO,STL,1.6,CPS,9.4,BLV,7.3,285.57,Town Car Service,Central Clinic,STL,44.9,CPS,14.4,BLV,42.2
+Pine Tree Inn,St. Louis,MO,STL,39.9,CPS,38.5,BLV,32.8,278.72,Town Car Service,St. Mary's Hospital,STL,27.2,CPS,39.6,BLV,10.7
+Riverfront Hotel,St. Louis,MO,STL,20.8,CPS,5.5,BLV,6.4,280.94,Urban Cabs,Coastal Health Center,STL,15.8,CPS,4.1,BLV,25
+Broadway Hotel,St. Louis,MO,STL,17.2,CPS,15.1,BLV,30.8,242.02,Golden Cab,Valley Health Center,STL,5.6,CPS,38.4,BLV,16.1
+Sunset Inn,St. Louis,MO,STL,5.5,CPS,25.7,BLV,48.9,131.44,Best Taxi,Eastside Medical Center,STL,36.7,CPS,44,BLV,8.4
+Sapphire Hotel,St. Louis,MO,STL,23.7,CPS,35.3,BLV,1.8,217.94,Eagle Taxi,Northside Hospital,STL,16,CPS,13.6,BLV,17.8
+Pine Tree Inn,St. Louis,MO,STL,33.8,CPS,29.5,BLV,24.7,154.57,Best Taxi,Community Hospital,STL,42,CPS,49.5,BLV,49.2
+Metro Inn,St. Louis,MO,STL,47.4,CPS,21.5,BLV,9.6,126.33,BlueLine Taxi,Lakeside Medical Center,STL,3.7,CPS,49.7,BLV,23
+Bay Area Hotel,St. Louis,MO,STL,24.5,CPS,7.5,BLV,25.4,109.37,Quick Ride,Central Clinic,STL,38.6,CPS,19.8,BLV,37.2
+Grand Plaza,St. Louis,MO,STL,20.6,CPS,46.4,BLV,20,263.5,Comfort Ride,Southern Health Clinic,STL,35.7,CPS,22,BLV,41.4
+Sapphire Hotel,St. Louis,MO,STL,18.9,CPS,3.4,BLV,29.8,277.92,City Cab,Eastside Medical Center,STL,32.5,CPS,35.9,BLV,19
+Mountain Peak Lodge,St. Louis,MO,STL,27.2,CPS,13.8,BLV,39,286.7,Star Taxi,Mountain View Hospital,STL,28.8,CPS,6,BLV,35
+Harbor View Hotel,St. Louis,MO,STL,30.8,CPS,0.6,BLV,2.2,165.62,Urban Cabs,City Health Clinic,STL,13.6,CPS,49.8,BLV,30.2
+Golden Gate Hotel,St. Louis,MO,STL,47.4,CPS,2.8,BLV,46.4,143.89,Quick Ride,Urban Health Clinic,STL,27.9,CPS,38.5,BLV,9.2
+Riverfront Hotel,St. Louis,MO,STL,5.1,CPS,7.6,BLV,4.2,156.25,Royal Cab,Sunrise Hospital,STL,44.2,CPS,27.6,BLV,22
+Emerald Isle Hotel,St. Louis,MO,STL,44.8,CPS,31.6,BLV,46.8,158.21,Golden Cab,Green Valley Hospital,STL,46.3,CPS,42.4,BLV,36.5
+Harbor View Hotel,St. Louis,MO,STL,34.2,CPS,2.3,BLV,49.5,240.21,Eagle Taxi,Eastside Medical Center,STL,22.5,CPS,42,BLV,20.8
+Sapphire Hotel,St. Louis,MO,STL,46.9,CPS,14.1,BLV,31.4,288.36,Royal Cab,Northside Hospital,STL,6.5,CPS,30.8,BLV,28.3
+City Center Lodge,St. Louis,MO,STL,3.6,CPS,14,BLV,8.1,296.7,Comfort Ride,City Medical Center,STL,12.4,CPS,35.8,BLV,41.2
+Riverfront Hotel,St. Louis,MO,STL,47.8,CPS,7.3,BLV,49.2,223.94,Urban Cabs,Memorial Hospital,STL,8.4,CPS,46.9,BLV,5.9
+Maple Leaf Lodge,St. Louis,MO,STL,42.5,CPS,20.9,BLV,44.2,242.3,Quick Ride,Northeast Medical Center,STL,10.6,CPS,15.2,BLV,34.5
+Maple Leaf Lodge,St. Louis,MO,STL,44.3,CPS,43.1,BLV,18.9,127.59,BlueLine Taxi,General Hospital,STL,30.9,CPS,42.6,BLV,26.3
+Ocean View Hotel,St. Louis,MO,STL,26.1,CPS,25.5,BLV,29.1,141.61,Royal Cab,Main Street Medical Center,STL,2,CPS,35.4,BLV,18.9
+Crystal Waters Hotel,St. Louis,MO,STL,49.9,CPS,4.5,BLV,30,152.76,Metro Taxi,Northside Hospital,STL,31.6,CPS,48.6,BLV,7
+Harbor View Hotel,St. Louis,MO,STL,6.1,CPS,2.3,BLV,35.7,121.98,Metro Taxi,St. Mary's Hospital,STL,22.2,CPS,48,BLV,9.2
+City Center Lodge,St. Louis,MO,STL,42.3,CPS,38.6,BLV,21.7,277,Metro Taxi,Riverfront Medical Center,STL,32.6,CPS,20,BLV,8.5
+Pine Tree Inn,St. Louis,MO,STL,14.6,CPS,8.2,BLV,36.8,229.77,Speedy Taxi,Riverfront Medical Center,STL,41,CPS,19.7,BLV,49.7
+Ocean View Hotel,St. Louis,MO,STL,45.9,CPS,1,BLV,47.3,132.48,Alpha Cab,Valley Health Center,STL,13.9,CPS,13.4,BLV,14.2
+Pine Tree Inn,St. Louis,MO,STL,44.4,CPS,22,BLV,4.8,141.98,Premier Rides,Northside Hospital,STL,17.4,CPS,13.7,BLV,39
+Mountain Peak Lodge,St. Louis,MO,STL,17.2,CPS,10.2,BLV,13.8,180.28,Green Cab,Lakeside Medical Center,STL,39.4,CPS,36.8,BLV,35.2
+Golden Gate Hotel,St. Louis,MO,STL,28,CPS,40.9,BLV,8.7,105.24,Metro Taxi,Mountain View Hospital,STL,18.2,CPS,3.8,BLV,18.6
+Lakeside Inn,St. Louis,MO,STL,48.8,CPS,9.5,BLV,40.7,271.02,First Choice Taxi,Memorial Hospital,STL,18.2,CPS,9.8,BLV,4.1
+Pine Tree Inn,St. Louis,MO,STL,30.4,CPS,33.5,BLV,35,282.76,Elite Taxi,General Hospital,STL,3.8,CPS,27.3,BLV,27.3
+Urban Retreat,St. Louis,MO,STL,40.6,CPS,43.1,BLV,18.8,245.62,Sunshine Taxi,St. Mary's Hospital,STL,7.9,CPS,6.9,BLV,15.5
+Metro Inn,St. Louis,MO,STL,44.9,CPS,44.9,BLV,36.6,228.42,Metro Taxi,City Medical Center,STL,10.6,CPS,8.6,BLV,18.4
+Broadway Hotel,St. Louis,MO,STL,41.1,CPS,1,BLV,14.3,214.4,City Cab,St. Mary's Hospital,STL,33.8,CPS,46.7,BLV,49.9
+Golden Gate Hotel,St. Louis,MO,STL,22.6,CPS,2.6,BLV,18.3,169.02,Rapid Cab,Southern Health Clinic,STL,31.1,CPS,0.6,BLV,42.4
+Golden Gate Hotel,St. Louis,MO,STL,49.6,CPS,30,BLV,1.6,267.84,Green Cab,Main Street Medical Center,STL,40.1,CPS,18.1,BLV,14.9
+Metro Inn,St. Louis,MO,STL,40.7,CPS,4.7,BLV,24,278.42,Comfort Ride,Urban Health Clinic,STL,45.2,CPS,45.3,BLV,13.7
+Urban Retreat,St. Louis,MO,STL,13.4,CPS,34.6,BLV,32.4,202.65,Best Taxi,Riverfront Medical Center,STL,6.8,CPS,24.5,BLV,11.6
+Golden Gate Hotel,St. Louis,MO,STL,21.7,CPS,16.8,BLV,36.8,152.17,Metro Taxi,Northside Hospital,STL,2.1,CPS,6.3,BLV,42
+Capitol Stay,St. Louis,MO,STL,33.7,CPS,27,BLV,43.4,196.36,Metro Taxi,Downtown Medical Center,STL,28.9,CPS,38.6,BLV,19.9
+Crystal Waters Hotel,St. Louis,MO,STL,7.4,CPS,49.9,BLV,18.5,120.67,Quick Ride,Lakeside Medical Center,STL,32.5,CPS,23.6,BLV,27.2
+Urban Retreat,St. Louis,MO,STL,32.2,CPS,4.2,BLV,7.7,275.67,BlueLine Taxi,Central Clinic,STL,19.5,CPS,8.5,BLV,36.9
+Coastal Breeze Hotel,St. Louis,MO,STL,28.9,CPS,21.9,BLV,14.2,142.71,Quick Ride,Urban Health Clinic,STL,33.2,CPS,10,BLV,30.9
+Lakeside Inn,St. Louis,MO,STL,22.3,CPS,40.8,BLV,36.7,199.25,TopRide Taxi,Coastal Health Center,STL,8.6,CPS,11.2,BLV,3.3
+Sapphire Hotel,St. Louis,MO,STL,28.4,CPS,18.9,BLV,20,225.46,Green Cab,Downtown Medical Center,STL,9.8,CPS,29.1,BLV,48.9
+Lakeside Inn,St. Louis,MO,STL,35.8,CPS,47,BLV,42.4,105.12,City Cab,General Hospital,STL,9.6,CPS,19,BLV,18.2
+Riverfront Hotel,St. Louis,MO,STL,21.3,CPS,13.4,BLV,45.9,188.51,Elite Taxi,Sunrise Hospital,STL,30.1,CPS,31.9,BLV,18.1
+Metro Inn,St. Louis,MO,STL,39.7,CPS,3.5,BLV,22.2,205.79,Royal Cab,City Health Clinic,STL,5.3,CPS,26,BLV,3.6
+Golden Gate Hotel,St. Louis,MO,STL,13,CPS,46.9,BLV,3.8,213.98,Rapid Cab,Eastside Medical Center,STL,43.5,CPS,49.7,BLV,29.2
+Metro Inn,St. Louis,MO,STL,12.9,CPS,39.8,BLV,12.1,235.63,City Cab,Riverfront Medical Center,STL,39.1,CPS,22.1,BLV,40.3
+City Center Lodge,St. Louis,MO,STL,14.8,CPS,39.8,BLV,9.8,235.62,Star Taxi,Sunrise Hospital,STL,0.9,CPS,4.5,BLV,19.5
+Ocean View Hotel,St. Louis,MO,STL,5.4,CPS,17.7,BLV,46.2,217.73,Star Taxi,General Hospital,STL,12.2,CPS,30.1,BLV,41.9
+Skyline Suites,St. Louis,MO,STL,20.6,CPS,37.7,BLV,42.8,260.05,Comfort Ride,Harbor Hospital,STL,20.1,CPS,9.4,BLV,45.2
+Skyline Suites,St. Louis,MO,STL,49.3,CPS,28.8,BLV,16.5,155.31,Best Taxi,West End Hospital,STL,29.3,CPS,38.2,BLV,15.6
+Sapphire Hotel,St. Louis,MO,STL,49,CPS,46.9,BLV,22.8,121.51,Quick Ride,Southern Health Clinic,STL,45.8,CPS,18.7,BLV,8.1
+Metro Inn,St. Louis,MO,STL,31.3,CPS,46.1,BLV,14.9,297.44,Alpha Cab,Harbor Hospital,STL,25,CPS,3.3,BLV,12.5
+Lakeside Inn,St. Louis,MO,STL,19.3,CPS,45.1,BLV,19.2,205.59,Liberty Taxi,Northside Hospital,STL,42.4,CPS,45.8,BLV,14.3
